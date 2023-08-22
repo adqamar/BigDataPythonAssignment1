@@ -1,0 +1,242 @@
+
+
+1. Download Vehicle Sales Data:
+   Download the CSV data from the provided link and save it as `sales_order_data.csv`.
+
+2. Store Raw Data in HDFS:
+   Use the `hadoop fs -put` command to copy the CSV file to an HDFS location, such as `/user/your_username/raw_data/`.
+ans- To store the CSV file in HDFS using the `hadoop fs -put` command, follow these steps:
+
+1. Make sure you have Hadoop installed and properly configured on your system.
+
+2. Open a terminal or command prompt on your machine.
+
+3. Navigate to the directory where the `sales_order_data.csv` file is located.
+
+4. Use the `hadoop fs -put` command to copy the CSV file to the desired HDFS location. Replace `your_username` with your actual username:
+
+```bash
+hadoop fs -put sales_order_data.csv /user/your_username/raw_data/
+```
+
+This command will copy the `sales_order_data.csv` file from your local filesystem to the `/user/your_username/raw_data/` directory in HDFS.
+
+5. You can verify that the file has been successfully copied by running:
+
+```bash
+hadoop fs -ls /user/your_username/raw_data/
+```
+
+This command will list the contents of the `/user/your_username/raw_data/` directory in HDFS, and you should see the `sales_order_data.csv` file listed.
+
+Remember to replace `your_username` with your actual username and adjust the HDFS path if needed according to your Hadoop configuration.
+
+
+3. Create Internal Hive Table for CSV Data:
+   Connect to Hive using the Hive CLI or Beeline and execute the following SQL query to create the internal table while skipping the header row:
+
+   ```sql
+   CREATE TABLE sales_order_csv (
+       order_date STRING,
+       product STRING,
+       quantity INT,
+       price DOUBLE,
+       country STRING,
+       city STRING
+   )
+   ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+   STORED AS TEXTFILE
+   TBLPROPERTIES ('skip.header.line.count' = '1');
+   ```
+   ans- To create an internal Hive table for the CSV data using either the Hive CLI or Beeline, follow these steps:
+
+1. Open a terminal or command prompt.
+
+2. Connect to Hive using either the Hive CLI or Beeline. Replace `hive_username` with your Hive username, `hive_password` with your password, and `hive_server` with your Hive server's hostname or IP address.
+
+   Using Hive CLI:
+   ```bash
+   hive -u hive_username -p hive_password -h hive_server
+   ```
+
+   Using Beeline:
+   ```bash
+   beeline -u jdbc:hive2://hive_server:10000 -n hive_username -p hive_password
+   ```
+
+3. Once connected to Hive, execute the provided SQL query to create the internal table. This table will read the CSV data and skip the header row:
+
+   ```sql
+   CREATE TABLE sales_order_csv (
+       order_date STRING,
+       product STRING,
+       quantity INT,
+       price DOUBLE,
+       country STRING,
+       city STRING
+   )
+   ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+   STORED AS TEXTFILE
+   TBLPROPERTIES ('skip.header.line.count' = '1');
+   ```
+
+4. After executing the query, the internal Hive table named `sales_order_csv` will be created. It will have the specified column names and types corresponding to the columns in your CSV data. The `OpenCSVSerde` serde is used to handle CSV data, and the table property `skip.header.line.count` is set to skip the first line (header) of the CSV file.
+
+5. You can now use the `sales_order_csv` table to run SQL queries on your CSV data as if it were a regular database table in Hive.
+
+Remember to replace placeholders like `hive_username`, `hive_password`, and `hive_server` with your actual Hive credentials and server information. If you encounter any issues during the process, refer to the Hive documentation or seek assistance from your system administrator.
+
+4. Load Data into sales_order_csv:
+   Load the data from HDFS into the `sales_order_csv` table:
+
+   ```sql
+   LOAD DATA INPATH '/user/your_username/raw_data/sales_order_data.csv' INTO TABLE sales_order_csv;
+   ```
+ans- To load the data from HDFS into the `sales_order_csv` table in Hive, follow these steps:
+
+1. Make sure you are still connected to Hive using either the Hive CLI or Beeline.
+
+2. Execute the following SQL query to load the data from HDFS into the `sales_order_csv` table. Replace `your_username` with your actual username:
+
+   ```sql
+   LOAD DATA INPATH '/user/your_username/raw_data/sales_order_data.csv' INTO TABLE sales_order_csv;
+   ```
+
+This query instructs Hive to load the data from the specified HDFS path (`/user/your_username/raw_data/sales_order_data.csv`) into the `sales_order_csv` table that you previously created.
+
+3. After executing the query, Hive will read the data from the CSV file located in HDFS and populate the `sales_order_csv` table with the contents of the file.
+
+4. You can verify that the data has been successfully loaded by running a simple query, such as:
+
+   ```sql
+   SELECT * FROM sales_order_csv LIMIT 10;
+   ```
+
+This query will retrieve the first 10 rows from the `sales_order_csv` table.
+
+Please remember to replace `your_username` with your actual username and adjust the HDFS path if needed according to your Hadoop configuration.
+
+If you encounter any errors or issues during the data loading process, make sure to check the paths, permissions, and configurations to ensure everything is set up correctly.
+5. Create Internal Hive Table for ORC Data:
+   Now, create an internal table to store the data in ORC format:
+
+  ans-Here's the SQL query to create an internal Hive table named `sales_order_orc` to store data in ORC format:
+
+```sql
+CREATE TABLE sales_order_orc (
+    order_date STRING,
+    product STRING,
+    quantity INT,
+    price DOUBLE,
+    country STRING,
+    city STRING
+)
+STORED AS ORC;
+```
+
+This query creates a new Hive table called `sales_order_orc` with the same column structure as the previous `sales_order_csv` table. However, this time the data will be stored in ORC (Optimized Row Columnar) format, which provides better compression and query performance compared to plain text formats like CSV.
+
+After creating the table, you can use the `INSERT INTO` statement to load data from the `sales_order_csv` table into the newly created `sales_order_orc` table, as shown in a previous response. This will convert the data from CSV format to ORC format and store it in the new table.
+
+6.Load Data into sales_order_orc:
+   Load the data from the `sales_order_csv` table into the `sales_order_orc` table:
+
+   ```sql
+   INSERT INTO TABLE sales_order_orc SELECT * FROM sales_order_csv;
+   ```
+   ans-To load data from the `sales_order_csv` table into the `sales_order_orc` table using the ORC format in Hive, follow these steps:
+
+1. Make sure we are still connected to Hive using either the Hive CLI or Beeline.
+
+2. Execute the following SQL query to insert data from the `sales_order_csv` table into the `sales_order_orc` table:
+
+   ```sql
+   INSERT INTO TABLE sales_order_orc SELECT * FROM sales_order_csv;
+   ```
+
+This query reads all the rows from the `sales_order_csv` table and inserts them into the `sales_order_orc` table. The data will be converted into the ORC format during the insertion.
+
+3. After executing the query, the data from the `sales_order_csv` table will be loaded into the `sales_order_orc` table in ORC format.
+
+4. we can verify that the data has been successfully loaded by running a simple query, such as:
+
+   ```sql
+   SELECT * FROM sales_order_orc LIMIT 10;
+   ```
+
+This query will retrieve the first 10 rows from the `sales_order_orc` table.
+
+Using ORC format can provide performance benefits for queries and storage efficiency in Hive due to its columnar storage and compression capabilities.
+
+Please note that both the `sales_order_csv` and `sales_order_orc` tables need to have the same structure (columns) for this query to work properly. If you encounter any issues during the data loading process, ensure that the table structures match and that the data is compatible with the ORC format.
+
+If you face any errors or challenges, double-check the syntax, table structures, and configurations to ensure everything is set up correctly.
+
+7. Perform Queries on sales_order_orc:
+  ans-  you can perform the requested queries on the `sales_order_orc` table:
+
+   a. Total sales per year:
+   ```sql
+   SELECT SUBSTRING(order_date, 1, 4) AS year, SUM(quantity * price) AS total_sales
+   FROM sales_order_orc
+   GROUP BY SUBSTRING(order_date, 1, 4)
+   ORDER BY year;
+
+   b. Product with maximum orders:
+   ```sql
+   SELECT product, SUM(quantity) AS total_orders
+   FROM sales_order_orc
+   GROUP BY product
+   ORDER BY total_orders DESC
+   LIMIT 1;
+   ```
+
+   c. Total sales for each quarter:
+   ```sql
+   SELECT CONCAT(SUBSTRING(order_date, 1, 4), '-', LPAD(FLOOR((CAST(SUBSTRING(order_date, 6, 2) AS INT) - 1) / 3) + 1, 2, '0')) AS quarter, SUM(quantity * price) AS total_sales
+   FROM sales_order_orc
+   GROUP BY CONCAT(SUBSTRING(order_date, 1, 4), '-', LPAD(FLOOR((CAST(SUBSTRING(order_date, 6, 2) AS INT) - 1) / 3) + 1, 2, '0'))
+   ORDER BY quarter;
+   ```
+
+   d. Quarter with minimum sales:
+   ```sql
+   SELECT quarter, MIN(total_sales) AS min_sales
+   FROM (
+       SELECT CONCAT(SUBSTRING(order_date, 1, 4), '-', LPAD(FLOOR((CAST(SUBSTRING(order_date, 6, 2) AS INT) - 1) / 3) + 1, 2, '0')) AS quarter, SUM(quantity * price) AS total_sales
+       FROM sales_order_orc
+       GROUP BY CONCAT(SUBSTRING(order_date, 1, 4), '-', LPAD(FLOOR((CAST(SUBSTRING(order_date, 6, 2) AS INT) - 1) / 3) + 1, 2, '0'))
+   ) quarterly_sales
+   GROUP BY quarter
+   ORDER BY min_sales;
+   ```
+
+   e. Country with maximum and minimum sales:
+   ```sql
+   SELECT country, SUM(quantity * price) AS total_sales
+   FROM sales_order_orc
+   GROUP BY country
+   ORDER BY total_sales DESC LIMIT 1;
+   
+   SELECT country, SUM(quantity * price) AS total_sales
+   FROM sales_order_orc
+   GROUP BY country
+   ORDER BY total_sales ASC LIMIT 1;
+   ```
+
+   f. Quarterly sales for each city:
+   ```sql
+   SELECT city, CONCAT(SUBSTRING(order_date, 1, 4), '-', LPAD(FLOOR((CAST(SUBSTRING(order_date, 6, 2) AS INT) - 1) / 3) + 1, 2, '0')) AS quarter, SUM(quantity * price) AS total_sales
+   FROM sales_order_orc
+   GROUP BY city, CONCAT(SUBSTRING(order_date, 1, 4), '-', LPAD(FLOOR((CAST(SUBSTRING(order_date, 6, 2) AS INT) - 1) / 3) + 1, 2, '0'))
+   ORDER BY city, quarter;
+   ```
+
+   h. Month with maximum quantities sold for each year:
+   ```sql
+   SELECT SUBSTRING(order_date, 1, 4) AS year, CAST(SUBSTRING(order_date, 6, 2) AS INT) AS month, SUM(quantity) AS total_quantity
+   FROM sales_order_orc
+   GROUP BY SUBSTRING(order_date, 1, 4), CAST(SUBSTRING(order_date, 6, 2) AS INT)
+   ORDER BY year, total_quantity DESC;
+   ```
+
