@@ -1,0 +1,315 @@
+1.) MySQL Table (Table should have some column like created_at or updated_at so that can be used for incremental read)
+ANS1-Step 1: Create MySQL Table
+
+sql
+CREATE TABLE my_table (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    data JSON,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+2.) Write a python script which is running in infinite loop and inserting 4-5 dummy/dynamically prepared records
+    in MySQL Table
+ANS2-  python script which is running in infinite loop and inserting 4-5 dummy/dynamically prepared records
+    in MySQL Table-
+import mysql.connector
+import json
+import time
+
+# Connect to MySQL
+db_connection = mysql.connector.connect(
+    host="localhost",
+    user="your_username",
+    password="your_password",
+    database="your_database"
+)
+cursor = db_connection.cursor()
+
+while True:
+    data = [
+        {"field1": "value1", "field2": "value2"},
+        {"field1": "value3", "field2": "value4"},
+        # Add more records as needed
+    ]
+    
+    for record in data:
+        insert_query = "INSERT INTO my_table (data) VALUES (%s)"
+        cursor.execute(insert_query, (json.dumps(record),))
+    
+    db_connection.commit()
+    time.sleep(60)  # Wait for 1 minute
+
+3.) Setup Confluent Kafka
+ANS3-Setting up Confluent Kafka involves several steps, and the exact process might vary depending on your operating system and environment. Here, I'll provide a general guide to help you get started with setting up Confluent Kafka on a Linux-based system. Make sure to refer to the official documentation for the most up-to-date instructions.
+
+Note: Confluent Platform includes additional tools and features beyond Apache Kafka. If you only need Kafka, you can also install Apache Kafka directly.
+
+1. Prerequisites:
+   - Java 8 or later: Kafka requires Java to run. Install Java on your machine.
+   - ZooKeeper: Kafka uses ZooKeeper to manage its cluster state. You can either install ZooKeeper separately or use the built-in one provided by Kafka.
+
+2. Download and Extract Confluent Platform:
+   - Go to the [Confluent Platform download page](https://www.confluent.io/download) and select the version you want to use.
+   - Download the Confluent Platform archive and extract it to your desired location.
+
+3. Configure ZooKeeper:
+   - If you're using the built-in ZooKeeper that comes with Kafka, you need to configure it. The configuration file is located in `confluent-<version>/etc/kafka/zookeeper.properties`.
+   - Set the data directory, server port, and other settings as needed.
+
+4. Configure Kafka:
+   - Kafka's configuration file is located in `confluent-<version>/etc/kafka/server.properties`.
+   - Set the broker id, listener settings, log directories, and other configurations based on your environment.
+
+5. Start ZooKeeper and Kafka:
+   - Open two terminal windows.
+   - In the first terminal, navigate to your Kafka directory and start ZooKeeper:  
+     ```
+     ./bin/zookeeper-server-start ./etc/kafka/zookeeper.properties
+     ```
+   - In the second terminal, start Kafka:  
+     ```
+     ./bin/kafka-server-start ./etc/kafka/server.properties
+     ```
+
+4.) Create Topic
+ANS4-Create a Kafka Topic:
+
+Open a new terminal.
+Navigate to your Kafka directory and use the kafka-topics tool to create a topic:
+./bin/kafka-topics --create --topic my-topic --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+
+5.) Create json schema on schema registry (depends on what kind of data you are publishing in mysql table)
+ANS5-Creating a JSON schema in Confluent Schema Registry involves defining the structure of the data you'll be publishing to your Kafka topic. The schema helps ensure data compatibility and consistency among producers and consumers. Here's how you can create a JSON schema in Schema Registry:
+
+1. Schema Definition:
+   Define the JSON schema for the data you'll be publishing from your MySQL table. Let's assume you're publishing user events, and each event has an `id`, `event_type`, `timestamp`, and `data` field. You can define the schema like this:
+
+   ```json
+   {
+     "type": "record",
+     "name": "UserEvent",
+     "namespace": "com.example",
+     "fields": [
+       { "name": "id", "type": "int" },
+       { "name": "event_type", "type": "string" },
+       { "name": "timestamp", "type": "string" },
+       { "name": "data", "type": "string" }
+     ]
+   }
+   ```
+
+2. Register Schema:
+   Once you have your schema definition, you'll need to register it with the Schema Registry. This can be done using the Confluent Schema Registry's REST API or command-line tools. Here's how you might do it using the `curl` command:
+
+   ```sh
+   curl -X POST -H "Content-Type: application/vnd.schemaregistry.v1+json" \
+     --data '{"schema": "{\"type\":\"record\",\"name\":\"UserEvent\",\"namespace\":\"com.example\",\"fields\":[{\"name\":\"id\",\"type\":\"int\"},{\"name\":\"event_type\",\"type\":\"string\"},{\"name\":\"timestamp\",\"type\":\"string\"},{\"name\":\"data\",\"type\":\"string\"}]}"}' \
+     http://localhost:8081/subjects/user-event-value/versions
+   ```
+
+   Replace `http://localhost:8081` with the actual URL of your Schema Registry instance.
+
+3. Schema Evolution:
+   As your data evolves, you might need to make changes to your schema while ensuring backward compatibility. Schema Registry supports schema evolution to handle these changes gracefully. Make sure to follow compatibility guidelines and update your schema accordingly.
+
+4. Schema Compatibility:
+   When creating or evolving schemas, consider compatibility rules to ensure that new schemas are compatible with existing ones. Confluent Schema Registry supports compatibility checks for different types of changes, such as backward, forward, and full compatibility.
+
+By registering your schema with Schema Registry, you can ensure that producers and consumers are aligned with the data structure and that you maintain a history of schema versions.
+
+Keep in mind that the actual schema definition will depend on your data structure and requirements. The example provided above is a simple illustration. You might have more complex structures or nested fields that require a more detailed schema definition.
+6.) Write a producer code which will read the data from MySQL table incrementally (hint : use and maintain create_at column)
+ANS6-Here's an example of how you could write a Kafka producer code in Python that reads data from a MySQL table incrementally using the `created_at` column as a basis for incremental retrieval. We'll use the `mysql-connector-python` library for database interaction and the `confluent-kafka` library for producing messages to a Kafka topic.
+
+```python
+from confluent_kafka import Producer
+import mysql.connector
+import json
+import time
+
+def fetch_data_from_mysql(last_processed_timestamp):
+    db_connection = mysql.connector.connect(
+        host="localhost",
+        user="your_username",
+        password="your_password",
+        database="your_database"
+    )
+    cursor = db_connection.cursor()
+    query = "SELECT id, data, created_at FROM my_table WHERE created_at > %s ORDER BY created_at ASC"
+    cursor.execute(query, (last_processed_timestamp,))
+    records = cursor.fetchall()
+    return records
+
+conf = {
+    "bootstrap.servers": "localhost:9092",  # Kafka broker address
+    "client.id": "python-producer"
+}
+
+producer = Producer(conf)
+
+last_processed_timestamp = "2000-01-01 00:00:00"  # Initial timestamp for fetching records
+
+while True:
+    records = fetch_data_from_mysql(last_processed_timestamp)
+    for record in records:
+        key = str(record[0])
+        value = record[1]
+        producer.produce("your_topic_name", key=key, value=value)
+        last_processed_timestamp = record[2]  # Update the last processed timestamp
+    
+    producer.flush()
+    time.sleep(60)  # Wait for 1 minute
+```
+
+Please note to replace the placeholders (`your_username`, `your_password`, `your_database`, `your_topic_name`) with your actual MySQL and Kafka configurations. In this code, we're using the `fetch_data_from_mysql` function to retrieve records from the MySQL table incrementally based on the `created_at` timestamp. The producer then sends these records to the Kafka topic.
+
+Keep in mind that this is a basic example, and we might need to adapt the code to handle error cases, improve efficiency, and handle edge cases related to database and Kafka interactions.
+7.) Producer will publish data in Kafka Topic
+ANS7- Here's an example of a Kafka producer code in Python that reads data from a MySQL table incrementally based on the `created_at` column and publishes it to a Kafka topic using the `confluent-kafka` library:
+
+```python
+from confluent_kafka import Producer
+import mysql.connector
+import json
+import time
+
+def fetch_data_from_mysql(last_processed_timestamp):
+    db_connection = mysql.connector.connect(
+        host="localhost",
+        user="your_username",
+        password="your_password",
+        database="your_database"
+    )
+    cursor = db_connection.cursor()
+    query = "SELECT id, data, created_at FROM my_table WHERE created_at > %s ORDER BY created_at ASC"
+    cursor.execute(query, (last_processed_timestamp,))
+    records = cursor.fetchall()
+    return records
+
+conf = {
+    "bootstrap.servers": "localhost:9092",  # Kafka broker address
+    "client.id": "python-producer"
+}
+
+producer = Producer(conf)
+
+last_processed_timestamp = "2000-01-01 00:00:00"  # Initial timestamp for fetching records
+
+while True:
+    records = fetch_data_from_mysql(last_processed_timestamp)
+    for record in records:
+        key = str(record[0])
+        value = record[1]
+        producer.produce("your_topic_name", key=key, value=value)
+        last_processed_timestamp = record[2]  # Update the last processed timestamp
+    
+    producer.flush()
+    time.sleep(60)  # Wait for 1 minute
+```
+
+In this code, make sure to replace placeholders (`your_username`, `your_password`, `your_database`, `your_topic_name`) with your actual MySQL and Kafka configurations. The producer uses the `fetch_data_from_mysql` function to fetch records incrementally based on the `created_at` timestamp and then publishes each record to the specified Kafka topic using the Kafka producer.
+
+Remember that this is a basic example. Depending on use case, might need to handle errors, optimize the fetching process, and consider data serialization and error handling when producing messages to Kafka.
+8.) Write consumer group to consume data from Kafka topic
+ANS8-Here's an example of a Kafka consumer code in Python using the `confluent-kafka` library. This consumer code demonstrates how to consume messages from a Kafka topic within a consumer group and process the consumed messages:
+
+```python
+from confluent_kafka import Consumer, KafkaError
+
+conf = {
+    "bootstrap.servers": "localhost:9092",  # Kafka broker address
+    "group.id": "my-consumer-group",  # Consumer group ID
+    "auto.offset.reset": "earliest"  # Start consuming from the beginning of the topic
+}
+
+consumer = Consumer(conf)
+consumer.subscribe(["your_topic_name"])  # Subscribe to the desired Kafka topic
+
+while True:
+    msg = consumer.poll(1.0)  # Poll for messages with a timeout of 1 second
+
+    if msg is None:
+        continue
+    if msg.error():
+        if msg.error().code() == KafkaError._PARTITION_EOF:
+            continue
+        else:
+            print(msg.error())
+            break
+
+    # Process the consumed message
+    key = msg.key()
+    value = msg.value()
+    print(f"Received message - Key: {key}, Value: {value}")
+
+consumer.close()
+```
+
+In this code, replace the placeholder `your_topic_name` with the actual name of the Kafka topic we want to consume from. The consumer subscribes to the specified topic and starts consuming messages. It uses a consumer group named `my-consumer-group` to enable parallel processing of messages by multiple consumers within the same group.
+
+Here's how the code works:
+- The consumer periodically polls for new messages from the Kafka topic.
+- If a message is received, it's processed. You can customize the processing logic within the message processing block.
+- If there are no messages or if there's an error, the code handles it accordingly.
+
+Remember to handle message processing, error handling, and any necessary business logic specific to your use case within the message processing block.
+
+Additionally, note that this code is a basic example and doesn't include advanced features like message acknowledgment or more complex processing scenarios. Depending on the requirements, we might need to extend the code to handle different scenarios and error cases.
+9.) In Kafka consumer code do some changes or transformation for each record and write it in Cassandra table
+ANS9-Here's an example of a Kafka consumer code in Python that consumes messages from a Kafka topic, performs changes or transformations on each record, and then writes the transformed data into a Cassandra table using the `cassandra-driver` library:
+
+```python
+from confluent_kafka import Consumer, KafkaError
+from cassandra.cluster import Cluster
+from cassandra.query import SimpleStatement
+
+conf = {
+    "bootstrap.servers": "localhost:9092",  # Kafka broker address
+    "group.id": "my-consumer-group",  # Consumer group ID
+    "auto.offset.reset": "earliest"  # Start consuming from the beginning of the topic
+}
+
+consumer = Consumer(conf)
+consumer.subscribe(["your_topic_name"])  # Subscribe to the Kafka topic
+
+# Cassandra connection setup
+cluster = Cluster(['localhost'])  # Cassandra cluster contact point(s)
+session = cluster.connect('your_keyspace_name')  # Replace with your keyspace name
+
+while True:
+    msg = consumer.poll(1.0)  # Poll for messages with a timeout of 1 second
+
+    if msg is None:
+        continue
+    if msg.error():
+        if msg.error().code() == KafkaError._PARTITION_EOF:
+            continue
+        else:
+            print(msg.error())
+            break
+
+    # Process the consumed message
+    key = msg.key()
+    value = msg.value()
+
+    # Example transformation: Change the 'data' field to uppercase
+    transformed_data = value.upper()
+
+    # Insert the transformed data into a Cassandra table
+    insert_query = "INSERT INTO your_table_name (id, transformed_data) VALUES (%s, %s)"
+    statement = SimpleStatement(insert_query, consistency_level=2)
+    session.execute(statement, (key, transformed_data))
+
+consumer.close()
+```
+
+In this code:
+- Replace `your_topic_name` with the actual name of the Kafka topic you want to consume from.
+- Replace `your_keyspace_name` with the name of your Cassandra keyspace.
+- Replace `your_table_name` with the name of the Cassandra table where you want to write the transformed data.
+
+In the example transformation section, I've demonstrated how we might change the "data" field to uppercase. You can adjust this transformation to match your specific requirements.
+
+Please ensure that we have the `cassandra-driver` library installed (`pip install cassandra-driver`) and that our Cassandra cluster is running and reachable.
+
+As always, we need to keep in mind that this example provides a simplified outline, and we might need to adapt and expand the code based on your use case, error handling, performance considerations, and any additional transformations you need to apply to our data.
