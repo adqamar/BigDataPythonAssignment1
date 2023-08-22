@@ -1,0 +1,215 @@
+
+Scenario I In this scenario, we are interested in modeling student enrollment in Stanford courses. We would like to
+answer questions such as:
+• Which courses are most popular? Which instructors are most popular?
+• Which courses are most popular among graduate students? Undergraduates? • Are there courses for which the
+assigned classrooms is too large or too small?
+We are planning to have a course enrollment fact table with the grain of one row per student per course enrollment.
+In other words, if a student enrolls in 5 courses there will be 5 rows for that student in the fact table. We will use the
+following dimensions: Course, Department, Student, Term, Classroom, and Instructor. There will be a single fact
+measurement column, EnrollmentCount. Its value will always be equal to 1.
+We are considering several options for dealing with the Instructor dimension. Interesting attributes of instructors
+include FirstName, LastName, Title (e.g. Assistant Professor), Department, and TenuredFlag. The difficulty is that a
+few courses (less than 5%) have multiple instructors. Thus it appears we cannot include the Instructor dimension in
+the fact table because it doesn’t match the intended grain. Here are the options under consideration:
+OptionA
+Option B
+Option C
+ModifytheInstructordimensionbyaddingspecialrowsrepresentinginstructorteams.Forexample,CS276ais taught by
+Manning and Raghavan, so there will be an Instructor row representing “Manning/Raghavan” (as well as separate
+rows for Manning and Raghavan, assuming that they sometimes teach courses as sole instructors). In this way, the
+Instructor dimension becomes true to the grain and we can include it in the fact table.
+Change the grain of the fact table to be one row per student enrollment per course per instructor. For example, there
+will be two fact rows for each student enrolled in CS 276a, one that points to Manning as an instructor and one that
+points to Raghavan. However, each of the two rows will have a value of 0.5 in the EnrollmentCount field instead of
+a value of 1, in order to allow the fact to aggregate properly. (Enrollments are “allocated” equally among the
+multiple instructors.)
+Create two fact tables. The first has the grain of one row per student enrollment per course and doesn’t include the
+Instructor dimension. The second has the grain of one row per student enrollment per course per instructor and
+includes the Instructor dimension (as well as all the other dimensions). Unlike Option B, the value of
+
+EnrollmentCount will be 1 for all rows in the second fact. Tell warehouse users to use the second fact table for
+queries involving attributes of the instructor dimension and the first fact table for all other queries.
+Please answer the following questions.
+
+question1.what are the strenghts ans weaknesses of each option?
+ans-Strengths:
+
+Instructor information is accurate and aligned with the intended grain of the fact table.
+No need to change the grain of the fact table.
+Instructor teams are represented in a straightforward manner.
+Weaknesses:
+
+May lead to an increase in the number of rows in the Instructor dimension due to instructor teams.
+Queries involving instructor attributes might be more complex when dealing with instructor teams.
+Some instructors may still need separate entries for courses they teach individually.
+Option B: Change Fact Table Grain
+Strengths:
+
+Handles multiple instructors naturally by splitting enrollments equally.
+Fact table grain remains aligned with the actual data.
+Allows direct measurement of instructor involvement.
+Weaknesses:
+
+Requires changing the grain of the fact table, which might impact existing queries and reporting.
+EnrollmentCount values are fractional (0.5), which could cause confusion.
+Aggregation and reporting may become more complex due to fractional EnrollmentCount values.
+Option C: Two Fact Tables
+Strengths:
+
+Separates concerns by having one fact table for general queries and another for instructor-specific queries.
+Retains the original grain in the first fact table for most queries.
+Weaknesses:
+
+Requires maintaining two fact tables, which could lead to data redundancy and management complexity.
+Some queries may still require joining both fact tables, impacting query performance.
+Users need to be aware of which fact table to use for different types of queries.
+Question 2: Which option would you choose and why?
+
+ans-The choice depends on the priorities and trade-offs:
+
+Option A: Suitable when instructor teams are common, and accuracy in instructor representation is a priority. It maintains simplicity in dimension modeling and reduces complexity in queries.
+
+Option B: A good choice when equal distribution of enrollments among instructors is acceptable, and changing the fact table grain is feasible. It provides straightforward handling of multiple instructors.
+
+Option C: Useful when maintaining separate fact tables is acceptable, and distinct separation of queries is needed. This approach optimizes performance for different types of queries.
+
+Question 3: Would your answer to Question 2 be different if the majority of classes had multiple instructors? How about if only one or two classes had multiple instructors?
+
+ans-If the majority of classes had multiple instructors, Option A might become more appealing, as the need to represent instructor teams would be significant. This would maintain accurate instructor representation without causing excessive complexity in the Instructor dimension.
+
+If only a few classes had multiple instructors (one or two), Option B might still be viable. However, if instructor teams are rare, Option A or Option C could be more practical.
+
+Question 4: [OPTIONAL] Can you think of another reasonable alternative design besides Options A, B, and C? If so, what are the advantages and disadvantages of your alternative design?
+
+ans-Option D: Virtual Instructor Aggregation
+Create a separate aggregation table that represents instructor teams by combining multiple instructor names. Use this table for reporting and querying instructor-specific metrics.
+
+Advantages:
+
+Retains the original fact table grain.
+Simplifies queries involving instructors, even with instructor teams.
+Minimizes changes to the fact table and dimension structure.
+Disadvantages:
+
+Requires an additional aggregation table, which might introduce redundancy.
+Querying may still involve joining with the original fact table, impacting performance.
+Managing the aggregation table could require additional maintenance.
+Ultimately, the choice of option depends on factors such as the prevalence of instructor teams, the need for accurate representation, the willingness to change fact table grain, and the trade-offs in query performance and complexity.
+
+
+
+
+
+
+
+
+Scenario II In this scenario, we are building a data warehouse for an online brokerage company. The company
+makes money by charging commissions when customers buy and sell stocks. We are planning to have a Trades fact
+table with the grain of one row per stock trade. We will use the following dimensions: Date, Customer, Account,
+Security (i.e. which stock was traded), and TradeType.
+The company’s data analysts have told us that they have developed two customer scoring techniques that are used
+extensively in their analyses.
+· Each customer is placed into one of nine Customer Activity Segments based on their frequency of
+transactions, average transaction size, and recency of transactions.
+· EachcustomerisassignedaCustomerProfitabilityScorebasedontheprofitsearnedasaresultofthatcustomer’s
+trades. The score can be either 1,2,3,4, or 5, with 5 being the most profitable.
+These two scores are frequently used as filters or grouping attributes in queries. For example:
+· How many trades were placed in July by customers in each customer activity segment?
+· What was the total commission earned in each quarter of 2003 on trades of IBM stock by customers
+with a profitability score of 4 or 5?
+There are a total of 100,000 customers, and scores are recalculated every three months. The activity level or
+profitability level of some customers changes over time, and users are very interested in understanding how
+and why this occurs.
+We are considering several options for dealing with the customer scores:
+OptionA Option B Option C
+Option D
+ThescoresareattributesoftheCustomerdimension.Whenscoreschange,theoldscoreisoverwrittenwiththe new score
+(Type 1 Slowly Changing Dimension).
+
+The scores are attributes of the Customer dimension. When scores change, new Customer dimension rows are
+created using the updated scores (Type 2 Slowly Changing Dimension).
+The scores are stored in a separate CustomerScores dimension which contains 45 rows, one for each combi- nation
+of activity and profitability scores. The Trades fact table includes a foreign key to the CustomerScores dimension.
+The scores are stored in a CustomerScores outrigger table which contains 45 rows. The Customer dimension
+includes a foreign key to the outrigger table (but the fact table does not). When scores change, the foreign key
+column in the Customer table is updated to point to the correct outrigger row.
+Please answer the following questions.
+
+Question 5: What are the strengths and weaknesses of each option?
+
+ans-Option A: Customer Scores as Attributes (Type 1 Slowly Changing Dimension)
+Strengths:
+
+Simple and straightforward to implement.
+Saves space by updating the existing rows.
+Minimal impact on query performance for most cases.
+Weaknesses:
+
+Historical analysis is limited; only the current scores are available.
+Difficult to track changes in scores over time.
+Doesn't handle historical analysis of customer behavior effectively.
+Option B: Customer Scores as Attributes (Type 2 Slowly Changing Dimension)
+Strengths:
+
+Retains historical information by creating new rows for each score change.
+Provides a clear picture of how and why customer scores change over time.
+Allows for accurate historical analysis.
+Weaknesses:
+
+Increases data storage due to creating new rows for each change.
+Queries may be more complex and slower due to multiple rows for the same customer.
+Option C: CustomerScores Dimension with Foreign Key in Fact Table
+Strengths:
+
+Efficiently represents different combinations of activity and profitability scores.
+Fact table remains concise.
+Allows for straightforward filtering and grouping in queries involving scores.
+Weaknesses:
+
+Requires maintaining a separate dimension table.
+May require additional joins in some queries.
+Doesn't inherently capture the history of changes in scores.
+Option D: CustomerScores Outrigger Table
+Strengths:
+
+Provides an alternative way to associate scores with customers.
+Keeps the Customer dimension concise.
+May improve query performance by reducing joins in some cases.
+Weaknesses:
+
+More complex to implement and manage, as it involves maintaining a separate table.
+Doesn't fully address historical analysis needs.
+May lead to redundancy if other attributes of the Customer dimension are also subject to changes.
+Question 6: Which option would you choose and why?
+
+ans-Option B: Customer Scores as Attributes (Type 2 Slowly Changing Dimension)
+
+This option provides a comprehensive historical record of customer score changes, enabling the data analysts to understand how and why scores change over time. It allows for accurate historical analysis and supports the needs of the business in tracking customer behavior. While it may increase data storage requirements and potentially impact query complexity, these drawbacks are outweighed by the benefits of accurate historical analysis.
+
+Question 7: Would your answer to Question 6 be different if the number of customers and/or the time interval between score recalculations was much larger or much smaller?
+
+ans-If the number of customers is much larger, Option B might become more resource-intensive due to the increased number of rows in the dimension. In such cases, Option C (CustomerScores Dimension with Foreign Key in Fact Table) or Option D (CustomerScores Outrigger Table) could be more efficient.
+
+If the time interval between score recalculations is much larger, Option A (Type 1 Slowly Changing Dimension) might become more suitable, as the changes are less frequent and preserving historical data might be less critical.
+
+Question 8: [OPTIONAL] Can you think of another reasonable alternative design besides Options A, B, C, and D?
+
+ans-Option E: Historical Snapshot Table for Scores
+Create a separate historical snapshot table that tracks changes in customer scores over time. This table would include attributes like Customer ID, Activity Score, Profitability Score, Effective Date, and End Date.
+
+Advantages:
+
+Provides a comprehensive historical record of score changes.
+Simplifies the Customer dimension by avoiding multiple rows for the same customer.
+Supports historical analysis without the need for complex joins or separate dimensions.
+Disadvantages:
+
+Requires maintaining an additional table for historical scores.
+May require additional management and ETL processes.
+Query performance for historical analysis may need optimization.
+The choice of option should consider the balance between historical analysis needs, data storage, query performance, and manageability.
+
+
+
+
