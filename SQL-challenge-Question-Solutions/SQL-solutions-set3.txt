@@ -1,0 +1,678 @@
+
+Q101. Write an SQL query to show the second most recent activity of each user.
+If the user only has one activity, return that one. A user cannot perform more than one activity at the
+same time.
+=>
+select distinct username, activity, startDate, endDate
+from
+    (select user.*,
+           rank() over (partition by username order by startDate desc) as rnk,
+           count(activity) over (partition by username) as num
+    from user_activity user) new_table
+    WHERE
+        (num != 1 and rnk = 2) or (num = 1 and rnk = 1)
+;
+
+======================================================================================================================================================
+
+Q102. Write an SQL query to show the second most recent activity of each user.
+If the user only has one activity, return that one. A user cannot perform more than one activity at the
+same time.
+=>
+select distinct username, activity, startDate, endDate
+from
+    (select user.*,
+           rank() over (partition by username order by startDate desc) as rnk,
+           count(activity) over (partition by username) as num
+    from user_activity user) new_table
+    WHERE
+        (num != 1 and rnk = 2) or (num = 1 and rnk = 1)
+;
+
+======================================================================================================================================================
+
+Q103. Query the Name of any student in STUDENTS who scored higher than 75 Marks. Order your output by
+the last three characters of each name. If two or more students both have names ending in the same
+last three characters (i.e.: Bobby, Robby, etc.), secondary sort them by ascending ID
+=>
+SELECT name FROM students
+WHERE
+    marks > 75
+ORDER BY RIGHT(name, 3), id
+;
+
+======================================================================================================================================================
+
+Q104. Write a query that prints a list of employee names (i.e.: the name attribute) from the Employee table in
+alphabetical order.
+=>
+SELECT name FROM employee
+ORDER BY name ASC
+;
+
+======================================================================================================================================================
+
+Q105. Write a query that prints a list of employee names (i.e.: the name attribute) for employees in
+Employee having a salary greater than $2000 per month who have been employees for less than 10
+months. Sort your result by ascending employee_id.
+=>
+SELECT name FROM employee
+WHERE
+    salary > 2000 and months < 10
+ORDER BY employee_id ASC
+;
+
+======================================================================================================================================================
+
+Q106. Write a query identifying the type of each record in the TRIANGLES table using its three side lengths.
+Output one of the following statements for each record in the table:
+● Equilateral: It's a triangle with sides of equal length.
+● Isosceles: It's a triangle with sides of equal length.
+● Scalene: It's a triangle with sides of differing lengths.
+● Not A Triangle: The given values of A, B, and C don't form a triangle
+=>
+SELECT *,
+CASE
+    when a = b and b = c then "equilateral"
+    when a = b and b != c and a+b > c then "isoceles"
+    when a + b < c or b + c < a or c + a < b then "not a triangle"
+    when a != b and b != c and a != c then "scalene"
+    else "normal triangle"
+end as triangle_value
+from triangle;
+
+======================================================================================================================================================
+
+Q107. Samantha was tasked with calculating the average monthly salaries for all employees in the
+EMPLOYEES table, but did not realise her keyboard's 0 key was broken until after completing the
+calculation. She wants your help finding the difference between her miscalculation (using salaries
+with any zeros removed), and the actual average salary.
+Write a query calculating the amount of error (i.e.: actual - miscalculated average monthly salaries),
+and round it up to the next integer.
+=>
+SELECT 
+    round(
+        AVG(salary) - 
+            (
+                SELECT AVG(salary) FROM employees_incorrect
+            ),
+        0) 
+    as diff_salaries
+FROM employees_correct;
+
+======================================================================================================================================================
+
+Q108. We define an employee's total earnings to be their monthly salary * months worked, and the
+maximum total earnings to be the maximum total earnings for any employee in the Employee table.
+Write a query to find the maximum total earnings for all employees as well as the total number of
+employees who have maximum total earnings. Then print these values as 2 space-separated integers
+=>
+with CTE as 
+(
+    SELECT *, (salary * months) as total_earnings FROM employees
+)
+SELECT 
+    concat(total_earnings, " ", count(total_earnings)) as output_table 
+FROM CTE
+WHERE
+    total_earnings = (SELECT max(total_earnings) FROM CTE)
+GROUP BY total_earnings
+;
+
+======================================================================================================================================================
+
+Q109. Generate the following two result sets:
+1. Query an alphabetically ordered list of all names in OCCUPATIONS, immediately followed by
+the first letter of each profession as a parenthetical (i.e.: enclosed in parentheses). For
+example: AnActorName(A), ADoctorName(D), AProfessorName(P), and ASingerName(S).
+Query the number of occurrences of each occupation in OCCUPATIONS. Sort the occurrences in
+ascending order, and output them in the following format:
+	=>
+(SELECT CONCAT(name,"(",left(occupation, 1),")") FROM job
+ORDER BY name)
+UNION ALL
+(SELECT 
+CONCAT("There are a total of ",COUNT(occupation), " ", occupation, "s") 
+from job
+GROUP BY occupation)
+;
+
+======================================================================================================================================================
+
+Q 111. You are given a table, BST, containing two columns: N and P, where N represents the value of a node
+in Binary Tree, and P is the parent of N
+=>
+SELECT n,
+CASE
+    when n not in (SELECT distinct(p) FROM nodes WHERE p is not NULL) then "Leaf"
+    when p is NULL then "Root"
+    else "Inner"
+end as type_of_node
+FROM nodes ORDER BY n;
+
+======================================================================================================================================================
+
+Q117. Query the Name of any student in STUDENTS who scored higher than 75 Marks. Order your output by
+the last three characters of each name. If two or more students both have names ending in the same
+last three characters (i.e.: Bobby, Robby, etc.), secondary sort them by ascending ID
+=>
+SELECT name FROM students
+WHERE
+    marks > 75
+ORDER BY RIGHT(name, 3), id
+;
+
+======================================================================================================================================================
+
+Q118. Write a query that prints a list of employee names (i.e.: the name attribute) from the Employee table in
+alphabetical order.
+=>
+SELECT name FROM employee
+ORDER BY name ASC
+;
+
+======================================================================================================================================================
+
+Q119. Write a query that prints a list of employee names (i.e.: the name attribute) for employees in
+Employee having a salary greater than $2000 per month who have been employees for less than 10
+months. Sort your result by ascending employee_id.
+=>
+SELECT name FROM employee
+WHERE
+    salary > 2000 and months < 10
+ORDER BY employee_id ASC
+;
+
+======================================================================================================================================================
+
+Q120. Write a query identifying the type of each record in the TRIANGLES table using its three side lengths.
+Output one of the following statements for each record in the table:
+● Equilateral: It's a triangle with sides of equal length.
+● Isosceles: It's a triangle with sides of equal length.
+● Scalene: It's a triangle with sides of differing lengths.
+● Not A Triangle: The given values of A, B, and C don't form a triangle
+=>
+SELECT *,
+CASE
+    when a = b and b = c then "equilateral"
+    when a = b and b != c and a+b > c then "isoceles"
+    when a + b < c or b + c < a or c + a < b then "not a triangle"
+    when a != b and b != c and a != c then "scalene"
+    else "normal triangle"
+end as triangle_value
+from triangle;
+
+======================================================================================================================================================
+
+Q121. Assume you are given the table below containing information on user transactions for particular
+products. Write a query to obtain the year-on-year growth rate for the total spend of each product for
+each year.
+Output the year (in ascending order) partitioned by product id, current year's spend, previous year's
+spend and year-on-year growth rate (percentage rounded to 2 decimal places).
+=>
+SELECT extract(year FROM transaction_date) as year_, product_id, 
+spend as curr_year_spend, 
+lag(spend) over() as prev_year_spend,
+round((spend/lag(spend) over() * 100) - 100, 2) as yoy_rate
+FROM transactions;
+
+======================================================================================================================================================
+
+Q 123. Assume you have the table below containing information on Facebook user actions. Write a
+query to obtain the active user retention in July 2022. Output the month (in numerical format 1, 2, 3)
+and the number of monthly active users (MAUs).
+Hint: An active user is a user who has user action ("sign-in", "like", or "comment") in the current month
+and last month.
+=>
+SELECT extract(month FROM event_date) as month, COUNT(user_id) as MAU FROM user_actions
+WHERE
+    event_date BETWEEN "2022-06-01 00:00:00" and "2022-06-30 12:00:00" AND event_type = "sign-in"
+    and user_id in 
+    (
+        SELECT user_id FROM user_actions 
+        WHERE event_date BETWEEN "2022-06-01 00:00:00" and "2022-06-30 12:00:00" AND event_type != "sign-in"
+    )
+GROUP BY month
+;
+
+======================================================================================================================================================
+
+Q 126. Amazon Web Services (AWS) is powered by fleets of servers. Senior management has
+requested data-driven solutions to optimise server usage.
+Write a query that calculates the total time that the fleet of servers was running. The output should be
+in units of full days.
+=>
+with CTE as (SELECT server_id, status_time,
+lead(status_time) over(partition by server_id ORDER BY status_time ASC) as new_time
+FROM server)
+SELECT sum(DATEDIFF( new_time, status_time )) as total_uptime_days FROM CTE;
+
+======================================================================================================================================================
+
+Q127. Sometimes, payment transactions are repeated by accident; it could be due to user error, API failure or
+a retry error that causes a credit card to be charged twice.
+Using the transactions table, identify any payments made at the same merchant with the same credit
+card for the same amount within 10 minutes of each other. Count such repeated payments.
+=>
+with CTE as (SELECT *,
+timestampdiff(minute,transaction_timestamp,lag(transaction_timestamp) over()) 
+as minutes_diff
+FROM transactions)
+
+SELECT count(minutes_diff) as payment_count FROM CTE
+GROUP BY minutes_diff
+HAVING
+    abs(CTE.minutes_diff) <= 10
+;
+
+======================================================================================================================================================
+
+Q129. Write an SQL query to find the total score for each gender on each day.
+Return the result table ordered by gender and day in ascending order.
+=>
+SELECT gender, day, 
+sum(score_points) over (partition by gender ORDER BY day rows between unbounded preceding and current row) as total_score
+FROM scores;
+
+
+======================================================================================================================================================
+
+Q130. A telecommunications company wants to invest in new countries. The company intends to invest in
+the countries where the average call duration of the calls in this country is strictly greater than the
+global average call duration.
+Write an SQL query to find the countries where this company can invest.
+Return the result table in any order.
+=>
+with country_phone as (SELECT p.*, c.name as country_name FROM person p JOIN
+(SELECT name, 
+CASE
+    WHEN LENGTH(country_code) < 3 then CONCAT("0", country_code)
+    else country_code
+end as new_code
+FROM country) as c 
+ON
+    left(p.phone_number, 3) = c.new_code
+)
+
+SELECT country_name, sum(total_dur)/sum(total_count) as final FROM (SELECT cp.country_name, (2 * cal.duration) as total_dur,  (2 * count(cp.country_name)) as total_count FROM calls as cal
+JOIN
+    country_phone as cp
+ON
+    cal.caller_id = cp.id
+GROUP BY cp.country_name, duration) as tmp
+GROUP BY country_name ORDER BY final DESC LIMIT 1
+
+======================================================================================================================================================
+
+Q132. Write an SQL query to report the comparison result (higher/lower/same) of the average salary of
+employees in a department to the company's average salary.
+=>
+with CTE as 
+(
+    SELECT distinct(full_table.pay_date), round(AVG(full_table.amount), 0) as avg_pay, 
+    full_table.department_id, avg_table.company_avg_pay 
+    FROM 
+    (
+        SELECT s.*, e.department_id FROM salary s
+        JOIN
+            (SELECT * FROM employee) as e
+        ON
+            e.employee_id = s.employee_id
+    ) full_table
+    JOIN
+        (SELECT pay_date, round(AVG(amount),0) as company_avg_pay FROM salary
+        GROUP BY pay_date) as avg_table
+    ON
+        avg_table.pay_date = full_table.pay_date
+    GROUP BY full_table.pay_date, full_table.department_id, 
+    avg_table.company_avg_pay
+)
+
+SELECT pay_date, department_id,
+CASE
+    When avg_pay > company_avg_pay then "Higher"
+    when avg_pay < company_avg_pay then "lower"
+    when avg_pay = company_avg_pay then "same"
+end as new_table_val
+FROM CTE
+GROUP BY pay_date, department_id, avg_pay
+ORDER BY department_id, pay_date
+;
+
+======================================================================================================================================================
+
+Q 133. Assume you have the table below containing information on Facebook user actions. Write a
+query to obtain the active user retention in July 2022. Output the month (in numerical format 1, 2, 3)
+and the number of monthly active users (MAUs).
+Hint: An active user is a user who has user action ("sign-in", "like", or "comment") in the current month
+and last month.
+=>
+SELECT extract(month FROM event_date) as month, COUNT(user_id) as MAU FROM user_actions
+WHERE
+    event_date BETWEEN "2022-06-01 00:00:00" and "2022-06-30 12:00:00" AND event_type = "sign-in"
+    and user_id in 
+    (
+        SELECT user_id FROM user_actions 
+        WHERE event_date BETWEEN "2022-06-01 00:00:00" and "2022-06-30 12:00:00" AND event_type != "sign-in"
+    )
+GROUP BY month
+;
+
+======================================================================================================================================================
+
+Q137. Write an SQL query to show the second most recent activity of each user.
+If the user only has one activity, return that one. A user cannot perform more than one activity at the
+same time.
+=>
+select distinct username, activity, startDate, endDate
+from
+    (select user.*,
+           rank() over (partition by username order by startDate desc) as rnk,
+           count(activity) over (partition by username) as num
+    from user_activity user) new_table
+    WHERE
+        (num != 1 and rnk = 2) or (num = 1 and rnk = 1)
+;
+
+======================================================================================================================================================
+
+Q138. Write an SQL query to show the second most recent activity of each user.
+If the user only has one activity, return that one. A user cannot perform more than one activity at the
+same time.
+=>
+select distinct username, activity, startDate, endDate
+from
+    (select user.*,
+           rank() over (partition by username order by startDate desc) as rnk,
+           count(activity) over (partition by username) as num
+    from user_activity user) new_table
+    WHERE
+        (num != 1 and rnk = 2) or (num = 1 and rnk = 1)
+;
+
+======================================================================================================================================================
+
+Q139. Query the Name of any student in STUDENTS who scored higher than 75 Marks. Order your output by
+the last three characters of each name. If two or more students both have names ending in the same
+last three characters (i.e.: Bobby, Robby, etc.), secondary sort them by ascending ID
+=>
+SELECT name FROM students
+WHERE
+    marks > 75
+ORDER BY RIGHT(name, 3), id
+;
+
+======================================================================================================================================================
+
+Q140. Write a query that prints a list of employee names (i.e.: the name attribute) from the Employee table in
+alphabetical order.
+=>
+SELECT name FROM employee
+ORDER BY name ASC
+;
+
+======================================================================================================================================================
+
+Q141. Write a query that prints a list of employee names (i.e.: the name attribute) for employees in
+Employee having a salary greater than $2000 per month who have been employees for less than 10
+months. Sort your result by ascending employee_id.
+=>
+SELECT name FROM employee
+WHERE
+    salary > 2000 and months < 10
+ORDER BY employee_id ASC
+;
+
+======================================================================================================================================================
+
+Q142. Write a query identifying the type of each record in the TRIANGLES table using its three side lengths.
+Output one of the following statements for each record in the table:
+● Equilateral: It's a triangle with sides of equal length.
+● Isosceles: It's a triangle with sides of equal length.
+● Scalene: It's a triangle with sides of differing lengths.
+● Not A Triangle: The given values of A, B, and C don't form a triangle
+=>
+SELECT *,
+CASE
+    when a = b and b = c then "equilateral"
+    when a = b and b != c and a+b > c then "isoceles"
+    when a + b < c or b + c < a or c + a < b then "not a triangle"
+    when a != b and b != c and a != c then "scalene"
+    else "normal triangle"
+end as triangle_value
+from triangle;
+
+======================================================================================================================================================
+
+Q143. Samantha was tasked with calculating the average monthly salaries for all employees in the
+EMPLOYEES table, but did not realise her keyboard's 0 key was broken until after completing the
+calculation. She wants your help finding the difference between her miscalculation (using salaries
+with any zeros removed), and the actual average salary.
+Write a query calculating the amount of error (i.e.: actual - miscalculated average monthly salaries),
+and round it up to the next integer.
+=>
+SELECT 
+    round(
+        AVG(salary) - 
+            (
+                SELECT AVG(salary) FROM employees_incorrect
+            ),
+        0) 
+    as diff_salaries
+FROM employees_correct;
+
+
+======================================================================================================================================================
+
+Q144. We define an employee's total earnings to be their monthly salary * months worked, and the
+maximum total earnings to be the maximum total earnings for any employee in the Employee table.
+Write a query to find the maximum total earnings for all employees as well as the total number of
+employees who have maximum total earnings. Then print these values as 2 space-separated integers
+=>
+with CTE as 
+(
+    SELECT *, (salary * months) as total_earnings FROM employees
+)
+SELECT 
+    concat(total_earnings, " ", count(total_earnings)) as output_table 
+FROM CTE
+WHERE
+    total_earnings = (SELECT max(total_earnings) FROM CTE)
+GROUP BY total_earnings
+;
+
+======================================================================================================================================================
+
+Q145. Generate the following two result sets:
+1. Query an alphabetically ordered list of all names in OCCUPATIONS, immediately followed by
+the first letter of each profession as a parenthetical (i.e.: enclosed in parentheses). For
+example: AnActorName(A), ADoctorName(D), AProfessorName(P), and ASingerName(S).
+Query the number of occurrences of each occupation in OCCUPATIONS. Sort the occurrences in
+ascending order, and output them in the following format:
+	=>
+(SELECT CONCAT(name,"(",left(occupation, 1),")") FROM job
+ORDER BY name)
+UNION ALL
+(SELECT 
+CONCAT("There are a total of ",COUNT(occupation), " ", occupation, "s") 
+from job
+GROUP BY occupation)
+;
+
+
+======================================================================================================================================================
+
+Q 147. You are given a table, BST, containing two columns: N and P, where N represents the value of a node
+in Binary Tree, and P is the parent of N
+=>
+SELECT n,
+CASE
+    when n not in (SELECT distinct(p) FROM nodes WHERE p is not NULL) then "Leaf"
+    when p is NULL then "Root"
+    else "Inner"
+end as type_of_node
+FROM nodes ORDER BY n;
+
+
+======================================================================================================================================================
+
+Q149. Two pairs (X1, Y1) and (X2, Y2) are said to be symmetric pairs if X1 = Y2 and X2 = Y1.
+Write a query to output all such symmetric pairs in ascending order by the value of X. List the rows
+such that X1 ≤ Y1.
+=>
+SELECT x, y FROM val
+    WHERE
+        x in (SELECT y FROM val)
+        AND
+        y in (SELECT x FROM val)
+        AND
+        x <= y
+LIMIT 1, 3;
+
+======================================================================================================================================================
+
+Q153. In an effort to identify high-value customers, Amazon asked for your help to obtain data about users
+who go on shopping sprees. A shopping spree occurs when a user makes purchases on 3 or more
+consecutive days.
+List the user IDs who have gone on at least 1 shopping spree in ascending order.
+=>
+with new_table as 
+(
+    SELECT *, 
+    ifnull
+    (
+        datediff(transaction_date, 
+                lag(transaction_date) over(partition by user_id)),
+    1) as lag_date
+    FROM amazon
+)
+
+SELECT user_id FROM new_table
+GROUP BY user_id, lag_date
+having
+    count(user_id) >= 3 and new_table.lag_date = 1
+ORDER BY user_id ASC
+;
+
+======================================================================================================================================================
+
+Q154. You are given a table of PayPal payments showing the payer, the recipient, and the amount paid. A
+two-way unique relationship is established when two people send money back and forth. Write a
+query to find the number of two-way unique relationships in this data.
+=>
+SELECT COUNT(person) as unique_relationships from 
+(
+    SELECT person, COUNT(person) as person_count FROM 
+    (
+        (SELECT concat(payer_id, recipient_id) as person FROM payments WHERE payer_id < recipient_id)
+        UNION ALL
+        (SELECT concat(recipient_id, payer_id) as person FROM payments where recipient_id < payer_id )
+    ) nt
+    GROUP BY person
+) pt
+WHERE
+    person_count >= 2
+;
+
+======================================================================================================================================================
+
+Q155. Assume you are given the table below containing information on Facebook user logins. Write a query
+to obtain the number of reactivated users (which are dormant users who did not log in the previous
+month, then logged in during the current month).
+Output the current month (in numerical) and number of reactivated users.
+=>
+SELECT extract(month FROM login_date) as current_month, COUNT(user_id) as reactivations FROM 
+(
+    SELECT user_id, login_date,
+    datediff(login_date, lag(login_date) over(partition by user_id)) as lag_date
+    FROM user_login
+) as react_table
+WHERE
+    lag_date >= 31
+GROUP BY current_month
+;
+
+======================================================================================================================================================
+
+Q156. Assume you are given the table below on user transactions. Write a query to obtain the list of
+customers whose first transaction was valued at $50 or more. Output the number of users.
+=>
+SELECT user_id FROM 
+(
+    SELECT user_id, spend,
+    lag(transaction_date) over(partition by user_id) as lag_num
+    FROM transactions
+) as nt
+WHERE
+    lag_num is NULL and spend >= 50;
+
+======================================================================================================================================================
+
+Q158. In an effort to identify high-value customers, Amazon asked for your help to obtain data about users
+who go on shopping sprees. A shopping spree occurs when a user makes purchases on 3 or more
+consecutive days.
+List the user IDs who have gone on at least 1 shopping spree in ascending order.
+=>
+with new_table as 
+(
+    SELECT *, 
+    ifnull
+    (
+        datediff(transaction_date, 
+                lag(transaction_date) over(partition by user_id)),
+    1) as lag_date
+    FROM amazon
+)
+
+SELECT user_id FROM new_table
+GROUP BY user_id, lag_date
+having
+    count(user_id) >= 3 and new_table.lag_date = 1
+ORDER BY user_id ASC
+;
+
+======================================================================================================================================================
+
+Q161. Your team at Accenture is helping a Fortune 500 client revamp their compensation and benefits
+program. The first step in this analysis is to manually review employees who are potentially overpaid
+or underpaid.
+An employee is considered to be potentially overpaid if they earn more than 2 times the average salary
+for people with the same title. Similarly, an employee might be underpaid if they earn less than half of
+the average for their title. We'll refer to employees who are both underpaid and overpaid as
+compensation outliers for the purposes of this problem.
+Write a query that shows the following data for each compensation outlier: employee ID, salary, and
+whether they are potentially overpaid or potentially underpaid (refer to Example Output below).
+=>
+SELECT employee_id, salary, over_under FROM
+(
+    SELECT employee_id, salary, title,
+    CASE
+        when (AVG(salary) over(partition by title)/salary) > 2 then "Overpaid"
+        when (AVG(salary) over(partition by title)/salary) < 0.5 then "Underpaid"
+        else "Correct"
+    end as over_under
+    FROM accenture
+) as nt
+WHERE
+    over_under != "Correct"
+;
+
+======================================================================================================================================================
+
+Q162. You are given a table of PayPal payments showing the payer, the recipient, and the amount paid. A
+two-way unique relationship is established when two people send money back and forth. Write a
+query to find the number of two-way unique relationships in this data.
+=>
+SELECT COUNT(person) as unique_relationships from 
+(
+    SELECT person, COUNT(person) as person_count FROM 
+    (
+        (SELECT concat(payer_id, recipient_id) as person FROM payments WHERE payer_id < recipient_id)
+        UNION ALL
+        (SELECT concat(recipient_id, payer_id) as person FROM payments where recipient_id < payer_id )
+    ) nt
+    GROUP BY person
+) pt
+WHERE
+    person_count >= 2
+;
