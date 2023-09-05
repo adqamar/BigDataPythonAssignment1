@@ -1,0 +1,58 @@
+
+Build End to end project taking any data source
+            Refer below architecture
+
+
+
+Project should include
+Connect and collect — It can collect data in Azure Data Lake Storage and transform the data later by using an Azure Data Lake Analytics compute service. You can also collect data in Azure Blob storage and transform it later by using an Azure HDInsight Hadoop cluster.
+Transform and enrich — Data flows enable data engineers to build and maintain data transformation graphs that execute on Spark without needing to understand Spark clusters or Spark programming.
+CI/CD and publish — Data Factory offers full support for CI/CD of your data pipelines using Azure DevOps and GitHub.
+Monitor — Azure Data Factory has built-in support for pipeline monitoring via Azure Monitor, API, PowerShell, Azure Monitor logs, and health panels on the Azure portal.
+Mapping data flows — Data Factory will execute our logic on a Spark cluster that spins-up and spins-down when you need it.
+Linked services — Linked services are much like connection strings, which define the connection information that’s needed for Data Factory to connect to external resources.
+
+answer-
+
+
+ Here's an end-to-end data engineering project based on the architecture provided. This project involves connecting to an external data source, collecting data, transforming and enriching it using Azure Data Factory, implementing CI/CD, and monitoring the pipeline. For this example, let's assume we are collecting and processing sales data from an external source and storing the transformed data in Azure Data Lake Storage.
+
+**Project Overview**:
+The project's goal is to collect sales data from an external source, transform and enrich it using Azure Data Factory, implement CI/CD for the data pipeline, and monitor its execution.
+
+**Architecture**:
+![Azure Data Factory Architecture](https://docs.microsoft.com/en-us/azure/data-factory/media/introduction/data-factory-introduction/azure-data-factory-overview.png)
+
+**Project Steps**:
+
+1. **Connect and Collect**:
+   - Set up Azure Data Factory.
+   - Create a Linked Service in Azure Data Factory to connect to the external data source, e.g., a SQL database, REST API, or a cloud storage service.
+   - Create a Data Pipeline in Azure Data Factory to copy data from the external source to Azure Data Lake Storage or Azure Blob Storage.
+   - Schedule the data pipeline to run at specified intervals to collect new data.
+
+2. **Transform and Enrich**:
+   - Create Data Flows in Azure Data Factory to transform and enrich the collected data.
+   - Define transformation logic using the visual interface of Azure Data Factory. Data Flows can execute on Azure Spark clusters, which automatically spin up and down as needed.
+   - Apply data cleansing, aggregation, and any required business logic to the data.
+
+3. **CI/CD and Publish**:
+   - Set up Continuous Integration and Continuous Deployment (CI/CD) for your Azure Data Factory pipeline.
+   - Use Azure DevOps or GitHub for version control and pipeline deployment.
+   - Automate the deployment process so that changes to your data pipeline are automatically deployed to production.
+
+4. **Monitor**:
+   - Utilize built-in monitoring features of Azure Data Factory.
+   - Configure Azure Monitor to track pipeline execution, job statuses, and performance metrics.
+   - Set up alerts and notifications to be informed of any issues or failures.
+   - Monitor pipeline health via the Azure portal's health panels.
+
+5. **Mapping Data Flows**:
+   - Use Data Flows in Azure Data Factory to execute logic on a Spark cluster. Azure Data Factory takes care of provisioning and de-provisioning the cluster as needed.
+   - Design your data transformations using the visual interface of Azure Data Factory, which abstracts away Spark cluster management.
+
+6. **Linked Services**:
+   - Define Linked Services for various data sources and destinations in Azure Data Factory. These linked services store connection information.
+   - Configure the linked services to connect to your external data sources, Azure Data Lake Storage, or Azure Blob Storage.
+
+By following these steps and utilizing Azure Data Factory's capabilities,we can build an end-to-end data engineering project that connects to external data sources, collects, transforms, and enriches data, implements CI/CD for pipeline management, and monitors the entire process for data quality and pipeline performance. This architecture provides a scalable and efficient solution for managing and processing large volumes of data in the cloud.
