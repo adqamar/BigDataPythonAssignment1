@@ -1,0 +1,221 @@
+1. Download the data from the given URL :
+https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset
+2. Create a producer with a python connector in confluent kafka and
+stream your data.
+3. Consume your data through the python connector and dump it in
+mongodb atlas.
+Note: Here in the dataset you will be finding a multiple files you
+need to use all file for the kafka and mongodb
+4. Collect your data as a pyspark dataframe and perform different
+operations.
+Note: Consider only three files for creating a dataframe among all
+case, region and TimeProvince
+a. Read the data, show it and Count the number of records.
+b. Describe the data with a describe function.
+c. If there is any duplicate value drop it.
+d. Use limit function for showcasing a limited number of
+records.
+e. If you find the column name is not suitable, change the
+column name.[optional]
+f. Select the subset of the columns.
+g. If there is any null value, fill it with any random value or drop
+it.
+h. Filter the data based on different columns or variables and
+do the best analysis.
+For example: We can filter a data frame using multiple
+conditions using AND(&), OR(|) and NOT(~) conditions. For
+example, we may want to find out all the dif erent
+
+infection_case in Daegu Province with more than 10
+confirmed cases.
+i. Sort the number of confirmed cases. Confirmed column is
+there in the dataset. Check with descending sort also.
+j. In case of any wrong data type, cast that data type from
+integer to string or string to integer.
+k. Use group by on top of province and city column and agg it
+with sum of confirmed cases. For example
+df.groupBy(["province","city"]).agg(function.sum("co
+nfirmed")
+l. For joins we will need one more file.you can use region file.
+User different different join methods.for example
+cases.join(regions, ['province','city'],how='left')
+You can do your best analysis.
+
+5. If you want, you can also use SQL with data frames. Let us try to
+run some SQL on the cases table.
+For example:
+cases.registerTempTable('cases_table')
+newDF = sqlContext.sql('select * from cases_table where
+confirmed>100')
+newDF.show()
+
+Here is a example how you can use df for sql now we can perform
+various operations with GROUP BY, HAVING, AND ORDER BY
+
+6. Create Spark UDFs
+Create function casehighlow()
+If case is less than 50 return low else return high
+convert into a UDF Function and mention the return type of
+function.
+Note: You can create as many as udf based on analysis
+
+
+answes:-
+To complete the tasks you've outlined, you'll need to use various technologies and libraries such as Kafka, MongoDB, PySpark, and Spark SQL. Here's a step-by-step guide on how to accomplish these tasks:
+
+### Step 1: Set Up Kafka Producer
+You need to set up a Kafka producer to stream your data to a Kafka topic. You can use the `confluent-kafka` library in Python to create the producer. Make sure you have Kafka installed and running.
+
+```python
+from confluent_kafka import Producer
+
+# Define the Kafka producer configuration
+conf = {
+    'bootstrap.servers': 'localhost:9092',  # Replace with your Kafka broker address
+    'client.id': 'producer-client'
+}
+
+# Create a Kafka producer instance
+producer = Producer(conf)
+
+# Define a function to send data to the Kafka topic
+def send_data_to_kafka(data):
+    producer.produce('covid19-topic', key='key', value=data)
+
+# Read your data and send it to Kafka using send_data_to_kafka function
+# You can loop through your dataset and send each record to Kafka
+```
+
+### Step 2: Set Up Kafka Consumer and Store Data in MongoDB
+You need to create a Kafka consumer to consume data from the Kafka topic and then store it in MongoDB Atlas. You can use the `pymongo` library to interact with MongoDB Atlas.
+
+```python
+from confluent_kafka import Consumer, KafkaError
+import pymongo
+
+# MongoDB Atlas connection configuration
+mongo_client = pymongo.MongoClient("mongodb+srv://<username>:<password>@cluster.mongodb.net/test")
+
+# Create a Kafka consumer configuration
+consumer_conf = {
+    'bootstrap.servers': 'localhost:9092',  # Replace with your Kafka broker address
+    'group.id': 'covid-consumer-group',
+    'auto.offset.reset': 'earliest'
+}
+
+# Create a Kafka consumer instance
+consumer = Consumer(consumer_conf)
+
+# Subscribe to the Kafka topic
+consumer.subscribe(['covid19-topic'])
+
+# Define a function to store data in MongoDB
+def store_data_in_mongodb(data):
+    db = mongo_client['covid19']
+    collection = db['covid_data']
+    collection.insert_one(data)
+
+# Consume data from Kafka and store it in MongoDB
+while True:
+    msg = consumer.poll(1.0)
+    if msg is None:
+        continue
+    if msg.error():
+        if msg.error().code() == KafkaError._PARTITION_EOF:
+            print(f'Reached end of partition: {msg.topic()} [{msg.partition()}]')
+        else:
+            print(f'Error while consuming: {msg.error()}')
+    else:
+        # Assuming your data is in JSON format
+        data = json.loads(msg.value())
+        store_data_in_mongodb(data)
+```
+
+### Step 3: Use PySpark for Data Analysis
+we can use PySpark to perform various data analysis tasks on the collected data. Here's a sample code snippet to get you started:
+
+```python
+from pyspark.sql import SparkSession
+
+# Create a Spark session
+spark = SparkSession.builder.appName("CovidAnalysis").getOrCreate()
+
+# Read data from MongoDB into a DataFrame
+df = spark.read.format("com.mongodb.spark.sql.DefaultSource") \
+    .option("uri", "mongodb+srv://<username>:<password>@cluster.mongodb.net/test.covid_data") \
+    .load()
+
+# a. Show the data and count the number of records
+df.show()
+record_count = df.count()
+print(f'Number of records: {record_count}')
+
+# b. Describe the data
+df.describe().show()
+
+# c. Drop duplicates
+df = df.dropDuplicates()
+
+# d. Limit the number of records
+df.limit(10).show()
+
+# e. Rename columns if needed (optional)
+df = df.withColumnRenamed("old_column_name", "new_column_name")
+
+# f. Select a subset of columns
+selected_columns = ["column1", "column2"]
+df = df.select(selected_columns)
+
+# g. Fill or drop null values
+df = df.fillna({"column1": 0})  # Fill null values with 0 in column1
+df = df.dropna()  # Drop rows with any null values
+
+# h. Filter the data
+filtered_data = df.filter((df["province"] == "Daegu") & (df["confirmed"] > 10))
+filtered_data.show()
+
+# i. Sort the data
+sorted_data = df.orderBy(df["confirmed"], ascending=False)
+sorted_data.show()
+
+# j. Cast data types if needed
+df = df.withColumn("column_name", df["column_name"].cast("integer"))
+
+# k. Group by and aggregate
+grouped_data = df.groupBy(["province", "city"]).agg({"confirmed": "sum"})
+grouped_data.show()
+
+# l. Join with another DataFrame (regions)
+# Example: df.join(regions, ['province', 'city'], how='left')
+
+# Register DataFrame as a temporary table for Spark SQL
+df.createOrReplaceTempView("covid_data_table")
+
+# Example SQL query
+high_confirmed_cases = spark.sql("SELECT * FROM covid_data_table WHERE confirmed > 100")
+high_confirmed_cases.show()
+```
+
+### Step 4: Create Spark UDFs
+To create a Spark UDF, you can define a Python function and then register it as a UDF. Here's an example:
+
+```python
+from pyspark.sql.functions import udf
+from pyspark.sql.types import StringType
+
+# Define a Python function
+def case_high_low(confirmed_cases):
+    if confirmed_cases < 50:
+        return "low"
+    else:
+        return "high"
+
+# Register the Python function as a UDF
+case_high_low_udf = udf(case_high_low, StringType())
+
+# Use the UDF on a DataFrame column
+df = df.withColumn("case_category", case_high_low_udf(df["confirmed"]))
+df.show()
+```
+
+we can create additional UDFs based on your analysis requirements.
