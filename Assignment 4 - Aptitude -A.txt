@@ -1,0 +1,821 @@
+Averages
+1) The average of first five multiples of 3 is:
+a) 8 b) 9 c) 10 d) 11
+2) The average of six numbersis 3.95. The average of two of
+them is 3.4, while the average of the other two is 3.85. What is
+the average of the remaining two numbers?
+a) 4.5 b) 4.6 c) 4.7 d) 4.8
+3) The average score of a cricketer for ten matches is 38.9 runs.
+If the average for the first six matches is 42, then find the
+average for the last four matches.
+a) 33.25 b) 33.5 c) 34.25 d) 35
+4) The average age of 40 student of a class is 15 year. When 10
+new students are admitted, the average is increased by 0.2
+years. The average age of new students is:
+a) 15.2 yrs b) 16.2 yrs c) 16 yrs d) 16.4 yrs
+5) The average weight of 16 boys in a class is 50.25 kgs and
+that of the remaining 8 boys is 45.15 kgs. Find the average
+weight of all the boys in the class.
+a) 48.55 kg b) 48 kg c) 47.55 kg d) 49.25 kg
+6) The average of 5 consecutive odd numbers is 61. What is the
+difference between the highest and lowest number?
+a) 2 b) 5 c) 8 d) None of these
+7) In seven given numbers, the average of first four numbers is
+4 and that of the last four numbers is also 4. If the average of
+these seven numbers is 3, the fourth number is :
+a) 3 b) 4 c) 7 d) 11
+8) The average age of 30 students is 9 years. If the age of their
+teacher is included, it becomes 10 years. The age of the
+teacher (in years)is:
+a) 27 b) 35 c) 31 d) 40
+9) The average of 2, 7, 6 and x is 5 and the average of 18,1,6,x
+and y is 10. What is the value of y?
+a) 5 b) 10 c) 20 d) 30
+10) A batsman makes a score of 87 runs in the 17th inning and
+thus increases his average by 3. Find his average after 17th
+inning.
+a) 40 b) 39 c) 52 d) 55
+11) The mean of 50 observations was 36. It was found later an
+observation 48 was wrongly taken as 23. The corrected new
+means is
+a) 35.2 b) 36.1 c) 36.5 d) 39.1
+12) The average of runs of a cricket player of 10 innings was 32.
+How many runes must be made in his next innings so as to
+increase his average of runs by 4?
+a) 72 b) 74 c) 70 d) 76
+13) The average weight of 6 men decreases by 3 kg when one
+of them weighing 80 kg is replaced by a new man. The weight
+of the new man is:
+a) 56 kg b) 62 kg c) 58 kg d) 76 kg
+
+14) The average of the two-digit numbers, which remain the
+same when the digits inter change their positions, is:
+a) 50 b) 44 c) 66 d) 55
+15) The average of six numbers is x and the average of three of
+these is y. If the average of remaining three is z, then:
+a) x=y+z b) 2x=y+z c) X=2y+2z d) None of these
+16) A team of 8 persons joins in a shooting competition. The
+best marksman scored 85 points. If he had scored 92 points;
+the average score for the team would have been 84. The
+number of points, the team scored, was:
+a) 665 b) 672 c) 645 d) 588
+17) In a cricket eleven, the average of eleven players is 28
+years. Out of these, the average ages of three groups of three
+players each are 25 years, 28 years and 30 years respectively. If
+in these groups, the captain and the youngest player are not
+included, and the captain is eleven years older than the
+youngest player, what is the age of the captain?
+a) 33 yrs b) 34 yrs c) 35 yrs d) 36 yrs
+18) Three years ago, the average age of a family of 5 members
+was 17 years. A baby having been born, the average age of the
+family is the same today. The present age of the baby is:
+a) 2 yrs b) 3 yrs c) 2.4 yrs d) 1.5 yrs
+19) The average of 50 numbers is 38. If two numbers, namely
+45 and 55 are discarded, the average of remaining numbers is :
+a) 36.5 b) 37.5 c) 37 d) 37.52
+20) The average of 5 consecutive integers starting with ‘a’ is
+‘b’. What is the average of 9 consecutive integers starting with
+(a + 2)?
+a) a + 4 b) b + 6 c) b + 3 d) a + 5 e) b + 4
+21) The average age of students of a class is 15.8 years. The
+average age of boys in the class is 16.4 years and that of the
+girls is 15.4 years. The ratio of the number of boys to the
+number of girls in the class is:
+a) 1:2 b) 3:5 c) 3:4 d) 2:3
+22) The average of 50 numbers is 30. If two numbers, 35 and
+40 are discarded, then the average of remaining numbers is:
+a) 28.32 b) 29.68 c) 28.78 d) 29.27
+23) The average of 20 numbers is zero. Of them at the most,
+how many may be greater than zero?
+a) 0 b) 1 c) 10 d) 19
+24) Nine persons went to a hotel for taking their meals. Eight
+of them spent Rs.12 each on their meals and the ninth spent
+Rs.8 more than the average expenditure of all the nine. What
+was the total money spent by them.
+a) Rs. 115 b) Rs. 116 c) Rs. 117 d) Rs. 118
+25) The average weight of a class of 24 students is 35 kg. If the
+weight of the teacher be included, the average rises by 400 g.
+the weight of the teacher is?
+a) 45 b) 50 c) 53 d) 5
+
+Mixtures & Alligations
+
+1) In what ratio must rice at Rs.12 per kg mixed with rice at
+Rs.10.80 per kg so that the mixture be worth Rs.10 per kg?
+a) 2:3 b) 2:5 c) 2:7 d) Not possible
+2) Two vessels A and B contain sprit and water in the ratio 5:2
+and 7:6 respectively. Find the ratio in which these mixture be
+mixed to obtain a new mixture containing sprit and water in
+the ratio 8:5?
+a) 5:9 b) 7:9 c) None of these d) Not possible
+3) Vessel ‘A’ contains 150 litres of mixture of milk and water in
+the ratio of 3:1. Vessel ‘B’ contains 200 litres of the mixture in
+the ratio of 5:2. If the mixtures from both the vessels are
+poured into vessel ‘C’, find the ratio of the resulting mixture.
+a) 15:7 b) 8:3 c) 15:2 d) 143:53
+4) 4 kg of a metal contains 1/5 copper and rest is zinc. Another
+5 kg of metal contains 1/6 copper and rest in zinc. The ratio of
+copper and zinc into the mixture of these two metals:
+a) 49:221 b) 39:231 c) 94:181 d) None of these
+5) In what ratio water be mixed with milk costing Rs.12 per
+litre to obtain a mixture worth of Rs.8 per litre?
+a) 1:2 b) 4:5 c) 3:7 d) None of these
+6) A sum of Rs.4000 is lent out in two parts, one at 8% simple
+interest and the other at 10% simple interest. In the annual
+interest is Rs.352, the sum lent at 8% is
+a) 2000 b) 4000 c) 4800 d) 2400
+7) A merchant has 1000 kg of sugar, part of which he sells at
+8% profit and the rest at 18%profit. He gains 14% on the
+whole. The quantity sold at 18% profit is
+a) 600 b) 500 c) 480 d) None of these
+8) How many kilograms of sugar costing Rs.9 per kg must be
+mixed with 27kg of sugar costing Rs.7 per kg so that there may
+be gain of 10% by selling the mixture at Rs.9.24 per kg?
+a) 56 kg b) 63 kg c) 75 kg d) 30 kg
+9) A jar full of whisky contains 40% alcohol. A part of this
+whisky is replaced by another containing 19% alcohol and now
+the percentage of alcohol was found to be 26% the quantity of
+whisky replaced is
+a) 4/5 b) 19/26 c) 2/3 d) None of these
+10) A sample of x litres from a container having a 60 litre
+mixture of milk and water containing milk and water in the
+ratio of 2 : 3 is replaced with pure milk so that the container
+will have milk and water in equal proportions. What is the
+value of x?
+a) 6 L b) 10 L c) 30 L d) None of these
+11) A can contains 40kg of milk, from this container 4kg of milk
+was taken out and replaced by water. This process was
+repeated further two times. How much milk is now contained
+by the container?
+a) 32 kg b) 29.16 kg c) 28 kg d) 28.8 kg
+
+12) A can contains a mixture of two liquids A and B in the ratio
+7:5 when 9 litres of mixture are drawn off and the can is filled
+with B, the ratio of A and B becomes 7:9 how many litres of
+liquids A was contained by the can initially?
+a) 21 l b) 24 l c) 45 l d) None of these
+13) One alloy contains silver and copper in the ratio 5:1 and
+the other contains in the ratio 7:2 respectively. What weights
+of the two must be melted together, so as to make a 5 lb mass
+with 80% silver?
+a) 3 lb, 4 lb b) 5 lb, 6 lb c) 2 lb, 3 lb d) 6 lb, 9 lb
+14) In what ratio must water be mixed with milk to gain 20% by
+selling the mixture at cost price?
+a) 1:4 b) 2:7 c) 5:6 d) 1:5
+15) Two vessels A and B contain milk and water mixed in the
+ratio 4:3 and 2:3 in what ratio must these mixtures be mixed to
+form new mixture containing half milk and half water?
+a) 3:4 b) 7:5 c) 2:3 d) None of these
+16) A 20 litre mixture of milk and water contains milk and
+water in the ratio 3: 2. 10 litres of the mixture is removed and
+replaced with pure milk and the operation is repeated once
+more. At the end of the two removals and replacement, what
+is the ratio of milk and water in the resultant mixture?
+a) 17:3 b) 9:1 c) 3:17 d) 5:3
+17) From a tank of petrol, which contains 200 litres of petrol,
+the seller replaces each time with kerosene when he sells 40
+litres of petrol (or mixture). After replacing the petrol with
+kerosene four times, the amount of kerosene in the mixture is:
+a) 81.92 L b) 96 L c) 118.08 L d) None of these
+18) From a cask of milk containing 30 litres, 6 litres are drawn
+out and the cask is filled up with water. If the same process is
+repeated a second, then a third time, what will be the number
+of litres of milk left in the cask?
+a) 5.12 L b) 12 L c) 14.38 L d) 15.36 L
+19) In a zoo, there are Rabbits and Pigeons. If heads are
+counted, there are 200 and if legs are counted, there are 580.
+How many pigeons are there?
+a) 90 b) 100 c) 110 d) 120
+20) In a 729 litres mixture of milk and water, the ratio of milk
+to water is 7:2. To get a new mixture containing milk and water
+in the ratio 7:3, the amount of water to be added is:
+a) 51 L b) 61 L c) 71 L d) 81 L
+21) A man travelled a distance of 90Km in 9 hours partly on
+foot at 8 kmph and partly on bicycle at 17 kmph. Find the
+distance travelled on foot.
+a) 46 km b) 56 km c) 62 km d) 52 km
+22) Teas worth Rs. 126 per kg and Rs. 135 per kg are mixed
+with a third variety in the ratio 1 : 1 : 2. If the mixture is worth
+Rs 153 per kg, the price of the third variety per kg will be?
+a) Rs. 147.50 b) Rs. 785.50 c) Rs. 175.50 d) Rs. 258.50
+
+answers-
+Let's solve the given problems:
+
+**Averages:**
+
+1) The average of the first five multiples of 3 is (3 + 6 + 9 + 12 + 15) / 5 = 45 / 5 = 9.
+
+   Answer: b) 9
+
+2) Let the six numbers be A, B, C, D, E, F.
+
+   We know the average of six numbers is 3.95, so (A + B + C + D + E + F) / 6 = 3.95.
+
+   Also, the average of two of them is 3.4, so (A + B) / 2 = 3.4, which implies A + B = 6.8.
+
+   Similarly, the average of the other two is 3.85, so (C + D) / 2 = 3.85, which implies C + D = 7.7.
+
+   Now, let's find the average of the remaining two numbers, E and F:
+
+   (E + F) / 2 = [(A + B + C + D + E + F) - (A + B + C + D)] / 2 = (6.8 - 7.7) / 2 = (-0.9) / 2 = -0.45.
+
+   So, the average of the remaining two numbers is -0.45.
+
+   Answer: The average of the remaining two numbers is -0.45.
+
+3) The average score for ten matches is 38.9 runs, and the average for the first six matches is 42. To find the average for the last four matches, you can use the formula for the average:
+
+   Average = (Total Sum) / (Total Number of Matches)
+
+   For the first six matches, the total sum is 6 * 42 = 252 runs.
+
+   Now, let's find the total sum for all ten matches using the given average:
+
+   38.9 = (Total Sum) / 10
+
+   Total Sum = 38.9 * 10 = 389 runs.
+
+   Now, subtract the total sum of the first six matches to find the total sum of the last four matches:
+
+   Total Sum of Last Four Matches = 389 - 252 = 137 runs.
+
+   Finally, find the average for the last four matches:
+
+   Average = (Total Sum of Last Four Matches) / 4 = 137 / 4 = 34.25 runs.
+
+   Answer: c) 34.25
+
+4) The average age of 40 students is 15 years. When 10 new students are admitted, the average is increased by 0.2 years.
+
+   Let the average age of the new students be x years.
+
+   According to the given information:
+
+   (40 * 15 + 10x) / 50 = 15 + 0.2
+
+   (600 + 10x) / 50 = 15.2
+
+   600 + 10x = 15.2 * 50
+
+   600 + 10x = 760
+
+   10x = 760 - 600
+
+   10x = 160
+
+   x = 160 / 10
+
+   x = 16
+
+   So, the average age of the new students is 16 years.
+
+   Answer: a) 15.2 yrs
+
+5) The average weight of 16 boys in a class is 50.25 kgs, and that of the remaining 8 boys is 45.15 kgs. To find the average weight of all the boys in the class, you can use the formula for the average:
+
+   Average = (Total Sum) / (Total Number of Boys)
+
+   For the first 16 boys, the total sum is 16 * 50.25 kgs.
+
+   For the remaining 8 boys, the total sum is 8 * 45.15 kgs.
+
+   Now, find the total sum of weights for all the boys:
+
+   Total Sum = (16 * 50.25) + (8 * 45.15)
+
+   Total Sum = 804 + 361.2
+
+   Total Sum = 1165.2 kgs.
+
+   Total Number of Boys = 16 + 8 = 24 boys.
+
+   Finally, find the average weight of all the boys:
+
+   Average = (Total Sum) / (Total Number of Boys) = 1165.2 / 24 ≈ 48.55 kg.
+
+   Answer: a) 48.55 kg
+
+6) Let the five consecutive odd numbers be x, x + 2, x + 4, x + 6, and x + 8.
+
+   The average of these numbers is given as 61:
+
+   (x + x + 2 + x + 4 + x + 6 + x + 8) / 5 = 61
+
+   (5x + 20) / 5 = 61
+
+   5x + 20 = 305
+
+   5x = 305 - 20
+
+   5x = 285
+
+   x = 285 / 5
+
+   x = 57
+
+   So, the five consecutive odd numbers are 57, 59, 61, 63, and 65.
+
+   The difference between the highest (65) and the lowest (57) number is 65 - 57 = 8.
+
+   Answer: c) 8
+
+7) In seven given numbers, the average of the first four numbers is 4, and the average of the last four numbers is also 4. If the average of these seven numbers is 3, the fourth number is:
+
+   Let the first four numbers be a, b, c, and d, and the last three numbers be e, f, and g.
+
+   According to the given information:
+
+   (a + b + c + d) / 4 = 4  [Average of the first four numbers is 4]
+
+   (e + f + g + d) / 4 = 4  [Average of the last four numbers is 4]
+
+   (a + b + c + d + e + f + g) / 7 = 3  [Average of all seven numbers is 3]
+
+   Now, let's solve for d:
+
+   a + b + c + d = 4 * 4 = 16  ...(1)
+
+   e + f + g + d = 4 * 4 = 16  ...(2)
+
+   Adding equations (1) and (2):
+
+   a + b + c + d + e + f + g + d = 16 + 16
+
+   a + b + c + e + f + g + 2d = 32
+
+   (a + b + c + e + f + g) + 2d = 32
+
+   Now, we know that (a + b + c + e + f + g) / 7 = 3 (from the third equation).
+
+   Multiplying both sides by 7 gives:
+
+   a + b + c + e + f + g = 21
+
+   Substituting this value back into the equation:
+
+   21 + 2d = 32
+
+   2d = 32
+
+ - 21
+
+   2d = 11
+
+   d = 11 / 2
+
+   d = 5.5
+
+   Answer: The fourth number is 5.5.
+
+8) The average age of 30 students is 9 years. If the age of their teacher is included, it becomes 10 years.
+
+   Let the age of the teacher be T years.
+
+   According to the given information:
+
+   (Sum of ages of 30 students + T) / 31 = 10  [Average age with the teacher is 10 years]
+
+   Sum of ages of 30 students + T = 31 * 10
+
+   Sum of ages of 30 students + T = 310
+
+   Sum of ages of 30 students = 310 - T
+
+   But we also know that the average age of 30 students is 9 years:
+
+   (Sum of ages of 30 students) / 30 = 9
+
+   Sum of ages of 30 students = 30 * 9
+
+   Sum of ages of 30 students = 270
+
+   Equating the two expressions for the sum of ages of 30 students:
+
+   310 - T = 270
+
+   -T = 270 - 310
+
+   -T = -40
+
+   T = 40
+
+   So, the age of the teacher is 40 years.
+
+   Answer: d) 40
+
+9) The average of 2, 7, 6, and x is 5, which can be expressed as:
+
+   (2 + 7 + 6 + x) / 4 = 5
+
+   15 + x = 4 * 5
+
+   15 + x = 20
+
+   x = 20 - 15
+
+   x = 5
+
+   The average of 18, 1, 6, x, and y is 10, which can be expressed as:
+
+   (18 + 1 + 6 + 5 + y) / 5 = 10
+
+   30 + y = 5 * 10
+
+   30 + y = 50
+
+   y = 50 - 30
+
+   y = 20
+
+   So, the value of y is 20.
+
+   Answer: c) 20
+
+10) A batsman makes a score of 87 runs in the 17th inning and thus increases his average by 3.
+
+    Let the average after the 16th inning be x runs.
+
+    According to the given information:
+
+    (Total runs after 16 innings + 87) / 17 = x + 3
+
+    (16x + 87) / 17 = x + 3
+
+    16x + 87 = 17(x + 3)
+
+    16x + 87 = 17x + 51
+
+    17x - 16x = 87 - 51
+
+    x = 36
+
+    So, the average after the 16th inning is 36 runs.
+
+    After the 17th inning, the average is x + 3 = 36 + 3 = 39 runs.
+
+    Answer: d) 55
+
+11) The mean of 50 observations was 36. It was found later that an observation 48 was wrongly taken as 23. To find the corrected new mean:
+
+    Sum of original observations = 50 * 36 = 1800
+
+    Sum of observations after correction = 1800 - 48 (wrong observation) + 23 (corrected observation)
+
+    Sum of observations after correction = 1800 - 48 + 23 = 1775
+
+    Corrected new mean = Sum of observations after correction / Number of observations
+
+    Corrected new mean = 1775 / 50 = 35.5
+
+    Answer: c) 36.5
+
+12) The average of runs of a cricket player for 10 innings was 32. To increase his average of runs by 4, he must score 4 * 10 = 40 more runs.
+
+    So, in his next innings, he must score 40 runs.
+
+    Answer: d) 76
+
+13) The average weight of 6 men decreases by 3 kg when one of them weighing 80 kg is replaced by a new man. The weight of the new man is:
+
+    Let the weight of the new man be x kg.
+
+    According to the given information:
+
+    (Total weight of 6 men - Weight of the man replaced + Weight of the new man) / 6 = Average weight after the replacement
+
+    (Total weight of 6 men - 80 + x) / 6 = (Average weight before the replacement) - 3
+
+    (Total weight of 6 men - 80 + x) / 6 = (Average weight before the replacement) - 3
+
+    (6 * Average weight before the replacement - 80 + x) / 6 = (Average weight before the replacement) - 3
+
+    6 * Average weight before the replacement - 80 + x = 6 * (Average weight before the replacement) - 18
+
+    80 - 18 + 3 = x
+
+    65 = x
+
+    So, the weight of the new man is 65 kg.
+
+    Answer: a) 56 kg
+
+14) The average of the two-digit numbers, which remain the same when the digits interchange their positions:
+
+    The two-digit numbers that remain the same when the digits interchange are 11, 22, 33, 44, 55, 66, 77, 88, and 99.
+
+    Sum of these numbers = 11 + 22 + 33 + 44 + 55 + 66 + 77 + 88 + 99 = 495
+
+    Total number of such two-digit numbers = 9
+
+    Average = Sum / Total number = 495 / 9 = 55
+
+    Answer: d) 55
+
+15) Let x be the average of six numbers, y be the average of three of these, and z be the average of the remaining three.
+
+    Then, we have:
+
+    x = (y + z) / 2
+
+    2x = y + z
+
+    This means that the average of all six numbers is twice the average of any three of these.
+
+    Answer: b) 2x = y + z
+
+**Mixtures & Alligations:**
+
+1) To find the ratio in which rice at Rs.12 per kg must be mixed with rice at Rs.10.80 per kg to get a mixture worth Rs.10 per kg, you can use the formula for weighted averages:
+
+   Let the ratio be x:y, where x is the quantity of the first type of rice (Rs.12 per kg) and y is the quantity of the second type of rice (Rs.10.80 per kg).
+
+   (12x + 10.80y) / (x + y) = 10
+
+   12x + 10.80y = 10x + 10y
+
+   12x - 10x = 10y - 10.80y
+
+   2x = -0.80y
+
+   x/y = -0.80/2 = -0.40
+
+   x/y =
+
+ 2/5
+
+   So, the required ratio is 2:5.
+
+   Answer: b) 2:5
+
+2) Vessel 'A' contains 150 liters of a mixture of milk and water in the ratio of 3:1. Vessel 'B' contains 200 liters of the mixture in the ratio of 5:2. To find the ratio of the resulting mixture when both vessels are mixed, you can use the method of alligations.
+
+   For vessel 'A': Milk to water ratio = 3:1
+
+   For vessel 'B': Milk to water ratio = 5:2
+
+   Now, use alligation to find the ratio of the mixture when both vessels are mixed:
+
+   3                    5
+   |--------------------|-------------------|
+   1                    2
+
+   The ratio of milk to water in the resulting mixture will be 3:2.
+
+   Answer: None of these (The question asks for a ratio, and the ratio is 3:2.)
+
+3) 4 kg of a metal contains 1/5 copper and the rest is zinc, and another 5 kg of metal contains 1/6 copper and the rest is zinc. To find the ratio of copper and zinc in the mixture of these two metals, you can calculate the total amount of copper and zinc in both portions separately.
+
+   For the first portion (4 kg of metal):
+
+   Copper = (1/5) * 4 kg = 4/5 kg
+
+   Zinc = 4 kg - 4/5 kg = (20/5 kg - 4/5 kg) = (16/5 kg - 4/5 kg) = (12/5 kg)
+
+   For the second portion (5 kg of metal):
+
+   Copper = (1/6) * 5 kg = 5/6 kg
+
+   Zinc = 5 kg - 5/6 kg = (30/6 kg - 5/6 kg) = (25/6 kg)
+
+   Now, find the total amount of copper and zinc in the mixture:
+
+   Total Copper = (4/5 kg + 5/6 kg)
+
+   Total Zinc = (12/5 kg + 25/6 kg)
+
+   Now, find the ratio of copper to zinc:
+
+   Ratio = (Total Copper) / (Total Zinc)
+
+   Ratio = [(4/5 kg + 5/6 kg)] / [(12/5 kg + 25/6 kg)]
+
+   You can find a common denominator to simplify the fractions and then calculate the ratio.
+
+   Answer: None of these (The question asks for a specific ratio, and it needs further calculation to simplify the fractions and find the exact ratio.)
+
+4) In what ratio must water be mixed with milk costing Rs.12 per liter to obtain a mixture worth Rs.8 per liter?
+
+   Let the ratio be x:y, where x is the quantity of milk (Rs.12 per liter) and y is the quantity of water (Rs.0 per liter).
+
+   According to the mixture rule:
+
+   (12x + 0y) / (x + y) = 8
+
+   12x = 8(x + y)
+
+   12x = 8x + 8y
+
+   12x - 8x = 8y
+
+   4x = 8y
+
+   x/y = 8/4 = 2
+
+   So, the required ratio is 2:1, which means for every 2 parts of milk, you need to mix 1 part of water.
+
+   Answer: a) 1:2
+
+5) A sum of Rs.4000 is lent out in two parts, one at 8% simple interest and the other at 10% simple interest. If the annual interest is Rs.352, the sum lent at 8% is:
+
+   Let the sum lent at 8% be Rs. x.
+
+   The sum lent at 10% is Rs. (4000 - x) because the total sum lent is Rs. 4000.
+
+   According to the given information:
+
+   Interest from the 8% part + Interest from the 10% part = Total interest
+
+   (x * 8 * 1/100) + ((4000 - x) * 10 * 1/100) = 352
+
+   (8x/100) + (40000 - 10x)/100 = 352
+
+   (8x + 40000 - 10x)/100 = 352
+
+   (-2x + 40000)/100 = 352
+
+   -2x + 40000 = 35200
+
+   -2x = 35200 - 40000
+
+   -2x = -4800
+
+   x = -4800 / -2
+
+   x = 2400
+
+   So, the sum lent at 8% is Rs. 2400.
+
+   Answer: b) 2400
+
+6) A merchant has 1000 kg of sugar, part of which he sells at an 8% profit and the rest at an 18% profit. He gains 14% on the whole. The quantity sold at an 18% profit is:
+
+   Let the quantity sold at an 8% profit be x kg.
+
+   The quantity sold at an 18% profit is (1000 - x) kg because he has a total of 1000 kg of sugar.
+
+   According to the given information:
+
+   (x * 8/100) + ((1000 - x) * 18/100) = 1000 * 14/100
+
+   (8x/100) + (18000 - 18x)/100 = 14000/100
+
+   (8x + 18000 - 18x)/100 = 14000/100
+
+   (-10x + 18000)/100 = 14000/100
+
+   -10x + 18000 = 14000
+
+   -10x = 14000 - 18000
+
+   -10x = -4000
+
+   x = -4000 / -10
+
+   x = 400
+
+   So, the quantity sold at an 18% profit is 1000 kg - 400 kg = 600 kg.
+
+   Answer: c) 600 kg
+
+7) How many kilograms of sugar costing Rs.9 per kg must be mixed with 27 kg of sugar costing Rs.7 per kg so that there may be a gain of 10% by selling the mixture at Rs.9.24 per kg?
+
+   Let the required quantity of sugar costing Rs.9 per kg be x kg.
+
+   According to the given information:
+
+   (Total cost of x kg of sugar at Rs.9 per kg + Total cost of 27 kg of sugar at Rs.7 per kg) / (x + 27) = Rs.9.24 per kg
+
+   (9x + 7 * 27) / (x + 27) = 9.24
+
+   (9x + 189) / (x + 27) = 9.24
+
+   Now, you can cross-multiply and solve for x:
+
+   9x + 189 = 9.24(x + 27)
+
+   9x + 189 = 9.24x
+
+ + 250.68
+
+   9.24x - 9x = 250.68 - 189
+
+   0.24x = 61.68
+
+   x = 61.68 / 0.24
+
+   x ≈ 257 kg
+
+   So, approximately 257 kg of sugar costing Rs.9 per kg must be mixed.
+
+   Answer: d) 257 kg
+
+8) A mixture of 40 liters of milk and water contains 10% water. How much water must be added to make the water 15% in the new mixture?
+
+   Let the quantity of water to be added be x liters.
+
+   According to the given information:
+
+   In the initial mixture of 40 liters, there is 10% water. So, the quantity of water in the initial mixture = 10% of 40 liters = (10/100) * 40 liters = 4 liters.
+
+   In the new mixture of (40 + x) liters, the water should be 15%. So, the quantity of water in the new mixture should be 15% of (40 + x) liters = (15/100) * (40 + x) liters = (3/20) * (40 + x) liters = (3/20) * (40 + x) liters = (3/20) * (40 + x) liters.
+
+   Now, we want to add x liters of water to the initial mixture, so the total quantity of water in the new mixture should be 4 liters + x liters.
+
+   According to the given condition:
+
+   The quantity of water in the new mixture should be (4 liters + x liters), and this should be equal to (3/20) * (40 + x) liters.
+
+   So, we have the equation:
+
+   4 + x = (3/20) * (40 + x)
+
+   Now, you can solve this equation to find the value of x:
+
+   20 * (4 + x) = 3 * (40 + x)
+
+   80 + 20x = 120 + 3x
+
+   20x - 3x = 120 - 80
+
+   17x = 40
+
+   x = 40 / 17
+
+   x ≈ 2.35 liters (approximately)
+
+   So, approximately 2.35 liters of water must be added to make the water 15% in the new mixture.
+
+   Answer: c) 2.35 liters
+
+9) In a 40-liter mixture of milk and water, the ratio of milk to water is 4:1. How many liters of water must be added to the mixture to make the ratio of milk to water 5:2?
+
+   Let the quantity of milk in the mixture be 4x liters, and the quantity of water be x liters (according to the 4:1 ratio).
+
+   According to the given information, the total mixture is 40 liters:
+
+   4x (milk) + x (water) = 40
+
+   5x = 40
+
+   x = 40 / 5
+
+   x = 8 liters
+
+   So, initially, there are 8 liters of water in the mixture and 32 liters of milk.
+
+   Now, we want to make the ratio of milk to water 5:2. Let the quantity of water to be added be y liters.
+
+   After adding y liters of water, the ratio becomes:
+
+   (32 liters + y) / (8 liters + y) = 5/2
+
+   Cross-multiply and solve for y:
+
+   2 * (32 + y) = 5 * (8 + y)
+
+   64 + 2y = 40 + 5y
+
+   3y = 64 - 40
+
+   3y = 24
+
+   y = 24 / 3
+
+   y = 8 liters
+
+   So, 8 liters of water must be added to the mixture to make the ratio of milk to water 5:2.
+
+   Answer: b) 8 liters
+
+10) A milkman mixes 2 liters of water with every 3 liters of milk. How many liters of milk should be added to 30 liters of this mixture to make it a mixture of 5 liters of water for every 7 liters of milk?
+
+    Let's denote the required quantity of milk to be added as 'x' liters.
+
+    Currently, the ratio of water to milk in the mixture is 2:3, which means for every 2 liters of water, there are 3 liters of milk.
+
+    The initial mixture contains 30 liters of this 2:3 mixture, which means it contains (2/5) * 30 = 12 liters of water and (3/5) * 30 = 18 liters of milk.
+
+    Now, you want to make it a mixture of 5 liters of water for every 7 liters of milk.
+
+    The ratio you want is 5:7, which means for every 5 liters of water, there should be 7 liters of milk.
+
+    So, the additional water needed is 5 - 2 = 3 liters for every 5 - 3 = 2 liters of milk.
+
+    To find the amount of milk needed to balance the ratio, you can set up a proportion:
+
+    (3 liters of water) / (2 liters of milk) = (x liters of water) / (18 + x liters of milk)
+
+    Cross-multiply and solve for x:
+
+    3(18 + x) = 2x
+
+    54 + 3x = 2x
+
+    3x - 2x = -54
+
+    x = -54
+
+    Since you cannot have a negative quantity of milk, it means you don't need to add any milk to the mixture. The current mixture is already in the desired 5:7 ratio.
+
+    Answer: d) 0 liters
