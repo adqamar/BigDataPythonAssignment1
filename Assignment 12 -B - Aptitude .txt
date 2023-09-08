@@ -1,0 +1,436 @@
+Coding & Decoding
+
+1) If in a certain language CHAMPION is coded as HCMAIPNO, how can NEGATIVE be coded in that code?
+a) ENAGITEV b) NEAGVEIT c) MGAETVIE d) EGAITEVN
+2) If in a certain language GAMBLE is coded as FBLCKF, how can FLOWER be coded in that language?
+a) GKPVFQ b) EMNXDS c) GMPVDS d) HNQYGT
+3) If FRIEND is coded as HUMJTK, how can CANDLE be written in that code?
+a) EDRIRL b) DCQHQK c) ESJFME d) FYOBOC
+4) If FULFNHW is coded as CRICKET, EULGH will be coded as:
+a) PRIDE b) BRIDE c) BLADE d) BLIND
+5) If PALE is coded as 2134, EARTH is coded as 41590, how can is PEARL be coded in that language?
+a) 29530 b) 24153 c) 25413 d) 25430
+6) If ROSE is coded as 6821, CHAIR is coded as 73456 and PREACH is coded as 961473, what will be the code for SEARCH?
+a) 246173 b) 214673 c) 214763 d) 216473
+7) In a certain code ‘HEAT’ is written as ‘? * $ @’ and ‘FINGER’ is written as ‘! £ • & * #’. How can ‘FATHER’ be written in that code?
+a) ! $ @ ? * # b) $ @ !? # * c) @ ? ! # $ * d) !$ @ ? # *
+8) If Z = 52 and ACT = 48, then BAT will be equal to
+a) 39 b) 41 c) 44 d) 46
+9) If air is called green, green is called blue, blue is called sky, sky is called yellow, yellow is called water and water is called pink, then what is the colour of clear sky called as?
+a) Blue b) Sky c) Yellow d) Water
+10) If in a certain code NEE TIM SEE means HOW ARE YOU; BLE NEE SEE means WHERE ARE YOU, what is the code for WHERE?
+a) nee b) tim c) see d) None of these
+11) In a certain code language PIT NAE TOM means APPLE IS GREEN; NAE HO TAP means GREEN AND WHITE and HO TOM KA means SHIRT IS WHITE. Which of the following represents APPLE in that language?
+a) nae b) tom c) pit d) ho
+12) If NITCO SCO TIGO stands for SOFTER THAN FLOWER, TIGO RHO MISTO stands for SWEET FLOWER FRAGRANCE and MISTO SCO TIMPO stands for SWEET THAN SMILE what would FRAGRANCE stand for?
+a) rho b) misto c) timpo d) sco
+13) In a certain code, 247 means SPREAD RED CARPET, 256 means DUST ONE CARPET and 264 means ONE RED CARPET which digit in that code means DUST?
+a) 2 b) 3 c) 5 d) 6
+14) In a certain code language, 134 means GOOD AND TASTY, 478 means SEE GOOD PICTURES, and 729 means PICTURES ARE FAINT. Which of the following digits stands for SEE?
+a) 4 b) 7 c) 9 d) 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Directions: In a certain code, ‘LIL CE PEE’ means ‘ROSE ARE BLUE’ ; ‘ILK HEE’ means ‘RED FLOWERS’ and ‘PEE MIT HEE’ means ‘FLOWERS ARE VEGETABLES’.
+15) How is ‘RED’ written in that code?
+a) HEE b) ILK c) BE d) Cannot be determined e) None of these
+16) How is ‘ROSES’ written in that code?
+a) LIL b) PEE c) BE d) Cannot be determined e) None of these
+17) How is ‘VEGETABLES ARE RED FLOWERS’ written in this code?
+a) PEE SIK MIT HEE b) SIK PEE HEE BE c) LIL ILK MIT HEE d) Cannot be determined e) None of these.
+Directions: ‘134’ means ‘ YOU ARE WELL’; ‘758’ means ‘THEY GO HOME’; ‘839’ means ‘WE ARE HOME’
+18) Which of the following represents ‘THEY’ in that code language?
+a) 5 b) 7 c) 3 d) 8 e) Data inadequate.
+19) Which of the statements is not required while answering the above question?
+a) A only b) B only c) A or C only d) B and C only e) None of these.
+Directions: The data given below represents a coded language for different colours, analyse it and answer the questions following it:
+“BLACK ORANGE YELLOW PURPLE BLUE” is written as “SET JET LET GET BET”
+“GREY GREEN RED PURPLE” is written as “GET PET WET VET”
+“PURPLE BLUE RED SILVER” is written as “VET SET GET TET”
+“GREY ORANGE PINK” is written as “BET RET PET”
+20) Based on the information given above, what is the code for RED?
+a) VET b) PET c) RET d) WET e) GET
+21) What will be the code for “ORANGE IS RED”?
+a) BET RET VET b) BET VET ZET c) WET GET JET d) JET LET VET e) PET SET VET
+22) Which colour has been coded as “SET”?
+a) YELLOW b) BLACK c) GREEN d) GREY e) BLUE
+23) Which of the given combinations is correct?
+a) GREEN-SET b) ORANGE-BET c) GREY-SET d) PURPLE-BET e) PURPLE-PET
+Directions: Study the information given below and answer the questions following it:
+‘MOVE FAST OR LEFT BEHIND’ is coded as ‘7 1 9 0 3’
+‘MOVE LEFT BEHIND THE JOURNEY’ is coded as ‘4 9 1 5 3’
+‘YOUR JOURNEY ENDED FAST’ is coded as ‘5 2 7 6’
+‘THE LIFE ENDED OR BEHIND’ is coded as ‘0 8 4 9 2’
+24) What is the code for “LEFT”?
+a) 5 b) 6 c) 2 d) 0 e) 1
+25) Which word has been coded as “3”?
+a) MOVE b) BEHIND c) THE d) JOURNEY e) LEFT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26) How will ‘YOUR LIFE JOURNEY’ be coded as?
+a) 5 6 8 b) 1 2 3 c) 9 0 6 d) 0 2 5 e) 6 4 7
+27) Which of the given combinations is correct?
+a) LEFT-3 b) JOURNEY-5 c) ENDED-0 d) MOVE-6 e) BEHIND-8
+28) Here are some words translated from an artificial language:
+GORBLFLUR means FAN BELT
+PIXNGORBL means CEILING FAN
+ARTHTUSL means TILE ROOF
+Which word could mean "CEILING TILE"?
+a) GORBLTUSL b) FLURGORBL c) ARTHFLUR d) PIXNARTH
+29) Here are some words translated from an artificial language:
+GODABIM means KIDNEY STONES
+ROMZBIM means KIDNEY BEANS
+ROMZBAKO means WAX BEANS
+Which word could mean "WAX STATUE"?
+a) GODAROMZ b) LAZBIM c) WASIBAKO d) ROMZPEO
+30) In a certain code language
+"GIVEN TIME SIMPLE PLAN" is written as '@E4 &N4 %N5 #E6'
+"TIRED SOLUTION PLANT GREAT" is written as '#N8 @D5 %T5 &T5'
+"SICK POINT GOOD TURN" is written as '#K4 %D4 @N4 &T5'
+"GARDEN SISTER PHONE TEAM" is written as '&E5 #R6 %N6 @M4'
+Which of the following code is for 'PLAN' and 'TRANSLATE'?
+a) @E8 and &N5 b) &N4 and @E9
+c) @E1 and &N4 d) &N4 and @D7
+
+answers-
+
+**Q1) If in a certain language CHAMPION is coded as HCMAIPNO, how can NEGATIVE be coded in that code?**
+- CHAMPION -> HCMAIPNO
+- NEGATIVE -> ????
+
+The given code appears to be reversing the letters in each word. So, applying the same pattern to "NEGATIVE," we get: EVITAGEN. However, the letters within each word may also be rearranged. So, the answer could be either "EVITAGEN" or "EVITANGE." Unfortunately, without more information, we cannot determine the exact order of letters within the words.
+
+So, the answer is either **EVITAGEN** or **EVITANGE**.
+
+**Q2) If in a certain language GAMBLE is coded as FBLCKF, how can FLOWER be coded in that language?**
+- GAMBLE -> FBLCKF
+- FLOWER -> ????
+
+The given code seems to shift each letter one position forward in the alphabet. Applying the same pattern to "FLOWER," we get: **GMPVFS**.
+
+So, the answer is **GMPVFS**.
+
+**Q3) If FRIEND is coded as HUMJTK, how can CANDLE be written in that code?**
+- FRIEND -> HUMJTK
+- CANDLE -> ????
+
+The given code appears to be shifting each letter two positions forward in the alphabet. Applying the same pattern to "CANDLE," we get: **ECPNGJ**.
+
+So, the answer is **ECPNGJ**.
+
+**Q4) If FULFNHW is coded as CRICKET, EULGH will be coded as:**
+- FULFNHW -> CRICKET
+- EULGH -> ????
+
+The given code involves shifting each letter one position backward in the alphabet. Applying the same pattern to "EULGH," we get: **DRKFH**.
+
+So, the answer is **DRKFH**.
+
+**Q5) If PALE is coded as 2134, EARTH is coded as 41590, how can PEARL be coded in that language?**
+- PALE -> 2134
+- EARTH -> 41590
+- PEARL -> ????
+
+The code appears to assign a number to each letter based on its position in the alphabet, with 'A' being 1, 'B' being 2, and so on. Applying the same pattern to "PEARL," we get: **165182**.
+
+So, the answer is **165182**.
+
+**Q6) If ROSE is coded as 6821, CHAIR is coded as 73456, and PREACH is coded as 961473, what will be the code for SEARCH?**
+- ROSE -> 6821
+- CHAIR -> 73456
+- PREACH -> 961473
+- SEARCH -> ????
+
+The code appears to assign numbers to each letter based on their positions in the alphabet, with 'A' being 1, 'B' being 2, and so on. Applying the same pattern to "SEARCH," we get: **192835**.
+
+So, the answer is **192835**.
+
+**Q7) In a certain code ‘HEAT’ is written as ‘? * $ @’ and ‘FINGER’ is written as ‘! £ • & * #’. How can ‘FATHER’ be written in that code?**
+- HEAT -> ? * $ @
+- FINGER -> ! £ • & * #
+
+The code appears to replace each letter with a symbol or character. Let's apply the same pattern to "FATHER":
+- F -> !
+- A -> £
+- T -> *
+- H -> #
+- E -> ?
+
+So, the code for "FATHER" is **!£*#?**.
+
+**Q8) If Z = 52 and ACT = 48, then BAT will be equal to:**
+- Z = 52
+- ACT = 48
+- BAT = ????
+
+Let's analyze this:
+- The sum of the positions of the letters in "ACT" is 1 + 3 + 20 = 24.
+- The sum of the positions of the letters in "BAT" is 2 + 1 + 20 = 23.
+
+So, BAT = 23.
+
+**Q9) If air is called green, green is called blue, blue is called sky, sky is called yellow, yellow is called water, and water is called pink, then what is the color of clear sky called as?**
+- According to the given information, "sky" is called "yellow." So, the color of clear sky is called **yellow**.
+
+**Q10) If in a certain code NEE TIM SEE means HOW ARE YOU; BLE NEE SEE means WHERE ARE YOU, what is the code for WHERE?**
+- According to the given information:
+  - NEE TIM SEE -> HOW ARE YOU
+  - BLE NEE SEE -> WHERE ARE YOU
+
+So, the code for "WHERE" is **BLE**.
+
+**Q11) In a certain code language PIT NAE TOM means APPLE IS GREEN; NAE HO TAP means GREEN AND WHITE, and HO TOM KA means SHIRT IS WHITE. Which of the following represents APPLE in that language?**
+- Based on the given information:
+  - PIT NAE TOM -> APPLE IS GREEN
+  - NAE HO TAP -> GREEN AND WHITE
+  - HO TOM KA -> SHIRT IS WHITE
+
+The word common to all three sentences is "GREEN." Therefore, **GREEN** represents "APPLE" in that language.
+
+**Q12) If NITCO SCO TIGO stands for SOFTER THAN FLOWER, TIGO RHO MISTO stands for SWEET FLOWER FRAGRANCE, and MISTO SCO TIMPO stands for SWEET THAN SMILE, what would FRAGRANCE stand for?**
+- Based on the given information:
+  - NITCO SCO TIGO -> SOFTER THAN FLOWER
+  - TIGO RHO MISTO -> SWEET FLOWER FRAGRANCE
+  - MISTO SCO TIMPO -> SWEET THAN SMILE
+
+The word common to all three sentences is "FLOWER." Therefore, **FLOWER** represents "FRAGRANCE" in that language.
+
+**Q13) In a certain code, 247 means SPREAD RED CARPET, 256 means DUST ONE CARPET, and 264 means ONE RED CARPET. Which digit in that code means DUST?**
+- To find the code for "DUST," we need to identify the common digit in all three codes (247, 256, and 264). The common digit is **6**.
+
+So, **6** means "DUST."
+
+**Q14) In a certain code language, 134 means GOOD AND TASTY, 478 means SEE GOOD PICTURES, and 729 means PICTURES ARE FAINT. Which of the following digits stands for SEE?**
+- To find the code for "SEE," we need to identify the common digit in all three codes (134, 478, and 729). The common digit is **4**.
+
+So, **4** stands for "SEE."
+
+**Q15) How is ‘RED’ written in that code?**
+- Based on
+
+ the given information:
+  - "LIL CE PEE" means "ROSE ARE BLUE"
+  - "ILK HEE" means "RED FLOWERS"
+  - "PEE MIT HEE" means "FLOWERS ARE VEGETABLES"
+
+From the above information, we can deduce that "HEE" represents "RED."
+
+So, **HEE** is the code for "RED."
+
+**Q16) How is ‘ROSES’ written in that code?**
+- Based on the given information:
+  - "LIL CE PEE" means "ROSE ARE BLUE"
+
+From the above information, we can deduce that "LIL" represents "ROSES."
+
+So, **LIL** is the code for "ROSES."
+
+**Q17) How is ‘VEGETABLES ARE RED FLOWERS’ written in this code?**
+- Based on the given information:
+  - "LIL CE PEE" means "ROSE ARE BLUE"
+  - "ILK HEE" means "RED FLOWERS"
+  - "PEE MIT HEE" means "FLOWERS ARE VEGETABLES"
+
+We can break down the given phrase as follows:
+- "VEGETABLES" -> "FLOWERS ARE VEGETABLES" (PEE MIT HEE)
+- "ARE" -> CE
+- "RED FLOWERS" -> ILK HEE
+
+So, the code for "VEGETABLES ARE RED FLOWERS" is **PEE CE ILK HEE**.
+
+**Q18) Which of the following represents ‘THEY’ in that code language?**
+- Unfortunately, we don't have enough information to determine the code for "THEY" based on the given information.
+
+So, the answer is **Data inadequate.**
+
+**Q19) Which of the statements is not required while answering the above question?**
+- The statement "B and C only" is not required because both B and C alone are insufficient to determine the code for "THEY."
+
+So, the answer is **B and C only.**
+
+**Q20) Based on the information given above, what is the code for RED?**
+- Unfortunately, we don't have enough information to determine the code for "RED" based on the given information.
+
+So, the answer is **Cannot be determined.**
+
+**Q21) What will be the code for “ORANGE IS RED”?**
+- Unfortunately, we don't have enough information to determine the code for "ORANGE IS RED" based on the given information.
+
+So, the answer is **Cannot be determined.**
+
+**Q22) Which colour has been coded as “SET”?**
+- Unfortunately, we don't have enough information to determine which color has been coded as "SET" based on the given information.
+
+So, the answer is **Cannot be determined.**
+
+**Q23) Which of the given combinations is correct?**
+- Unfortunately, we don't have enough information to determine the correct combination based on the given information.
+
+So, the answer is **Cannot be determined.**
+
+**Q24) What is the code for “LEFT”?**
+- Based on the given information:
+  - "GAMBLE" is coded as "FBLCKF"
+
+The code seems to shift each letter one position backward in the alphabet. Applying the same pattern to "LEFT," we get: **KDES**.
+
+So, the code for "LEFT" is **KDES.**
+
+**Q25) Which word has been coded as “3”?**
+- Unfortunately, we don't have enough information to determine which word has been coded as "3" based on the given information.
+
+So, the answer is **Cannot be determined.**
+
+**Q26) How will ‘YOUR LIFE JOURNEY’ be coded as?**
+- Unfortunately, we don't have enough information to determine the code for "YOUR LIFE JOURNEY" based on the given information.
+
+So, the answer is **Cannot be determined.**
+
+**Q27) Which of the given combinations is correct?**
+- Unfortunately, we don't have enough information to determine the correct combination based on the given information.
+
+So, the answer is **Cannot be determined.**
+
+**Q28) Here are some words translated from an artificial language:
+   GORBLFLUR means FAN BELT
+   PIXNGORBL means CEILING FAN
+   ARTHTUSL means TILE ROOF
+   Which word could mean "CEILING TILE"?**
+- Let's analyze the given translations:
+   - GORBLFLUR -> FAN BELT
+   - PIXNGORBL -> CEILING FAN
+   - ARTHTUSL -> TILE ROOF
+
+In the translations, the first part of each word appears to represent the second part of the English word. For example, "GORBL" represents "FAN" in "FAN BELT."
+
+So, for "CEILING TILE," the code could be **PIXNARTHT**.
+
+**Q29) Here are some words translated from an artificial language:
+   GODABIM means KIDNEY STONES
+   ROMZBIM means KIDNEY BEANS
+   ROMZBAKO means WAX BEANS
+   Which word could mean "WAX STATUE"?**
+- Let's analyze the given translations:
+   - GODABIM -> KIDNEY STONES
+   - ROMZBIM -> KIDNEY BEANS
+   - ROMZBAKO -> WAX BEANS
+
+In the translations, the first part of each word appears to represent the second part of the English word. For example, "GODAB" represents "KIDNEY" in "KIDNEY STONES."
+
+So, for "WAX STATUE," the code could be **ROMZBAKO**.
+
+**Q30) In a certain code language:
+   "GIVEN TIME SIMPLE PLAN" is written as '@E4 &N4 %N5 #E6'
+   "TIRED SOLUTION PLANT GREAT" is written as '#N8 @D5 %T5 &T5'
+   "SICK POINT GOOD TURN" is written as '#K4 %D4 @N4 &T5'
+   "GARDEN SISTER PHONE TEAM" is written as '&E5 #R6 %N6 @M4'
+   Which of the following code is for 'PLAN' and 'TRANSLATE'?**
+- Let's find the codes for "PLAN" and "TRANSLATE" based on the given information:
+
+   - "GIVEN TIME SIMPLE PLAN" is written as '@E4 &N4 %N5 #E6'
+   - "TIRED SOLUTION PLANT GREAT" is written as '#N8 @D5 %T5 &T5'
+
+The code for "PLAN" is **%N5**.
+
+Now, let's find the code for "TRANSLATE" based on the given information:
+
+   - "GARDEN SISTER PHONE TEAM" is written as '&E5 #R6 %N6 @M4'
+
+The code for "TRANSL
+
+ATE" is **#R6 %N6**.
+
+So, the code for "PLAN" is **%N5**, and the code for "TRANSLATE" is **#R6 %N6**.
