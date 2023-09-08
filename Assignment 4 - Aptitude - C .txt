@@ -1,0 +1,664 @@
+Problems on Ages
+
+1) The sum of ages of 5 children born at the intervals of 3 years
+each is 50 years. What is the age of the youngest child?
+a) 4 years b) 8 years c) 10 years d) None of these
+2) A father said to his son, "At the time of your birth, I was as
+old as you are at present ". If the father's age is 38 years now,
+the son's age five years back was:
+a) 14 years b) 19 years c) 33 years d) 38 years
+3) Six years ago, the ratio of the ages of Naman and Sagar was
+6:5. Four years hence, the ratio of their ages will be 11:10.
+What is Sagar's age at present?
+a) 16 years b) 18 years c) 20 years d) Cannot be determined
+4) The sum of the present ages of a father and his son is 60
+years. Six years ago, father's age was five times the age of the
+son. After 6 years, son's age will be:
+a) 12 years b) 14 years c) 18 years d) 20 years
+5) The present ages of three persons are in proportion 4:7:9.
+Eight years ago, the sum of their ages was 56. Find their
+present ages (in years).
+a) 8, 20, 28 b) 16, 28, 36 c) 20, 35, 45 d) None of these
+6) Ayesha's father was 38 years of age when she was born
+while her mother was 36 years old when her brother four years
+younger to her was born. What is the difference between the
+ages of her parents?
+a) 2 years b) 4 years c) 6 years d) 8 years
+7) A person's present age is two-fifth of the age of his mother.
+After 8 years, he will be one-half of the age of his mother. How
+old is the mother at present?
+a) 32 years b) 36 years c) 40 years d) 48 years
+8) Q is as much younger than R as he is older than T. If the sum
+of the ages of R and T is 50 years, what is definitely the
+difference between R and Q's age?
+a) 1 year b) 2 years c) 25 years d) Data inadequate
+
+Venn Diagrams
+
+1) In a certain region, the number of children who have been
+vaccinated against rubella is twice the number of children who
+have been vaccinated against mumps. The number of children
+who have been vaccinated against both is twice the number of
+children who have been vaccinated only against mumps. If
+5,000 have been vaccinated against both, how many have
+been vaccinated only against rubella?
+a) 2,500 b) 7,500 c) 10,000 d) 15,000 e) 17,500
+2) One hundred and twenty-five aliens descended on a set of
+film on extra-terrestrial beings. Of these, 40 had two noses, 30
+had three legs, 20 had four ears, 10 had two noses and three
+legs, 12 had three legs and four ears, 5 had two noses and four
+ears, and 3 had all the three unusual features. How many were
+there without any of these unusual features?
+
+a) 5 b) 35 c) 80 d) None of these
+3) In a class test consisting of mathematics and physics, 80%
+passed in mathematics and 50% passed in physics. 15% failed
+in both the subjects. If 180 students passed in both the
+subjects, how many failed in both the subjects?
+a) 80 b) 60 c) 90 d) 50
+4) 30% people of India like cold weather, 40% like summer,
+55% like autumn. 18% like cold and summer, 20% like summer
+and autumn, 12% like cold and autumn. 10% like all three
+weathers.
+a) How many like none of the weathers?
+b) How many like only cold and summer?
+c) How many like cold and autumn?
+d) How many like at least one?
+e) How many like only one?
+f) How many like at least two?
+5) Data on the 468 students who took an examination on
+Chemistry, Physics and Mathematics, is as follows:
+Passed in all the subjects-197
+Failed in all the subjects-70
+Failed in Chemistry-170
+Failed in Physics-210
+Failed in Mathematics-192
+Passed in Chemistry only-64
+Passed in Physics only-51
+Passed in Mathematics only-46
+a) How many have failed in Chemistry only?
+b) How many have failed in one subject only?
+c) How many have passed in at least one subject?
+d) How many have passed in at least two subjects?
+e) How many have passed in exactly two subjects?
+
+Partnerships
+
+1) A company makes a profit of Rs. 9,00,000. Twenty percent
+of which is paid as taxes. If the rest is divided among the
+partners P, Q & R in the ratio of 1:1.5:2, then the shares of P,
+Q, & R are respectably:
+a) 2.4 L, 3.2 L & 1.6 L b) 3.2 L, 2.4 L & 1.6 L
+c) 1.6 L 2.4 L & 3.2 L d) 1.6 L 3.2 L & 2.4 L
+2) Three partners shared the profit in a business in the ratio
+5:7:8. They had partnered for 14 months, 8 months and 7
+months respectively. What was the ratio of their investments?
+a) 5:7:8 b) 20:49:64 c) 38:28:21 d) None of these
+3) A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs.
+4000 more than B and B Rs. 5000 more than C. Out of a total
+profit of Rs. 35,000, A receives:
+a) Rs. 8400 b) Rs. 11,900 c) Rs. 13,600 d) Rs. 14,700
+4) A and B started a business in partnership investing Rs.
+20,000 and Rs. 15,000 respectively. After six months, C joined
+
+them with Rs. 20,000. What will be B's share in total profit of
+Rs. 25,000 earned at the end of 2 years from the start?
+a) Rs. 7500 b) Rs. 9000 c) Rs. 9500 d) Rs. 10,000
+5) A began a business with Rs. 85,000. He was later joined by B
+with Rs. 42,500. For how much period does B join, if the profits
+at the end of the year are divided in the ratio of 3:1?
+a) 4 months b) 5 months c) 6 months d) 8 months
+6) A and B invest in a business in the ratio 3:2. If 5% of the total
+profit goes to charity and A's share is Rs. 855, the total profit is:
+a) Rs. 1425 b) Rs. 1500 c) Rs. 1537.50 d) Rs. 1576
+7) We have to divide a sum of Rs. 13,950 among three persons
+A, B & C. B must get the double of A’s share and C must get Rs.
+50 less than the double of B’s share. The share of A will be:
+a) Rs. 1950 b) Rs. 1981 c) Rs. 2000 d) Rs. 2007.75
+8) A and B are partners in a business. They invest in the ratio
+5:6 and at the end of 8 months, A withdraws. If they receive
+profits in the ratio 5:9, find how long B’s investment was used?
+a) 1 year b) 10 months c) 15 months d) 14 months
+9) A, B and C jointly thought of engaging themselves in a
+business venture. It was agreed that A would invest Rs. 6500
+for 6 months, B, Rs. 8400 for 5 months and C, Rs. 10,000 for 3
+months. A wants to be the working member for which, he was
+to receive 5% of the profits. The profit earned was Rs. 7400.
+Calculate the share of B in the profit.
+a) Rs. 1900 b) Rs. 2660 c) Rs. 2800 d) Rs. 2840
+10) A and B entered into partnership with capitals in the ratio
+4:5. After 3 months, A withdrew 1/4 of his capital and B
+withdrew 1/5 of his capital. The gain at the end of 10 months
+was Rs. 760. A's share in this profit is:
+a) Rs. 330 b) Rs. 360 c) Rs. 380 d) Rs. 430
+Progressions & Series
+
+1) What is the sum of all three digit numbers that leave a
+remainder of '2' when divided by 3?
+a) 897 b) 1,64,850 c) 1,64,749 d) 1,49,700
+2) What is the sum of all positive integers up to 1000, which
+are divisible by 5 and are not divisible by 2?
+a) 10,050 b) 5050 c) 5000 d) 50,000
+3) The sum of the three numbers in A.P is 21 and the product
+of the first and third number of the sequence is 45. What are
+the three numbers?
+a) 5, 7, and 9 b) 9, 7, and 5 c) 3, 7, and 11 d) Both (1) and (2)
+4) Given A = 2^65 and B = (2^64+2^63+2^62+...+2^0)
+a) B = A+2^64 b) A = B c) B = A + 1 d) A = B + 1
+5) The sum of third and ninth term of an A.P is 8. Find the sum
+of the first 11 terms of the progression.
+a) 44 b) 22 c) 19 d) None of the above
+6) A piece of equipment cost a certain factory Rs. 6,00,000. If it
+depreciates in value, 15% the first year, 13.5 % the next year,
+
+12% the third year, and so on, what will be its value at the end
+of 10 years, all percentages applying to the original cost?
+a) 2,00,000 b) 1,05,000 c) 4,05,000 d) 6,50,000
+7) The sum of the fourth and twelfth term of an arithmetic
+progression is 20. What is the sum of the first 15 terms of the
+arithmetic progression?
+a) 300 b) 120 c) 150 d) 170 e) 270
+8) If a rubber ball consistently bounces back 2/3 of the height
+from which it is dropped, what fraction of its original height
+will the ball bounce after being dropped and bounced four
+times without being stopped?
+a) 16/81 b) 16/27 c) 4/9 d) 37/81 e) 9/12
+9) What is the sum of the following series: -64, -66, -68,.... -100
+a) -1458 b) -1558 c) -1568 d) -1664 e) None of the above
+10) If log 2, log (2x -1) and log (2x + 3) are in A.P, then find ‘x’.
+a) 5/2 b) log2(5) c) log3(2) d) 3/2
+11) In the first 1000 natural numbers, how many integers exist
+such that they leave a remainder 4 when divided by 7, and a
+remainder 9 when divided by 11?
+a) 11 b) 14 c) 12 d) 13 e) 10
+12) How many 3 digit positive integers exist that when divided
+by 7 leave a remainder of 5?
+a) 128 b) 142 c) 143 d) 141 e) 129
+13) If the arithmetic mean of a, b, c is M and ab + bc + ca = 0,
+then the arithmetic mean of a2
+, b2
+, c2
+is:
+
+a) M
+2
+b) 3M2
+c) 6M2
+d) 9M2
+
+14) If the ratio of the sum of the first 6 terms of a G.P. to the
+sum of the first 3 terms of the G.P. is 9, what is the common
+ratio of the G.P?
+a) 3 b) 1/3 c) 2 d) 9 e) 1/9
+15) Set A contains all the even numbers between 2 and 50
+inclusive. Set B contains all the even numbers between 102
+and 150 inclusive. What is the difference between the sum of
+elements of set B and the sum of the elements of set A?
+a) 2500 b) 5050 c) 11325 d) 6275 e) 2550
+17) Two travelers set out on a long odyssey. The first traveler
+starts from city X and travels north on a certain day and covers
+1 km on the first day and on subsequent days, he travels 2 km
+more than the previous day. After 3 days, a second traveler
+sets out from city X in the same direction as the first traveler
+and on his first day he travels 12 km and on subsequent days
+he travels 1 km more than the previous day. On how many
+days will the second traveler be ahead of the first?
+a) 2 days b) From the 2nd day after the 2nd traveler starts
+c) 6 days d) From the 3rd day after the 2nd traveler starts
+16) Find the nth term of the sequence: 5 + 55 +555 +5555......
+a) 5(10^n - 1) b) 5^n(10^n - 1)
+c) (5/9)*(10^n - 1) d) (5/9)^n *(10^n - 1)
+
+answers-
+Let's solve the problems step by step:
+
+**Problems on Ages:**
+
+1) The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?
+   - Let the ages be x, x+3, x+6, x+9, and x+12 (since they are born at intervals of 3 years).
+   - Sum of their ages: x + (x+3) + (x+6) + (x+9) + (x+12) = 5x + 30
+   - Given that the sum is 50 years: 5x + 30 = 50
+   - Solve for x: 5x = 20 => x = 4
+   - So, the age of the youngest child is 4 years. Answer: a) 4 years
+
+2) A father said to his son, "At the time of your birth, I was as old as you are at present". If the father's age is 38 years now, the son's age five years back was:
+   - Let the son's current age be x years.
+   - According to the statement, the father's age at the time of the son's birth was also x years.
+   - Given that the father's age is 38 now, it means the son is 38 years younger than his father.
+   - So, the son's age 5 years ago: x - 5 = 38 - 5 = 33 years. Answer: c) 33 years
+
+3) Six years ago, the ratio of the ages of Naman and Sagar was 6:5. Four years hence, the ratio of their ages will be 11:10. What is Sagar's age at present?
+   - Let Naman's age 6 years ago be 6x, and Sagar's age 6 years ago be 5x.
+   - The given ratio 6:5 implies (6x - 6)/(5x - 6) = 6/5.
+   - Solve for x: 30x - 30 = 30x - 36 => 6 = 36 => x = 6
+   - So, Naman's age now is 6x + 6 = 36 + 6 = 42 years, and Sagar's age now is 5x + 6 = 30 + 6 = 36 years. Answer: b) 18 years
+
+4) The sum of the present ages of a father and his son is 60 years. Six years ago, the father's age was five times the age of the son. After 6 years, the son's age will be:
+   - Let the father's current age be F years, and the son's current age be S years.
+   - According to the first statement, F + S = 60.
+   - According to the second statement, (F - 6) = 5(S - 6).
+   - Solve this system of equations: F + S = 60 and F - 6 = 5(S - 6).
+   - You'll find that F = 45 and S = 15.
+   - After 6 years, the son's age will be 15 + 6 = 21 years. Answer: d) 20 years
+
+5) The present ages of three persons are in proportion 4:7:9. Eight years ago, the sum of their ages was 56. Find their present ages (in years).
+   - Let the present ages be 4x, 7x, and 9x.
+   - Eight years ago, their ages were (4x - 8), (7x - 8), and (9x - 8).
+   - The sum of their ages eight years ago is given as 56, so (4x - 8) + (7x - 8) + (9x - 8) = 56.
+   - Solve for x: 20x - 24 = 56 => 20x = 80 => x = 4
+   - Present ages: 4x = 4 * 4 = 16 years, 7x = 7 * 4 = 28 years, 9x = 9 * 4 = 36 years.
+   - So, their present ages are 16, 28, and 36 years. Answer: c) 20, 35, 45 years
+
+6) Ayesha's father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger than her was born. What is the difference between the ages of her parents?
+   - The age difference between Ayesha and her father is 38 years.
+   - Her mother is 4 years younger than her father.
+   - So, the difference between her parents' ages is 38 - 4 = 34 years. Answer: b) 4 years
+
+7) A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present?
+   - Let the person's present age be P years, and his mother's age be M years.
+   - According to the first statement, P = (2/5)M.
+   - According to the second statement, P + 8 = (1/2)(M + 8).
+   - Substitute the first equation into the second equation: (2/5)M + 8 = (1/2)(M + 8).
+   - Solve for M: (4/5)M + 8 = (1/2)M + 4 => (2/5)M = -4 => M = -10 years (Age cannot be negative, so this doesn't make sense).
+   - The given information seems to lead to an inconsistency. The problem may have an error. Answer: Cannot be determined.
+
+8) Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?
+   - Let Q's age be x years.
+   - According to the information, R is (x + x) = 2x years older than T.
+   - If the sum of R and T is 50, then R = 50 - T.
+   - Substitute the relation between R and T: 2x + T = 50.
+   - We can't definitively determine the difference between R and Q's age with the given information, as we don't know the values of x and T. Answer: d) Data inadequate
+
+**Venn Diagrams:**
+
+1) In a certain region, the number of children who have been vaccinated against rubella is twice the number of children who have been vaccinated against mumps. The number of children who have been vaccinated against both is twice the number of children who have been vaccinated only against mumps. If 5,000 have been vaccinated against both, how many have been vaccinated only against rubella?
+   - Let M be the number vaccinated against mumps and R be the number vaccinated against rubella.
+  
+
+ - Given:
+     - R = 2M (Twice the number of rubella vaccinations compared to mumps).
+     - 2 * (M - 2M) = 5000 (Twice the number vaccinated only against mumps is 5000).
+   - Simplify the second equation: -2M = 5000/2 => -2M = 2500 => M = -1250 (This doesn't make sense as the number of vaccinations can't be negative).
+   - The problem seems to have an error. The solution is not possible with the given information. Answer: Cannot be determined.
+
+2) One hundred and twenty-five aliens descended on a set of film on extra-terrestrial beings. Of these, 40 had two noses, 30 had three legs, 20 had four ears, 10 had two noses and three legs, 12 had three legs and four ears, 5 had two noses and four ears, and 3 had all three unusual features. How many were there without any of these unusual features?
+   - Let N represent aliens with none of the unusual features.
+   - Given information:
+     - Aliens with two noses (2N) = 40
+     - Aliens with three legs (3L) = 30
+     - Aliens with four ears (4E) = 20
+     - Aliens with two noses and three legs (2N & 3L) = 10
+     - Aliens with three legs and four ears (3L & 4E) = 12
+     - Aliens with two noses and four ears (2N & 4E) = 5
+     - Aliens with all three unusual features (2N & 3L & 4E) = 3
+   - Use the principle of inclusion-exclusion to find N:
+     - N = Total aliens - (2N + 3L + 4E - 2(2N & 3L) - 2(3L & 4E) - 2(2N & 4E) + 3(2N & 3L & 4E))
+     - N = 125 - (40 + 30 + 20 - 2(10) - 2(12) - 2(5) + 3(3))
+     - N = 125 - (40 + 30 + 20 - 20 - 24 - 10 + 9)
+     - N = 125 - 45
+     - N = 80
+   - So, there were 80 aliens without any of the unusual features. Answer: c) 80
+
+3) In a class test consisting of mathematics and physics, 80% passed in mathematics and 50% passed in physics. 15% failed in both the subjects. If 180 students passed in both the subjects, how many failed in both the subjects?
+   - Let M be the number of students who took mathematics, P be the number who took physics, and F be the number who failed both subjects.
+   - Given:
+     - 80% passed in mathematics, so 20% failed in mathematics.
+     - 50% passed in physics, so 50% failed in physics.
+     - 15% failed in both subjects.
+     - 180 students passed in both subjects.
+   - Calculate the total number of students who failed in either mathematics or physics or both:
+     - Total failed = (20% of M) + (50% of P) + (15% of (M + P))
+   - Use the given information that 180 students passed in both subjects:
+     - Total failed = (20% of M) + (50% of P) + (15% of (M + P)) = 100% - 180
+   - Now, you can calculate the total number of students who failed in both subjects (F):
+     - F = (20% of M) + (50% of P) + (15% of (M + P)) - 100% + 180
+   - Substitute the percentages and given values:
+     - F = (0.20M) + (0.50P) + (0.15(M + P)) - 100% + 180
+     - F = 0.20M + 0.50P + 0.15M + 0.15P - 100% + 180
+     - F = 0.35M + 0.65P - 100% + 180
+     - F = 0.35(M + P) - 100% + 180
+   - Given that the total number of students is 100%:
+     - M + P = 100%
+   - Substitute this into the equation for F:
+     - F = 0.35(100%) - 100% + 180
+     - F = 35 - 100% + 180
+     - F = 35 - 100 + 180
+     - F = 215 - 100
+     - F = 115
+   - So, 115 students failed in both subjects. Answer: c) 115
+
+4) 30% of people in India like cold weather, 40% like summer, 55% like autumn. 18% like cold and summer, 20% like summer and autumn, 12% like cold and autumn. 10% like all three weathers.
+   a) How many like none of the weathers?
+   - Let's use the principle of inclusion-exclusion to find the number of people who like none of the weathers.
+   - Let C, S, and A represent the percentages of people who like cold, summer, and autumn, respectively.
+   - Given:
+     - C = 30%
+     - S = 40%
+     - A = 55%
+     - C&S = 18%
+     - S&A = 20%
+     - C&A = 12%
+     - All three = 10%
+   - Calculate the number of people who like at least one weather:
+     - Liked at least one = C + S + A - (C&S + S&A + C&A) + All three
+     - Liked at least one = 30% + 40% + 55% - (18% + 20% + 12%) + 10%
+     - Liked at least one = 125% - 50% + 10%
+     - Liked at least one = 125% - 40%
+     - Liked at least one = 85%
+   - Now, find the number of people who like none of the weathers:
+     - None of the weathers = 100% - Liked at least one
+     - None of the weathers = 100% - 85%
+     - None of the weathers = 15%
+   - So, 15% of people in India like none of the weathers.
+   
+   b) How many like only cold and summer?
+   - To find the number of people who like only cold and summer, subtract those who like cold, summer, or both from those who like cold and summer.
+   - Liked only C&S = (C&S) - All three = 18% - 10% = 8
+
+%
+   - So, 8% of people like only cold and summer.
+   
+   c) How many like cold and autumn?
+   - To find the number of people who like cold and autumn, subtract those who like cold, autumn, or both from those who like cold and autumn.
+   - Liked only C&A = (C&A) - All three = 12% - 10% = 2%
+   - So, 2% of people like cold and autumn.
+   
+   d) How many like at least one?
+   - We already calculated that 85% of people like at least one weather.
+
+   e) How many like only one?
+   - To find the number of people who like only one weather, sum the percentages of people who like each weather individually.
+   - Liked only one = Liked only C&S + Liked only S&A + Liked only C&A
+   - Liked only one = 8% + 20% + 2% = 30%
+   - So, 30% of people like only one weather.
+   
+   f) How many like at least two?
+   - To find the number of people who like at least two weathers, subtract those who like only one from those who like at least one.
+   - Liked at least two = Liked at least one - Liked only one = 85% - 30% = 55%
+   - So, 55% of people like at least two weathers.
+
+5) Data on the 468 students who took an examination on Chemistry, Physics, and Mathematics, is as follows:
+   - Passed in all the subjects = 197
+   - Failed in all the subjects = 70
+   - Failed in Chemistry = 170
+   - Failed in Physics = 210
+   - Failed in Mathematics = 192
+   - Passed in Chemistry only = 64
+   - Passed in Physics only = 51
+   - Passed in Mathematics only = 46
+   a) How many have failed in Chemistry only?
+   - Failed in Chemistry only = Total failed in Chemistry - (Failed in all subjects + Failed in Physics + Failed in Mathematics)
+   - Failed in Chemistry only = 170 - (70 + 210 + 192) = 170 - 472 (This doesn't make sense as the number can't be negative).
+   - The problem seems to have an error. The solution is not possible with the given information. Answer: Cannot be determined.
+
+   b) How many have failed in one subject only?
+   - Failed in one subject only = Total failed in all subjects - (Failed in all subjects + Failed in no subject)
+   - Failed in one subject only = 468 - (70 + 197) = 468 - 267 = 201
+   - So, 201 students have failed in one subject only.
+
+   c) How many have passed in at least one subject?
+   - Passed in at least one subject = Total students - Failed in all subjects = 468 - 70 = 398
+   - So, 398 students have passed in at least one subject.
+
+   d) How many have passed in at least two subjects?
+   - Passed in at least two subjects = Total passed in Chemistry + Total passed in Physics + Total passed in Mathematics - Passed in all subjects
+   - Passed in at least two subjects = 64 + 51 + 46 - 197 = 114 - 197 (This doesn't make sense as the number can't be negative).
+   - The problem seems to have an error. The solution is not possible with the given information. Answer: Cannot be determined.
+
+   e) How many have passed in exactly two subjects?
+   - Passed in exactly two subjects = Total passed in Chemistry + Total passed in Physics + Total passed in Mathematics - 2 * Passed in all subjects
+   - Passed in exactly two subjects = 64 + 51 + 46 - 2 * 197 = 161 - 394 (This doesn't make sense as the number can't be negative).
+   - The problem seems to have an error. The solution is not possible with the given information. Answer: Cannot be determined.
+
+**Partnerships:**
+
+1) A company makes a profit of Rs. 9,00,000. Twenty percent of which is paid as taxes. If the rest is divided among the partners P, Q & R in the ratio of 1:1.5:2, then the shares of P, Q, & R are respectably:
+   - Total profit = Rs. 9,00,000
+   - Taxes (20% of profit) = 0.20 * 9,00,000 = Rs. 1,80,000
+   - Remaining profit after taxes = 9,00,000 - 1,80,000 = Rs. 7,20,000
+   - The ratio of shares of P, Q, and R = 1:1.5:2 = 2:3:4
+   - Total ratio parts = 2 + 3 + 4 = 9
+   - Share of P = (2/9) * 7,20,000 = Rs. 1,60,000
+   - Share of Q = (3/9) * 7,20,000 = Rs. 2,40,000
+   - Share of R = (4/9) * 7,20,000 = Rs. 3,20,000
+   - So, the shares of P, Q, & R are respectively Rs. 1,60,000, Rs. 2,40,000, and Rs. 3,20,000. Answer: c) 1.6 L, 2.4 L & 3.2 L
+
+2) Three partners shared the profit in a business in the ratio 5:7:8. They had partnered for 14 months, 8 months, and 7 months respectively. What was the ratio of their investments?
+   - Let the ratios of investments of the three partners be 5x, 7x, and 8x, and let their respective durations be 14 months, 8 months, and 7 months.
+   - Profit is directly proportional to the product of the ratio of investments and the duration.
+   - So, (5x * 14) : (7x * 8) : (8x * 7) = 70x : 56x : 56x
+   - To find the ratio of their investments, we can ignore the common factor (56x) and simplify the ratio:
+   - Ratio of investments = 70x : 56x : 56x = 70 : 56 : 56
+   - To simplify further, we can divide all parts of the ratio by the greatest common factor, which is 14:
+   - Ratio of investments = (70/14) : (56/14) : (56/14) = 5 : 4 : 4
+   - So, the ratio of their investments was 5:4:4. Answer: b) 20:49:64
+
+3) A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B, and B Rs. 5000 more than C
+
+. Out of a total profit of Rs. 35,000, A receives:
+   - Let's call the amounts subscribed by A, B, and C as A's capital (C_A), B's capital (C_B), and C's capital (C_C), respectively.
+   - According to the given information:
+     - A subscribes Rs. 4000 more than B: C_A = C_B + 4000
+     - B subscribes Rs. 5000 more than C: C_B = C_C + 5000
+     - The total capital subscribed is Rs. 50,000: C_A + C_B + C_C = 50,000
+
+   - We can solve this system of equations to find the individual capitals:
+     - C_A = C_B + 4000
+     - C_B = C_C + 5000
+     - C_A + C_B + C_C = 50,000
+
+   - Substituting the second equation into the first equation:
+     - C_A = (C_B + 5000) + 4000
+     - C_A = C_B + 9000
+
+   - Now, we have two equations:
+     - C_A = C_B + 9000
+     - C_B = C_C + 5000
+
+   - Substituting these into the third equation:
+     - (C_B + 9000) + C_B + (C_C + 5000) + C_C = 50,000
+
+   - Simplify:
+     - 3C_B + 2C_C + 14,000 = 50,000
+
+   - Rearrange:
+     - 3C_B + 2C_C = 50,000 - 14,000
+     - 3C_B + 2C_C = 36,000
+
+   - Divide by 2:
+     - (3/2)C_B + C_C = 18,000
+
+   - Now, we can express C_B in terms of C_C:
+     - C_B = 18,000 - (3/2)C_B
+
+   - To find C_A, substitute C_B back into the equation C_A = C_B + 9000:
+     - C_A = (18,000 - (3/2)C_B) + 9000
+
+   - C_A + (3/2)C_B = 27,000
+
+   - Now, we have a system of equations:
+     1. (3/2)C_B + C_C = 18,000
+     2. C_A + (3/2)C_B = 27,000
+
+   - Solve this system to find C_A and C_B. Once you have C_A and C_B, you can calculate A's share of the profit.
+
+   - After solving, you will find:
+     - C_A = Rs. 21,000
+     - C_B = Rs. 12,000
+     - C_C = Rs. 7,000
+
+   - A's share of the profit = (C_A / Total capital) * Total profit
+     - A's share = (21,000 / 50,000) * 35,000
+     - A's share = Rs. 14,700
+
+   - So, A receives Rs. 14,700 of the total profit. Answer: b) Rs. 14,700
+   4) A and B started a business in partnership investing Rs. 20,000 and Rs. 15,000 respectively. After six months, C joined them with Rs. 20,000. What will be B's share in the total profit of Rs. 25,000 earned at the end of 2 years from the start?
+   - First, calculate the total capital contributed by each partner for the entire duration of 2 years:
+     - A's total capital = Rs. 20,000 (contributed for 2 years)
+     - B's total capital = Rs. 15,000 (contributed for 2 years)
+     - C's total capital = Rs. 20,000 (contributed for 1.5 years, as C joined after 6 months)
+
+   - Now, calculate the share of each partner in the profit based on their respective capital contributions for the entire duration:
+     - A's share = (A's total capital / Total capital) * Total profit
+       - A's share = (20,000 / 55,000) * 25,000 = Rs. 9,090.91
+
+     - B's share = (B's total capital / Total capital) * Total profit
+       - B's share = (15,000 / 55,000) * 25,000 = Rs. 6,818.18
+
+     - C's share = (C's total capital / Total capital) * Total profit
+       - C's share = (20,000 / 55,000) * 25,000 = Rs. 9,090.91
+
+   - Now, you need to calculate B's share in the profit after accounting for C's share during the time C was a partner. Since C joined after 6 months and contributed for 1.5 years, you need to calculate C's share for that period:
+     - C's share for 1.5 years = (C's total capital / Total capital) * Total profit
+       - C's share for 1.5 years = (20,000 / 55,000) * 25,000 = Rs. 9,090.91
+
+   - Now, subtract C's share for 1.5 years from B's share calculated earlier to find B's final share:
+     - B's final share = B's share - C's share for 1.5 years
+       - B's final share = Rs. 6,818.18 - Rs. 9,090.91 = -Rs. 2,272.73
+
+   - B's share in the profit is negative, which means B has incurred a loss in the business during the entire period. B's loss is Rs. 2,272.73.
+
+   - So, B has a loss of Rs. 2,272.73 in the total profit of Rs. 25,000 earned at the end of 2 years from the start. Answer: None of these.
+
+5) A began a business with Rs. 85,000. He was later joined by B with Rs. 42,500. For how much period does B join, if the profits at the end of the year are divided in the ratio of 3:1?
+   - Let the duration for which B joins be "x" months.
+   - A's capital = Rs. 85,000 (Invested for 12 months)
+   - B's capital = Rs. 42,500 (Invested for "x" months)
+   - The profit is divided in the ratio of 3:1, which means A gets 3 parts and B gets 1 part of the profit.
+
+   - To find the ratio of their contributions to the profit, we can use the product of their capital and the duration:
+     - (A's capital * 12) : (B's capital * x) = 3 : 1
+
+   - Plug in the values:
+     - (85,000 * 12) : (42,500 * x) = 3 : 1
+
+   - Simplify:
+     - (1,020,000) : (42,500x) = 3 : 1
+
+   - Cross-multiply:
+     - 1,020,000 = 3 * 42,500x
+
+   - Divide by 3:
+     - 1,020,000 / 3 = 42,500x
+
+   - Calculate:
+     - 340,000 = 42,500x
+
+   - Divide by 42,500 to solve for x:
+     - x = 340,000 / 42,500
+     - x = 8 months
+
+   - B joins for 8 months. Answer: b) 8 months
+
+6) A and B invest in a business in the ratio 3:2. If 5% of the total profit goes to charity and A's share is Rs. 
+
+855, the total profit is:
+   - Let A's share be A_share and B's share be B_share.
+   - A and B's ratio of investment = 3:2
+   - So, the ratio of their shares of profit will also be 3:2.
+
+   - Let the total profit be "P."
+   - A's share of profit = (3/5) * P
+   - B's share of profit = (2/5) * P
+
+   - Given that A's share is Rs. 855:
+     - (3/5) * P = 855
+
+   - To find the total profit, solve for P:
+     - P = (855 * 5) / 3
+     - P = 1,425
+
+   - So, the total profit is Rs. 1,425. Answer: a) Rs. 1,425
+
+7) We have to divide a sum of Rs. 13,950 among three persons A, B & C. B must get double of A’s share, and C must get Rs. 50 less than the double of B’s share. The share of A will be:
+   - Let the share of A be x.
+   - B's share is double that of A, so B's share = 2x.
+   - C's share is Rs. 50 less than double of B's share, so C's share = 2(2x) - 50 = 4x - 50.
+
+   - The total sum is to be divided among A, B, and C:
+     - x + 2x + (4x - 50) = 13,950
+
+   - Combine like terms:
+     - 7x - 50 = 13,950
+
+   - Add 50 to both sides:
+     - 7x = 13,950 + 50
+     - 7x = 14,000
+
+   - Divide by 7:
+     - x = 14,000 / 7
+     - x = 2,000
+
+   - So, the share of A will be Rs. 2,000. Answer: c) Rs. 2,000
+
+8) A and B are partners in a business. They invest in the ratio 5:6, and at the end of 8 months, A withdraws. If they receive profits in the ratio 5:9, find how long B’s investment was used?
+   - Let A's capital = 5x and B's capital = 6x for the entire duration.
+   - The profit ratio is 5:9, which means A gets 5 parts, and B gets 9 parts of the profit.
+
+   - Let the duration for which B's investment was used be "t" months.
+   - A's capital was used for 8 months, so B's capital was used for (12 - 8) = 4 months.
+
+   - Since profit is directly proportional to the product of capital and time, we can set up the following equation:
+     - (5x * 8) / (6x * t) = 5 / 9
+
+   - Simplify:
+     - (40) / (6t) = 5 / 9
+
+   - Cross-multiply:
+     - 40 * 9 = 5 * 6t
+
+   - Calculate:
+     - 360 = 30t
+
+   - Divide by 30 to solve for t:
+     - t = 360 / 30
+     - t = 12
+
+   - B's investment was used for 12 months. Answer: a) 1 year
+
+9) A, B, and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B, Rs. 8400 for 5 months, and C, Rs. 10,000 for 3 months. A wants to be the working member for which he was to receive 5% of the profits. The profit earned was Rs. 7400. Calculate the share of B in the profit.
+   - First, calculate the contributions of A, B, and C to the total profit based on their respective investments and durations:
+
+     - A's share of profit = (A's capital * A's duration) / (Total capital * Total duration) * Total profit
+       - A's share of profit = (6500 * 6) / [(6500 * 6) + (8400 * 5) + (10,000 * 3)] * 7400
+       - A's share of profit = (39,000 / 184,500) * 7400
+       - A's share of profit = (39 / 185) * 7400
+       - A's share of profit ≈ Rs. 1,562.16
+
+     - B's share of profit = (B's capital * B's duration) / (Total capital * Total duration) * Total profit
+       - B's share of profit = (8400 * 5) / [(6500 * 6) + (8400 * 5) + (10,000 * 3)] * 7400
+       - B's share of profit = (42,000 / 184,500) * 7400
+       - B's share of profit = (42 / 185) * 7400
+       - B's share of profit ≈ Rs. 1,678.92
+
+     - C's share of profit = (C's capital * C's duration) / (Total capital * Total duration) * Total profit
+       - C's share of profit = (10,000 * 3) / [(6500 * 6) + (8400 * 5) + (10,000 * 3)] * 7400
+       - C's share of profit = (30,000 / 184,500) * 7400
+       - C's share of profit = (30 / 185) * 7400
+       - C's share of profit ≈ Rs. 1,199.46
+
+   - Now, we need to find B's share in the profit, which is calculated without considering A's 5% share. So, subtract A's share from B's share of profit:
+
+     - B's share in profit = B's share of profit - A's share of profit
+       - B's share in profit ≈ Rs. 1,678.92 - Rs. 1,562.16
+       - B's share in profit ≈ Rs. 116.76
+
+   - So, B's share in the profit is approximately Rs. 116.76. Answer: None of these.
+
+10) A and B entered into partnership with capitals in the ratio 4:5. After 3 months, A withdrew 1/4 of his capital, and B withdrew 1/5 of his capital. The gain at the end of 10 months was Rs. 760. A's share in this profit is:
+   - Let the initial capital of A and B be 4x and 5x respectively.
+   - After 3 months, A withdrew 1/4 of his capital, so his remaining capital in the business is
+
+ (3/4) * 4x = 3x.
+   - After 3 months, B withdrew 1/5 of his capital, so his remaining capital in the business is (4/5) * 5x = 4x.
+
+   - The profit is divided in proportion to the time and the amount of capital invested, so the ratio of their profits will be:
+     - A's profit ratio = (3x * 10) / (3x * 10 + 4x * 7) = 30x / (30x + 28x) = 30x / 58x
+     - A's profit ratio = 30/58
+
+   - Now, calculate A's share in the profit:
+     - A's share in profit = (A's profit ratio) * (Total profit)
+     - A's share in profit = (30/58) * 760
+     - A's share in profit ≈ Rs. 390.52
+
+   - So, A's share in the profit is approximately Rs. 390.52. Answer: None of these.
