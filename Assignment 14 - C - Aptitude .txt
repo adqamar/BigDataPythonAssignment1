@@ -1,0 +1,366 @@
+Analytical Reasoning
+
+Directions: Ravi and Naman are good in Hockey and Volleyball. Sachin and Ravi are good in Hockey and Baseball. Gaurav and Naman are good in Cricket and Volleyball. Sachin, Gaurav and Michael are good in Football and Baseball.
+1) Who is good in Hockey, Cricket and Volleyball?
+a) Sachin  b) Naman  c) Ravi  d) Gaurav
+2) Who is good in Baseball, Cricket, Volleyball and Football?
+a) Sachin  b) Naman  c) Gaurav  d) Ravi
+3) Who is good in Baseball, Volleyball and Hockey?
+a) Sachin  b) Naman  c) Ravi  d) Gaurav
+
+Directions: Read the statements and answer the questions:
+> Kailash, Govind and Harinder are intelligent.
+> Kailash, Rajesh and Jitendra are hard-working.
+> Rajesh, Harinder and Jitendra are honest.
+> Kailash, Govind and Jitendra are ambitious.
+4) Which of the following persons is neither hard-working nor ambitious?
+a) Harinder  b) Kailash  c) Govind  d) Rajesh
+5) Which of the following persons is neither honest nor hard-working but is ambitious?
+a) Kailash  b) Govind  c) Harinder  d) Rajesh
+6) Who among these possesses most number of qualities among given qualities?
+a) Govind  b) Harinder  c) Rajesh  d) Kailash
+
+Directions: Six friends P, Q, R, S, T and U are members of a club and play a different game of Football, Cricket, Tennis, Basketball, Badminton and Volleyball.
+> T, who is taller than P and S, plays Tennis.
+> The tallest among them plays Basketball.
+> The shortest among them plays Volleyball.
+> Q and S neither play Volleyball nor Basketball.
+> R plays Volleyball.
+> T is between Q who plays Football and P in order of height.
+7) Who among them is taller than R and shorter than P?
+a) Q  b) T  c) U  d) None of these
+8) Who will be at the third place if they arranged in the descending order of their heights?
+a) Q  b) P  c) S  d) T
+9) Which of the following statement is not true?
+a) P is shorter than R  b) Q is taller than S  c) S is taller than R  d) T is taller than R
+10) Who among them plays Basketball?
+a) Q  b) R  c) U  d) None of these
+11) What does S plays?
+a) Cricket  b) Badminton  c) Football  d) Cricket or Badminton
+Directions: Five cities got more rain than usual this year: Last Stand, Mile City, New Town, Olliopolis, and Polberg. The cities are located in five different areas of the country: the forest, the mountains, the coast, the desert, and in the valley. The rainfall amounts were: 12 inches, 27 inches, 32 inches, 44 inches, and 65 inches.
+> The city in the desert got the least rain; the city in the forest got the most rain.
+> New Town is in the mountains.
+> Last Stand got more rain than Olliopolis.
+> Mile City got more rain than Polberg but less than New Town.
+> Olliopolis got 44 inches of rain.
+> The city in the mountains got 32 inches of rain; the city on the coast got 27 inches of rain.
+12) Which city got the most rain?
+a) Last Stand  b) Mile City  c) New Town  d) Polberg
+13) How much rain did Mile City get?
+a) 12 inches  b) 27 inches  c) 32 inches  d) 44 inches
+14) Which city is in the desert ?
+a) Last Stand  b) Mile City  c) New Town  d) Polberg
+15) Where is Olliopolis located?
+a) the mountains  b) the coast  c) in a valley  d) the desert
+
+Directions: Anita, Mahi, Rajan, Lata and Priti are five cousins. Anita is twice as old as Mahi. Rajan is half the age of Mahi. Anita is half the age of Priti and Rajan is twice the age of Lata.
+16) Who is youngest?
+a) Priti  b) Rajan  c) Lata  d) Anita
+17) Who is the eldest?
+a) Priti  b) Rajan  c) Lata  d) Anita
+18) Which of the given pairs of persons are of the same age?
+a) Mahi and Lata  b) Anita and Mahi  c) Mahi and Rajan  d) None of these
+19) Anita is younger than?
+a) Rajan  b) Mahi  c) Priti  d) None of these
+20) If Mahi is 16 years old, then what is the age of Lata?
+a) 4 years  b) 5 years  c) 7 years  d) 14 years
+
+Directions: Seven persons R, J, M, Q, L, T and K conduct workshop on Developing Managerial skills in seven different companies A, B, C, D, E, F and G on a different day of the week from Monday to Sunday. The order of persons, companies and days of the week are not necessarily the same.
+J organizes workshop in Company D on Wednesday. Q does not conduct workshop for companies A or C and conducts on the next day of L who conducts the workshop for Company F. T conducts workshop for Company E on Friday. K conducts workshop on Monday but not for Company C or G. M conducts workshop for Company A but not on Tuesday.
+21) Who conducts workshop on Saturday?
+a) M  b) Q  c) L  d) Q or L
+22) On which day does Q conduct the workshop?
+a) Sunday  b) Saturday  c) Tuesday  d) Cannot be determined
+23) M conducts workshop on which day?
+a) Saturday  b) Sunday  c) Tuesday  d) Thursday
+24) Who conducts workshop for Company C & on which day?
+a) R, Thursday  b) R, Tuesday  c) Q, Saturday  d) Q, Sunday
+
+Directions: Five roommates Rony, Sally, Terry, Uma, and Vernon each do one housekeeping task mopping, sweeping, laundry, vacuuming, or dusting one day a week, Mon to Fri.
+> Vernon does not vacuum and does not do his task on Tue.
+> Sally does the dusting, and does not do it on Mon or Fri.
+> The mopping is done on Thurs.
+> Terry does his task, which is not vacuuming, on Wed.
+> The laundry is done on Fri, and not by Uma.
+> Rony does his task on Mon.
+25) What task does Vernon do?
+a) vacuuming  b) dusting  c) mopping  d) sweeping  e) laundry
+26) What day is the vacuuming done?
+a) Friday  b) Monday  c) Tuesday  d) Wednesday  e) Thursday
+27) When does Sally do the dusting?
+a) Friday  b) Monday  c) Tuesday  d) Wednesday  e) Thursday
+
+Directions: Five friends (Avinash, Vijay, Alok, Vivek and Rajiv) went to a hotel and ordered five different soups (Tomato, Chicken, Vegetable, Corn and Mutton), followed by lunch. After lunch, they ordered five different desserts (Mango, Pista, Vanilla, Tutti-Fruti and Casatta).
+> Avinash ordered for vegetable soup and Mango ice-cream
+> Vivek didn't order mutton soup but ordered Vanilla ice-cream
+> Vijay is a vegetarian who ordered Tutti-Fruti ice-cream
+> The one who ordered corn-soup also ordered Pista ice-cream
+> Rajiv ordered Casatta ice-cream
+28) Who among the following ordered Tomato soup?
+a) Avinash  b) Vijay  c) Alok  d) Vivek
+29) Which among the following soups was ordered by Vivek?
+a) Vegetable  b) Corn  c) Chicken  d) Mutton
+30) Which of the following combinations is FALSE?
+a) Rajiv - Chicken soup  b) Tomato soup - Tutti Fruti ice-cream
+c) Chicken soup – Vivek  d) Alok - Corn soup
+31) Which of the following ice-creams was ordered by Alok?
+a) Vanilla  b) Tutti-Fruti  c) Mango  d) Pista
+32) Which of the following combinations is TRUE?
+a) Avinash - Tomato soup - Tutti-Fruti ice-cream
+b) Vijay - Corn soup - Mango ice-cream
+c) Alok - Mutton soup - Pista ice-cream
+d) Vivek - Chicken soup - Vanilla ice-cream
+
+Directions: Read the following information carefully and answer the questions given below it:
+There are six persons A, B, C, D, E and F in a school. Each of the teachers teaches two subjects, one compulsory subject and the other optional subject. D's optional subject was History while three others have it as compulsory subject. E and F have Physics as one of their subjects. F's compulsory subject is Mathematics which is an optional subject of both C and E. History and English are A's compulsory and optional subjects respectively. Chemistry is an optional subject of only one of them. The only female teacher in the school has History and English as her optional and compulsory subject respectively.
+33) What is C's compulsory subject?
+a) History  b) Physics  c) Chemistry  d) English  e) Mathematics
+34) Who is a female teacher in the group?
+a) A  b) B  c) C  d) D  e) E
+35) Which of the following has the same compulsory and optional subjects as those of F's?
+a) D  b) B  c) A  d) C  e) None of these
+36) Disregarding which is compulsory and which is optional subject, who has the same combination of subjects as F?
+a) A  b) B  c) E  d) D  e) None of these
+37) Which of the following groups has History as the compulsory subject?
+a) A,C and D  b) B, C and D  c) C and D  d) A, B and C  e) A and D
+
+Directions: At a small company, parking spaces are reserved for the top executives: CEO, president, vice president, secretary, and treasurer with the spaces lined up in that order. The guard can tell at a glance if the cars are parked correctly by their colours. The cars are yellow, green, purple, red, and blue, and the executives are Alice, Bert, Cheryl, David, and Enid.
+> The car in the first space is red.
+> A blue car is parked between the red car and the green car.
+> The car in the last space is purple.
+> The secretary drives a yellow car.
+> Alice's car is parked next to David's.
+> Enid drives a green car.
+> Bert's car is parked between Cheryl's and Enid's.
+> David's car is parked in the last space.
+38) Who is the secretary?
+a) Enid  b) David  c) Cheryl  d) Bert  e) Alice
+39) Who is the CEO ?
+a) Alice  b) Bert  c) Cheryl  d) David  e) Enid
+40) What color is the vice president's car?
+a) green  b) yellow  c) blue  d) purple  e) red
+
+
+Directions: Parul, Mohit and Sahil are children of Mr. and Mrs. Ahuja. Rosy, Abhishek and Sandeep are children of Mr. and Mrs. Mehta. Sandeep and Parul are married and Arjun and Sohan are their children, Gunjan and Rakesh are children of Mr. and Mrs. Gupta. Gunjan is married to Sahil and they have three children Raveena, Sonu and Rajat. 
+How is Mohit related to Arjun? 
+Sister 	b) Maternal Uncle 	c) Brother 	d) Cousin 
+How is Abhishek related to Parul? 
+Brother-in-law  	b) Cousin  	c) Father-in-law 	d) Nephew 
+How is Parul related to Rosy? 
+Niece 	b) Aunty 	c) Mother-in-law 	d) Sister-in-law 
+How is Rakesh related to Rajat? 
+Uncle 	b) Cousin 	c) Father-in-law 	d) Nephew 
+How is Mr. Ahuja related to Sahil? 
+Cousin 	b) Brother 	c) Father 	 	d) Father-in-law 
+Directions: A bus has exactly six stops on its route. The bus first stops at stop one and then at stops two, three, four, five and six respectively. After the bus leaves stop six, the bus returns to stop one and repeats the cycle. It stops at six different places which are in alphabetical order A,B,C,D,E and F  
+i) 	E is the third stop    ii) 	B is the sixth stop 
+iii) 	The stop D is the stop immediately before F iv) 	C is the stop immediate before A 
+In case C is the fourth stop, which among the following must be the stop immediately before E ?  
+D 	 	b) A 	 	c) F 	 	d) C 
+In case A is the second stop, which among the following must be the stop immediately before B? 
+E 	 	b) C 	 	c) F 	 	d) A 
+In case a passenger gets on the bus at D, sides part one of the stops, and gets off at E, which of the following must be true? 
+C is stop five 
+F is stop three 
+E is stop four 
+D is stop one 
+Directions: A perfume maker uses two or more essences out of a stock of five essences-L,M,N,O and P to make all types of perfumes he deals in. He follows the given rules to ensure that the essences are in agreement with each other in the perfume: 
+i) A perfume containing L should also contain the essence N, and the quantity of N should be twice as that of L.
+ii) A perfume containing M must also have O as one of its components and they should be in equal proportion. 
+A single perfume should never contain N as well as O; nor can it contain both O and P. 
+A perfume containing the essence P should contain P in such a proportion that the total amount of P present should be greater than the total amount of the other essence or essences used. 
+A perfume contains essences M and O in equal quantities. Which of the following essences can be added to it without impacting its nature (i.e. not making it against the agreed norms) 
+L 	 	b) N 	 	c) P 	 	d) none of the above 
+Among the following, which is an agreeable formula for a perfume?  
+Three parts N, three parts L 
+One part L, one part P 
+Four parts O, four parts M 
+Two parts M, two parts L 
+Among the following, the addition of which combination would make an unagreeable perfume containing two parts N and one part P agreeable? 
+One part N  	b) One part O  	c) One part P d) Two parts P 
+Adding one part of N will make which of the following perfumes agreeable  
+Two parts M, one part N, four parts P. 
+One part M, one part N, one part P 
+Two parts M, two parts N, two parts P 
+One part L, one part N, five parts P 
+Directions:A,B,C,D are all different individuals  	 
+i) 	A is the daughter of B              ii) 	B is the son of C         iii) 	C is the father of D 
+Among the following statements, which is true? 
+C is the uncle of A 
+B and D are brothers 
+A is the daughter of D 
+If Y is the daughter of B, then A and Y are sisters 
+Which among the following statements in contradictory to the above premises? 
+D is the father of A 
+C has three children 
+A has one brother 
+A is the granddaughter of C 
+If Y is the son of B and Y has one brother Z, then  
+ 	i) 	A is the sister of Z  	ii) 	Z and B are brothers  	iii) 	C is the grandfather of Z 
+1 only 	b) II only 	c) III only 	d) I and III only 
+
+answers-
+
+1) Who is good in Hockey, Cricket, and Volleyball?
+   Answer: a) Sachin
+
+2) Who is good in Baseball, Cricket, Volleyball, and Football?
+   Answer: d) Ravi
+
+3) Who is good in Baseball, Volleyball, and Hockey?
+   Answer: c) Ravi
+
+4) Which of the following persons is neither hard-working nor ambitious?
+   Answer: a) Harinder
+
+5) Which of the following persons is neither honest nor hard-working but is ambitious?
+   Answer: d) Rajesh
+
+6) Who among these possesses the most number of qualities among given qualities?
+   Answer: b) Harinder
+
+7) Who among them is taller than R and shorter than P?
+   Answer: c) U
+
+8) Who will be at the third place if they are arranged in the descending order of their heights?
+   Answer: b) P
+
+9) Which of the following statements is not true?
+   Answer: a) P is shorter than R
+
+10) Who among them plays Basketball?
+    Answer: d) None of these
+
+11) What does S play?
+    Answer: a) Cricket
+
+12) Which city got the most rain?
+    Answer: d) Polberg
+
+13) How much rain did Mile City get?
+    Answer: a) 12 inches
+
+14) Which city is in the desert?
+    Answer: a) Last Stand
+
+15) Where is Olliopolis located?
+    Answer: b) the coast
+
+16) Who is the youngest?
+    Answer: c) Lata
+
+17) Who is the eldest?
+    Answer: d) Anita
+
+18) Which of the given pairs of persons are of the same age?
+    Answer: b) Anita and Mahi
+
+19) Anita is younger than?
+    Answer: c) Priti
+
+20) If Mahi is 16 years old, then what is the age of Lata?
+    Answer: a) 4 years
+
+21) Who conducts a workshop on Saturday?
+    Answer: c) L
+
+22) On which day does Q conduct the workshop?
+    Answer: b) Saturday
+
+23) M conducts a workshop on which day?
+    Answer: d) Thursday
+
+24) Who conducts a workshop for Company C & on which day?
+    Answer: c) Q, Saturday
+
+25) What task does Vernon do?
+    Answer: b) dusting
+
+26) What day is the vacuuming done?
+    Answer: a) Friday
+
+27) When does Sally do the dusting?
+    Answer: c) Tuesday
+
+28) Who is the secretary?
+    Answer: e) Alice
+
+29) Who is the CEO?
+    Answer: a) Alice
+
+30) What color is the vice president's car?
+    Answer: a) green
+
+31) How is Mohit related to Arjun?
+    Answer: b) Maternal Uncle
+
+32) How is Abhishek related to Parul?
+    Answer: b) Cousin
+
+33) What is C's compulsory subject?
+    Answer: a) History
+
+34) Who is a female teacher in the group?
+    Answer: a) A
+
+35) Which of the following has the same compulsory and optional subjects as those of F's?
+    Answer: c) A
+
+36) Disregarding which is compulsory and which is optional subject, who has the same combination of subjects as F?
+    Answer: b) B
+
+37) Which of the following groups has History as the compulsory subject?
+    Answer: d) A, B, and C
+
+38) Who is the secretary?
+    Answer: d) David
+
+39) Who is the CEO?
+    Answer: c) Cheryl
+
+40) What color is the vice president's car?
+    Answer: b) yellow
+	
+	Here are the answers to the remaining questions:
+
+41) How is Mohit related to Arjun?
+    Answer: b) Maternal Uncle
+
+42) How is Abhishek related to Parul?
+    Answer: b) Cousin
+
+43) How is Parul related to Rosy?
+    Answer: d) Sister-in-law
+
+44) How is Rakesh related to Rajat?
+    Answer: a) Uncle
+
+45) How is Mr. Ahuja related to Sahil?
+    Answer: d) Father-in-law
+
+46) In case C is the fourth stop, which among the following must be the stop immediately before E?
+    Answer: b) A
+
+47) In case A is the second stop, which among the following must be the stop immediately before B?
+    Answer: a) E
+
+48) In case a passenger gets on the bus at D, sides part one of the stops, and gets off at E, which of the following must be true?
+    Answer: a) C is stop five
+
+49) A perfume contains essences M and O in equal quantities. Which of the following essences can be added to it without impacting its nature (i.e. not making it against the agreed norms)?
+    Answer: a) L
+
+50) Among the following, which is an agreeable formula for a perfume?
+    Answer: c) Four parts O, four parts M
+
+51) Among the following, the addition of which combination would make an unagreeable perfume containing two parts N and one part P agreeable?
+    Answer: a) One part N
+
+52) Adding one part of N will make which of the following perfumes agreeable?
+    Answer: b) One part M, one part N, one part P
+
+53) Who is the daughter of B?
+    Answer: d) None of these
+
+54) If Y is the son of B and Y has one brother Z, then
+    Answer: a) I only
