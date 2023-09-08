@@ -1,0 +1,283 @@
+Binary Logic
+Q.1) Three persons A, B and C gave these statements:
+A said, either Freedom Party or Green Party won the elections.
+B said, Freedom Party won.
+C said, neither Freedom Party nor Green Party won
+Of these persons, only one person is wrong.
+Who won the elections?
+Q.2) The police rounded up Tolu, Molu and Golu yesterday because one of them was suspected of robbing the local bank. The 3 suspects gave following statements after intensive questioning:
+Tolu: I’m innocent.
+Molu: I’m innocent.
+Golu: Molu is the guilty one.
+Who robbed the bank among the three persons, if only one of the statements will be true?
+Q.3) On an Island, three types of tribes live- Saca, Jhav and Lobe. Sacas’ always tell the truth, Jhavs’ always lie and Lobes’ tell the truth and lie alternating (they can tell truth first or lie first). Three persons (of different tribes) from this Island give these statements.
+GABE: UCKO is of Sacas tribe; I am of Lobe tribe
+BORRIS: GABE is of Jhavs tribe; I am of Sacas Tribe
+UCKO: BORRIS is of Jhavs tribe; I am of Lobe tribe.
+GABE belongs to which tribe?
+Q.4) While searching for a Painter, Ali met three locals - Raj, Rajan and Roy - who always gave two replies to any question. Among them one is a truth teller, one is a liar and one is an alternator. When Ali asked them, "Who among you is the painter?", their replies were:
+Raj:I am the Painter, Rajan is a liar
+Rajan: I am the Painter, Roy is a liar
+Roy: Rajan is the Painter, Raj is a liar.
+Who was the painter?
+Q.5) In a colony, each person is either a truth teller, who always speaks truth or a liar, who always lies or an alternator, who alternates between truth and lie in any order. When a question is asked to three persons P1, P2 and P3 whose names are X, Y & Z not necessarily in the same order they replied in the following manner.
+P1: I am Y. Exactly one of us is liar.
+P2: Exactly one of us is truth teller. P3 is X
+P3: Exactly one of us is an alternator. I am not Z
+If there is at least one truth teller, then who is Z?
+Q.6) In Honololo, Island , there are two types of people-truth tellers and liars. Truth-tellers always speak truth and liars always lie.I met three residents Ho,Lo, and Po, and asked them "who among you is the liar?" The following are their replies.
+Ho: I am a truth-teller.
+Lo: Ho is not a truth-teller.
+Po: Lois not a liar.
+If it is known that exactly one person among them is a liar and the other two are truth-tellers, then who among them is the liar?
+Q.7) Fact 1: Mary said, "Ann and I both have cats."
+Fact 2: Ann said, "I don't have a cat."
+Fact 3: Mary always tells the truth, but Ann sometimes lies.
+If the first three statements are facts, which of the following statements must also be a fact?
+I: Ann has a cat.  II: Mary has a cat.  III: Ann is lying.
+a) I only  b) II only  c) I and II only  d) All statements are facts.
+Q.8) All Lamels are Signots with buttons.
+No yellow Signots have buttons.
+No Lamels are yellow.
+If the first two statements are true, the third statement is
+a) True  b) False  c) Uncertain
+Directions for Q 9 & 10: Three criminals were arrested for shop lifting. However, when interrogated, only one of them told the truth in both his statements, while the other two each told one true statement and one lie. The statements were:
+Ti-Ti: (a) Chi-chi passed the goods. (b) Ki- Ki created the diversion.
+Ki-Ki : (a) Ti-Ti passed the goods. (b) I created the diversion.
+Chi-Chi : (a) I took the goods out of the shop. (b) Ki-Ki passed goods.
+Q.9) Who created the diversion?
+1. Ti-Ti  2. Chi-chi  3. Ki-Ki  4. Either 1 or 2
+Q.10) Which of these statements is correct?
+Chi-Chi created the diversion.
+Ti-Ti took the goods out of the shop.
+Chi-Chi passed the goods.
+Ti-Ti passed the goods.
+In the village of Rampur, all inhabitants always answer any question with two sentences, one of which is always true, the other is always false.
+While visiting the village, Gauri meets three inhabitants—Rajesh, Mahesh and Ramesh near the village square. One of them is wearing a suit. Knowing that they were there to resolve a dispute over the ownership of some land, you ask them—“Who got the land?” They answer as follows:
+Rajesh: “I got the land. Ramesh is wearing the suit.”
+Mahesh: “I am wearing the suit. I got the land.”
+Ramesh: “I got the land. I am not wearing the suit.”
+4) Who is wearing the suit?
+a) Rajesh b) Mahesh c) Ramesh d) None of these
+5) Who got the land?
+a) Rajesh b) Can’t say c) Ramesh d) Mahesh
+On waking up the next morning, you find that your brand new watch has been stolen. The suspects are the same trio you met the previous day. You question them (knowing that only one of them is guilty).
+And they reply as follows:
+Rajesh: “Mahesh did not do it. I did not do it.”
+Mahesh: “I did not do it. Ramesh did not do it.”
+Ramesh: “I did not do it. I do not know who did it.”
+6) Who stole the watch?
+a) Can’t say b) Ramesh c) Mahesh d) Rajesh
+Going around the village, you come across three people. One of them is a dentist, one a barrister and one a professor. You want to know who is who.
+Peter says, ‘‘I am not a professor. Shina is not a professor.”
+Matt says, ‘‘Peter is not a barrister. Shina is a professor.”
+Shina says, ‘‘Peter is not a dentist. I am not a professor.”
+9) Which of the following is true?
+a) Shina is the professor b) Peter is the dentist c) Matt is the barrister. d) None of these
+Further, you come across three women, one of whom is an excellent singer. You start questioning them, when you notice that Minaxi is wearing a flower in her hair.
+
+Madhuri says, ‘‘I am not the singer. The singer wears a flower in her hair.”
+Minaxi says, ‘‘I am the singer. The singer is amongst us.”
+Jaya says, ‘‘Madhuri is the singer. Minaxi is not the singer.”
+10) Who is the singer?
+a) Madhuri b) Minaxi c) Jaya d) None of these
+Coming across a group of three persons—Raju, Golu, and Suyash—you hear them make two statements:
+Raju: “All of us are type Y’s”.
+Golu: “Exactly one of us is a type X.”
+3) Which of the following is true?
+a) Raju is type Y b) Golu is a type X. c) Suyash is a type Y d) All of these
+answers-
+
+
+**Q1) Who won the elections?**
+- A said, either Freedom Party or Green Party won the elections.
+- B said, Freedom Party won.
+- C said, neither Freedom Party nor Green Party won.
+
+If only one person is wrong, it means two out of three statements are correct. Based on these statements:
+- Statement B ("Freedom Party won") is correct.
+- Statement C ("neither Freedom Party nor Green Party won") is correct.
+
+This means Statement A ("either Freedom Party or Green Party won the elections") is incorrect. So, Green Party did not win the elections. Therefore, the Freedom Party won the elections.
+
+**Q2) Who robbed the bank among the three persons, if only one of the statements will be true?**
+- Tolu: I’m innocent.
+- Molu: I’m innocent.
+- Golu: Molu is the guilty one.
+
+Since only one statement is true, the person making the true statement is innocent. So, both Tolu and Molu are innocent, and Golu is the one who robbed the bank.
+
+**Q3) GABE belongs to which tribe?**
+- GABE: UCKO is of Sacas tribe; I am of Lobe tribe
+- BORRIS: GABE is of Jhavs tribe; I am of Sacas Tribe
+- UCKO: BORRIS is of Jhavs tribe; I am of Lobe tribe.
+
+Since Sacas always tell the truth, GABE is from the Lobe tribe. Therefore, GABE belongs to the Lobe tribe.
+
+**Q4) Who was the painter?**
+- Raj: I am the Painter, Rajan is a liar.
+- Rajan: I am the Painter, Roy is a liar.
+- Roy: Rajan is the Painter, Raj is a liar.
+
+Since one is a truth-teller, one is a liar, and one is an alternator, we can conclude:
+
+- If Raj is the painter, then Rajan's statement "Rajan is a liar" would be true, which contradicts the given information.
+- If Rajan is the painter, then Roy's statement "Roy is a liar" would be true, which contradicts the given information.
+- If Roy is the painter, then Raj's statement "Raj is a liar" would be true, which is consistent with the given information.
+
+Therefore, Roy is the painter.
+
+**Q5) If there is at least one truth teller, then who is Z?**
+From the statements:
+- P1: I am Y. Exactly one of us is a liar.
+- P2: Exactly one of us is a truth teller. P3 is X
+- P3: Exactly one of us is an alternator. I am not Z
+
+If there is at least one truth-teller, then P2 is the truth-teller because he claims that exactly one of them is a truth-teller. Since P2 is the truth-teller, P3 must be X (the alternator) as per P2's statement.
+
+Therefore, Z must be P1.
+
+**Q6) Who among them is the liar?**
+- Ho: I am a truth-teller.
+- Lo: Ho is not a truth-teller.
+- Po: Lo is not a liar.
+
+Since exactly one person among them is a liar, and the other two are truth-tellers:
+- If Ho is the liar, then Lo's statement "Ho is not a truth-teller" would be true, which contradicts the given information.
+- If Lo is the liar, then Ho's statement "I am a truth-teller" would be true, which contradicts the given information.
+- If Po is the liar, then both Ho and Lo are truth-tellers, which is consistent with the given information.
+
+Therefore, Po is the liar.
+
+**Q7) Which of the following statements must also be a fact?**
+- Fact 1: Mary said, "Ann and I both have cats."
+- Fact 2: Ann said, "I don't have a cat."
+- Fact 3: Mary always tells the truth, but Ann sometimes lies.
+
+Given Fact 1, if Mary always tells the truth, then Ann must also have a cat. Therefore, statement I: "Ann has a cat" must also be a fact.
+
+So, the answer is: **a) I only.**
+
+**Q8) If the first two statements are true, the third statement is:**
+- All Lamels are Signots with buttons.
+- No yellow Signots have buttons.
+- No Lamels are yellow.
+
+Based on the first two statements:
+- If all Lamels are Signots with buttons, and no yellow Signots have buttons, it implies that Lamels cannot be yellow. So, the third statement is **True.**
+
+Now, let's move on to the next set of questions.
+
+**Q9) Who created the diversion?**
+- Ti-Ti: (a) Chi-chi passed the goods. (b) Ki-Ki created the diversion.
+- Ki-Ki : (a) Ti-Ti passed the goods. (b) I created the diversion.
+- Chi-Chi : (a) I took the goods out of the shop. (b) Ki-Ki passed goods.
+
+From statement (b) of Ti-Ti and statement (b) of Ki-Ki, it can be concluded that Ki-Ki created the diversion.
+
+**Q10) Which of these statements is correct?**
+- Chi-Chi created the diversion.
+- Ti-Ti took the goods out of the shop.
+- Chi-Chi passed the goods.
+- Ti-Ti passed the goods.
+
+From the previous answer, we know that Ki-Ki created the diversion (statement b of Ki-Ki). Since only one of them told the truth in both statements, we can conclude that Ti-Ti passed the goods (statement a of Ti-Ti) and Chi-Chi did not take the goods out of the shop (statement a of Chi-Chi). So, the correct statement is **"Ti-Ti passed the goods."**
+
+Now, let's move on to the next set of questions.
+
+**Q11) Who is wearing the suit?**
+- Rajesh: “I got the land. Ramesh is wearing the suit.”
+- Mahesh: “I am wearing the suit. I got the land.”
+- Ramesh: “I got the land. I am not wearing the suit.”
+
+Since one of them is wearing the suit, and only one statement is true, the person making the true statement is wearing the suit. So, the person wearing the suit is **Mahesh.**
+
+**Q12) Who got the land?**
+- Rajesh: “I got the land. Ramesh is wearing the suit.”
+- Mahesh: “I am wearing the suit. I got the land.”
+- Ramesh: “I got the land. I am not wearing the suit.”
+
+Based on the statements:
+- Rajesh claims he got the land.
+- Mahesh claims he got the land.
+- Ramesh claims he got the land.
+
+Since all three of them claim to have gotten the land and only one statement is true, we cannot definitively determine who got the land. So, the answer is **Can't say.**
+
+Now, let's move on to the
+
+ next set of questions.
+
+**Q13) Who is wearing the suit?**
+- Raju: “All of us are type Y’s”.
+- Golu: “Exactly one of us is a type X.”
+
+Based on the statements:
+- Raju claims all of them are type Y's.
+- Golu claims exactly one of them is a type X.
+
+Since Golu claims that exactly one of them is a type X, Golu must be the type X. Therefore, Raju is type Y, and Suyash is also type Y.
+
+So, the answer is **Golu is a type X.**
+
+Sure, let's continue with the remaining questions:
+
+**Q14) Who got the land?**
+- Rajesh: “I got the land. Ramesh is wearing the suit.”
+- Mahesh: “I am wearing the suit. I got the land.”
+- Ramesh: “I got the land. I am not wearing the suit.”
+
+Based on the statements:
+- Rajesh claims he got the land.
+- Mahesh claims he got the land.
+- Ramesh claims he got the land.
+
+Since all three of them claim to have gotten the land and only one statement is true, we cannot definitively determine who got the land. So, the answer is **Can't say.**
+
+**Q15) Who stole the watch?**
+- Rajesh: “Mahesh did not do it. I did not do it.”
+- Mahesh: “I did not do it. Ramesh did not do it.”
+- Ramesh: “I did not do it. I do not know who did it.”
+
+Let's analyze this:
+- If Rajesh is the liar, then both statements would be false, but that contradicts the given information that only one of them is guilty.
+- If Mahesh is the liar, then both statements would be false, but that contradicts the given information that only one of them is guilty.
+- If Ramesh is the liar, then both statements would be false, but that contradicts the given information that only one of them is guilty.
+
+Since we cannot definitively determine who the liar is among them, we also cannot determine who stole the watch. So, the answer is **Can't say.**
+
+**Q16) Which of the following is true?**
+- Peter says, ‘‘I am not a professor. Shina is not a professor.”
+- Matt says, ‘‘Peter is not a barrister. Shina is a professor.”
+- Shina says, ‘‘Peter is not a dentist. I am not a professor.”
+
+Let's analyze these statements:
+- If Peter is the professor, then his statement "I am not a professor" would be false, which contradicts the given information.
+- If Matt is the professor, then Shina's statement "I am not a professor" would be false, which contradicts the given information.
+- If Shina is the professor, then Matt's statement "Shina is a professor" would be true, which is consistent with the given information.
+
+Therefore, the true statement is: **Shina is the professor.**
+
+**Q17) Who is the singer?**
+- Madhuri says, ‘‘I am not the singer. The singer wears a flower in her hair.”
+- Minaxi says, ‘‘I am the singer. The singer is amongst us.”
+- Jaya says, ‘‘Madhuri is the singer. Minaxi is not the singer.”
+
+Based on the statements:
+- Madhuri claims she is not the singer and that the singer wears a flower in her hair.
+- Minaxi claims she is the singer.
+- Jaya claims Madhuri is the singer and that Minaxi is not the singer.
+
+Since only one of them can be the singer, and we know Minaxi is claiming to be the singer, we can conclude that **Minaxi is the singer.**
+
+**Q18) Which of the following is true?**
+- Raju: “All of us are type Y’s”.
+- Golu: “Exactly one of us is a type X.”
+
+Based on the statements:
+- Raju claims all of them are type Y's.
+- Golu claims exactly one of them is a type X.
+
+Since Golu claims that exactly one of them is a type X, Golu must be the type X. Therefore, Raju is type Y, and Suyash is also type Y.
+
+So, the answer is **Golu is a type X.**
