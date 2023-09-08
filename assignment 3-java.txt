@@ -1,0 +1,127 @@
+# Assignment Questions 3
+
+<aside>
+💡 **Q1.Write a simple Banking System program by using OOPs concept where you can get account Holder name balance etc?**
+
+</aside>
+
+<aside>
+💡 **Q2. Write a Program where you inherit method from parent class and show method Overridden Concept?**
+
+</aside>
+
+<aside>
+💡 **Q3.Write a program to show run time polymorphism in java?**
+
+</aside>
+
+<aside>
+💡 **Q4.Write a program to show Compile time polymorphism in java?**
+
+</aside>
+
+<aside>
+💡 **Q5. Achieve loose coupling in java by using OOPs  concept?**
+
+</aside>
+
+<aside>
+💡 **Q6. What is the benefit of encapsulation in java?**
+
+</aside>
+
+<aside>
+💡 **Q7.Is java a t 100% Object oriented Programming language? If no why ?**
+
+</aside>
+
+<aside>
+💡 **Q8.What are the advantages of abstraction in java?**
+
+</aside>
+
+<aside>
+💡 **Q9.What is an abstraction explained with an Example?**
+
+</aside>
+
+<aside>
+💡 **Q10.What is the final class in Java?**
+
+</aside>
+
+answers-
+1. **Simple Banking System Program using OOPs Concept:**
+   - Below is a simplified example of a banking system in Java using object-oriented programming (OOP) concepts:
+
+     ```java
+     class BankAccount {
+         private String accountHolderName;
+         private double balance;
+
+         public BankAccount(String accountHolderName, double balance) {
+             this.accountHolderName = accountHolderName;
+             this.balance = balance;
+         }
+
+         public String getAccountHolderName() {
+             return accountHolderName;
+         }
+
+         public double getBalance() {
+             return balance;
+         }
+
+         public void deposit(double amount) {
+             balance += amount;
+         }
+
+         public void withdraw(double amount) {
+             if (balance >= amount) {
+                 balance -= amount;
+             } else {
+                 System.out.println("Insufficient balance");
+             }
+         }
+     }
+
+     public class BankingSystem {
+         public static void main(String[] args) {
+             BankAccount account = new BankAccount("John Doe", 1000.0);
+             System.out.println("Account Holder: " + account.getAccountHolderName());
+             System.out.println("Initial Balance: $" + account.getBalance());
+             account.deposit(500.0);
+             System.out.println("Balance after deposit: $" + account.getBalance());
+             account.withdraw(300.0);
+             System.out.println("Balance after withdrawal: $" + account.getBalance());
+         }
+     }
+     ```
+
+2. **Inheritance and Method Overriding:**
+   - Inheritance in Java allows you to inherit methods and properties from a parent class. Method overriding occurs when a subclass provides a specific implementation for a method that is already defined in its superclass.
+
+3. **Runtime Polymorphism in Java:**
+   - Runtime polymorphism, also known as dynamic method dispatch, occurs when the method to be invoked is determined at runtime. It is achieved through method overriding. For example, you can have a base class with a method and multiple subclasses that override the method with their own implementations.
+
+4. **Compile-Time Polymorphism in Java:**
+   - Compile-time polymorphism, also known as method overloading, occurs when there are multiple methods with the same name in the same class, but with different parameter lists. The compiler determines which method to call based on the method's signature.
+
+5. **Achieving Loose Coupling in Java with OOP:**
+   - Loose coupling in Java can be achieved through various OOP principles like encapsulation, abstraction, and interface-based programming. It involves reducing dependencies between classes to make the system more maintainable and flexible.
+
+6. **Benefits of Encapsulation in Java:**
+   - Encapsulation is one of the fundamental principles of OOP in Java. It provides benefits such as data hiding, preventing unauthorized access, and allowing controlled access to data and methods. It helps maintain the integrity of an object's state.
+
+7. **Is Java a 100% Object-Oriented Programming Language:**
+   - No, Java is not considered a 100% object-oriented programming language because it allows primitive data types (e.g., `int`, `float`) that are not objects. However, Java is often described as a "mostly" object-oriented language because it encourages the use of objects and follows many OOP principles.
+
+8. **Advantages of Abstraction in Java:**
+   - Abstraction in Java allows you to hide complex implementation details and show only the necessary features of an object. It provides benefits such as reducing complexity, improving code maintainability, and enhancing code reusability.
+
+9. **Abstraction Explained with an Example:**
+   - Abstraction is the process of simplifying complex reality by modeling classes based on the essential properties and behaviors. For example, you can have an abstract class `Shape` with abstract methods like `calculateArea()` and `calculatePerimeter()`, and concrete subclasses like `Circle` and `Rectangle` that provide specific implementations.
+
+10. **Final Class in Java:**
+    - In Java, a `final` class is a class that cannot be extended or subclassed. It is often used for classes that should not have any subclasses, such as utility classes or classes with security-sensitive implementations.
+
