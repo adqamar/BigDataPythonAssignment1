@@ -1,0 +1,232 @@
+Linear Equations: 
+1) Find x & y: 1/(x–y) + 5/(3x–2y)=2 and 15/(3x–2y) – 2/(x–y)=1 a) x=3, y=2 b) x=2, y=3 c) x=4, y=5 d) x=5, y=4 
+2) Five burgers, six pizzas and seven cold drinks cost Rs 178 and  six burgers, four pizzas and two cold drinks cost Rs 124. What is  the cost of 3 (pizzas + burgers + cold drinks)? 
+a) Rs 60 b) Rs 62.5 c) Rs 90 d) Cannot be determined 3) How many non–negative pair of integers (x, y) satisfy the  equation: 3x+4y=21? 
+a) 0 b) 1 c) 2 d) 3 
+4) Nobody knows how old Aunt Helen is, but she gave a few  hints. She had passed 1/20 of her life before she started  school. She spent 3/20 of her life in school and worked for  1/10 of her life before she got married. She was married for 2/5 of her life. Her husband died after 7/10 of her life. After reading Uncle Harry's gravestone, you find out that she  has been a widow for 24 years. How old is Aunt Helen? a) 60 years b) 75 years c) 80 years d) 90 years 
+5) Virat wanted to buy both pens and pencils. He had $19 with  him. If each pen costs $1.5 and each pencil costs $0.8, what is  the maximum number of items that he can buy, if he plans to  exhaust all the money he has? 
+a) 16 b) 18 c) 20 d) 22 
+6) If a/b=(x–1)/(x+1), b/c=(y–1)/(y+1) and c/a=(z–1)/(z+1),  which of the following is true? 
+a) xyz=1 b) x+y+z=0 c) xy+yz+zx = –1 d) x²+y²+z² = xy+yz+zx 7) For what value of α are the following set of equations  inconsistent: αx+3y=α–3; 12x+αy=α 
+a) 8 b) –6 c) 12 d) –12 
+8) There is a father, a mother and 2 sons in a family and their  total age is 60 years. The difference between the sons' age is 3  years, mother's age exceeds the sum of the sons' age by 17  years and the difference of age of father and mother is equal  to the age of the elder son. How old is the father? a) 29 years b) 24 years c) 22 years d) 28 years 
+9) There are certain number of passengers in a bus such that  40 are male and the rest are female. At a bus stop, exactly half  of the females alight and no male alights. Also, no passenger  boards the bus. Now, the total number of passengers is two– third of the initial. How many females alight at the stop? a) 40 b) 60 c) 80 d) 50 
+10) A is 29 years older than B, B is 3 years older than C and D is  2 years younger than C. Two years hence, A's age will be twice  the combined ages of B, C and D. Find the present age of A. a) 34 b) 36 c) 39 d) 38 
+11) Q is as much younger than R as he is older than T. If the  sum of the ages of R and T is 50 years, what is definitely the  difference between R and Q's age? 
+a) 1 year b) 2 years c) 25 years d) Data inadequate 
+Quadratic Equations: 
+1) Find the value of 'a' for which one of the roots of the equation (a2–5a+3)x²+(3a–1)x+2=0 is twice as large as other. a) 2/3 b) –2/3 c) 1/3 d) –1/3 
+2) Let p and q be the roots of the equation x²–(α–2)x–α–1=0.  What is the minimum possible value of p²+q2? 
+a) 0 b) 3 c) 4 d) 5 
+3) If α,ẞ are the roots of the quadratic equation ax2+bx+c=o, then find the value of α²/ẞ+ẞ²/α. 
+a) (2bc–a3)/b2c b) (3abc–b3)/a²c c) (ab–b2c)/2b2c d) NOT 4) If the sum of the roots of the ax²+bx+c=0 is equal to the sum  of the squares of their reciprocals, then a/c, b/a, c/b are in a) AP b) GP c) HP d) None of these 
+5) While finding a quadratic equation with the given roots, Mr.  Mistake took the reciprocals of the roots and got the equation  of the form x²–5x+k₁=0, whereas Mr. Error took the square root  
+of the roots and got the equation of the form x²–k₂x+3=o. Find the actual equation which can be formed with the given roots. a) x²+45x+3=0 b) x²–45x+9=0 c) x²–15x+3=0 d) x²+45x–9=0 6) If the difference between the roots of the quadratic  equation x²–5x+2k=1 is 3, what is the value of k? a) 2 b) 2.5 c) 4 d) None of these 
+7) If the roots of the equation 3x²+9x+k=0 are in the ratio 1:2,  what is the value of k? 
+a) 2 b) 3 c) 4 d) 6 
+8) If one of the roots of the quadratic equation 3x2–px+q=0 is  3, then find the other root. Given that q–2p=3. 
+a) 4 b) 5 c) 7 d) 10 
+9) If one root of the quadratic equation x²–px+8=0 is the  square of the other, what is the value of p? 
+a) 6 b) 7 c) 8 d) 9 
+10) If a, b and g are the roots of the following cubic equation: x3–2x2+x–5=0, then what is the value of a2+b²+g²? a) 1 b) 2 c) 4 d) 5 
+11) Find the value of (1/p), for which the sum of roots of the  equation 5x2–(4p–1)x = 3p+2 is equal to the product of roots. a) 4 b) –4 c) 7 d) –7 
+12) The number of common roots between the two cubic  equations x3+3x²+4x+5=0 and x3+2x²+7x+3=0 is 
+a) 0 b) 1 c) 2 d) 3 
+13) Find the value of m for which the following equation  (m+1)x²+2(m+3)x+m+8=0 has equal roots? 
+a) –1/2 b) 1/3 c) –2 d) 1 
+14) x and y are the real numbers such that (x²–y²)(x²–2xy+y2)=3  and x–y=1. What is the value of xy? 
+a) 2 b) 1+√2 c) 1–√2 d) 1 
+15) Find the number of positive values of 'x' that satisfy the  following equation: 4x+1–18x2x+8=0 
+a) 0 b) 1 c) 2 d) More than 2
+Inequalities: 
+1) Find the range of x which satisfy the inequality: x2–10x+21<0 a) x<3 b) x>7 c) 3<x<7 d) 3≤x<7 
+2) Solve for x: 2(x–3)+5(1–x)≥3(2x–5) 
+a) x≤14/9 b) x<14/9 c) x=14/9 d) x≥14/9 
+3) If x³–3x²–6x+8>0, then x can be best described by a) x<4 b) –2<x<1 c) x>4 d) Both (b) and (c) 
+4) The smallest positive integral value of 'x' which satisfies the  inequality x3–7x²+11x–5>0 is 
+a) 6 b) 5 c) 4 d) 3 
+5) Solve for the value x: 1/x<1 
+a) (–∞,–4)ꓴ(9,∞) b) (–∞,–9)ꓴ(4,∞) c) (–∞,0)ꓴ(1,∞) d) (0,1) 6) If (1+3c), 1 and (1–c) are the three sides of a triangle, then find the range to which c belongs. 
+a) (–1/2, 1/2) b) (–1/4,1/4) c) (1/2,–1/2) d) (1/4, 1/2) 7) x and y are real numbers satisfying the conditions 2<x<3 and –8<y<–7. Which of the following expressions will have the least  value? 
+a) x²y b) xy2 c) 5xy d) x+y 
+8) x and y are two distinct non–zero integers. Which of the  following is definitely greater than 1? 
+a) │x│+│y│ b) |x–yl c) │x│/│y│ d) │x+y│/│x│–│y│ 9) If –1 ≤ v ≤ 1, –2 ≤ u ≤ –0.5, –2 ≤ z ≤ z ≤ –0.5 and w=vz/u then  which of these is necessarily true? 
+a) –0.5≤w≤2 b) –4≤w≤4 c) –4≤w≤2 d) –2≤w≤–0.5 10) Which of the following inequalities best describes a real  number x, satisfying 1–1/n < x ≤ 3+1/n for every positive  integer n? 
+a) 1<x<4 b) 1<x≤3 c) 0<x≤4 d) 1≤x≤3 
+11) Solve: 3│x–1│+x²–7>0 
+a) x>–1 b) x<–1 c) x<9 d) x<2 
+12) Solve the following system of inequalities: │x–5│<2 &  │x+3│>4 
+a) 3<x<7 b) x<–3 or x>7 c) x<–7 or x>1 d) –7<x<15 13) If │2p–4│≤2 and │3q–6│≥3, what is the minimum value of  │p+q│? 
+a) –∞ b) 0 c) 2 d) –2 
+14) If │2p–7|=5, │3q+6│=3 and [r–1|=7, what is the maximum  value of pq2/r? 
+a) –27/4 b) 9 c) 9/8 d) 27/4 
+15) Solve the following system of inequalities: 3x–4<8x+6; 2x– 1>5x–4; 11x–9≤15x+3 
+a) –2<x<1 b) –3≤x<1 c) 1<x<2 d) x=–1 
+16) x–│x│ is always 
+a) <0 b) =0 c) >0 d) ≤0 
+17) What values of x satisfy the inequality x2/3+x1/3–2≤0? a) –8≤x≤1 b) –1≤x≤8 c) 1<x<8 d) 1≤x≤8 
+18) If √(x–3)/x–2>0, then 
+a) 0≤x<2 b) x>3 c) 0<x<1 d) Both (b) and (c) 
+Relations & Functions: 
+1) Let A={1, 2, 3}. Then, the relation R={(1,1),(2,2),(1,3)} on A is a) reflexive b) transitive c) symmetric d) None of these 2) The graph of the function y=5x6+3x4–x²+8 
+a) is symmetric about the X–axis b) is symmetric about the Y– axis c) passes through the origin d) passes through the point  (2,256) 
+3) The range of the function f(x)=│x–1│ is 
+a) (–∞, ∞) b) (0, ∞) c) [0, ∞) d) (–∞, 0) 
+4) Find the range of the function f(x)=√(x–3) 
+a) (0, ∞) b) [0, ∞) c) (–∞, ∞) d) (–∞, 0] 
+5) If f:R is defined by f(x)=x²–6x–14,then f–1(2) is equal to a) {2, 8} b) {–2, 8} c) {–2,–8} d) {2,–8} 
+6) Let a function be fn+1(x)=fn(x)+3. If f2(2)=4, find the value of  f6(2). 
+a) 14 b) 16 c) 18 d) 20 
+7) If f(x)=log (1+x)/(1–x) then f(x)+f(y) is 
+a) f(x+y) b) f((x+y)/(1+xy)) c) (x+y)f((1/1+xy)) d)  (f(x)+f(y))/(1+xy) 
+Directions: If f(x)=2x+3 and g(x)=(x–3)/2, then 
+8) For what value of x, f(x)=g(x–3)? 
+a) –3 b) 1/4 c) –4 d) None of these 
+9) fog(x) is equal to 
+a) 1 b) gof(x) c) (15x+9)/(16x–5) d) 1/x 
+10) What of value the is (gofofogogof)(x).(fogofog)(x)? a) x b) x2 c) (5x+3)/(4x–1) d) (x+3)(5x+3)/(4x–5)(4x–1) 11) What is the value of fo(fog)o(gof)(x)? 
+a) x b) x2 c) 2x+3 d) (x+3)/(4x–5) 
+12) What is the maximum or minimum value of the function  g(x)=3x²+6x+6? 
+a) 3 b) 9 c) 6 d) 12 
+13) For each real number x, let f(x) be the minimum of the  numbers 4x+1, x+2 and –2x+4. Then the maximum value of f(x)  is 
+a) 2 b) 5/2 c) 8/3 d) 17/6 
+14) Range of │x│/x, x≠0 is 
+a) {–1,1} b) [–1,1] c) R–(–1,1) d) (–1,1) 
+15) If f(x)=√((x–1)(6–x)), then the domain of is 
+a) (1, 6) b) [1,6] c) [–6,1] d) [–1,6] 
+16) If f(x)=(3x+2)/(5x–3) then 
+a) f–¹(x)=f(x) b) f–¹(x)= –f(x) c) (fof)(x)= –x d) f–1(x)= –f(–x) 17) If f(x)=31+log x/xlog3 then f(1994) is 
+a) log 1994 b) 1994log 3 c) 3 d) None of these 
+18) If f(x)=(x+3)/(4x–5) and f(t)=x, then t could be a) (4x–3)/(5x–5) b) (3x–1)/(5–4x) c) (4x–1)/(5x+3) d)  (3+5x)/(4x–1) 
+19) Let f(x) be a function satisfying f(x)f(y)=f(xy) for all real x,y.  If f(2)=4 and f(1)≠0, then what is the value of f(1/2)? a) 4 b) 1/4 c) 5 d) 0
+20) The maximum value of f(x)=x5–5x4+5x3+10 is a) 11 b) 9 c) 1 d) –2 
+21) If 2≤a≤–1, –4≤b≤2, 2≤c≤4 and 1≤d≤3, what is the maximum  value of ab2/cd2? 
+a) –16 b) –1/9 c) 1/9 d) 16 
+22) The function f:R–{2} → R defined by f(x)=(x2+2x)/(x–2) is a) one–one and onto b) one–one but not onto c) neither one– one nor onto d) none of these 
+Exponents & Logarithms: 
+1) Find the value of (2nx6m+1x10m–nx15m+n–2)/(4mx32m+nx25n–1) a) 2 b) 2/3 c) 1/3 d) 3 
+2) Find the value of x for m7x.n–2x=p5x+1, if m=1000, n=10 and  p=100. 
+a) 2/7 b) 2/9 c) 2/13 d) 3 
+3) If 5x+5x+2+5x+3=755, then find the value of 3x+3x–1. a) 12 b) 4 c) 6 d) 8 
+4) If ax=b, by=c and cz=a, then find the value of xyz. a) abc b) 0 c) 1 d) a+b+c 
+5) What are the values of x and y that satisfy both the  following equations: 20.7x3–1.25y=8√6/27; 40.3xx90.2y=8x811/5 a) x=2, y=5 b) x=2.5, y=6 c) x=3, y=5 d) x=5, y=2 6) If 16log22x – 9log37x + log464=0, then how many positive  values of x are possible? 
+a) 0 b) 1 c) 2 d) 3 
+7) If log9(3log2(1+log3(1+2log₂x)))=1/2, find x. 
+a) 4 b) 1/2 c) 1 d) 2 
+8) log 512 to the base 2√2 is equal to 
+a) 9 b) 6 c) 4 d) 10 
+9) What is the value of  
+log101000+log1001000+log100010+log1000100? 
+a) 11/2 b) 5/2 c) 3/2 d) 11/6 
+10) If log32, log3(2x–5), logs(2x–7/2) are in arithmetic  progression, then the value of x is equal to 
+a) 5 b) 4 c) 2 d) 3 
+11) Solve the following for y: 81logy=3+2x9logy (Assume log has  the base 10) 
+a) O b) √10 c) 1 d) 3√2 
+12) If log xy=log x–log y, then which of the following options  must be true? 
+a) x=y b) x 1 c) y=1 d) xy=1 
+13) If log24 × log48 x log816 x ... nth term=49, then what is the  value of n? 
+a) 49 b) 48 c) 34 d) 24 
+14) Find the value of (2n+2n–1)/(2n+1–2n) 
+a) 2/3 b) 3/2 c) 5/6 d) 1/6 
+15) If (log a)/(b–c) = (log b)/(c–a)= (log c)/(a–b) then find the value of aabbcc. 
+a) ∛3 b) 1 c) 0 d) 2 
+16) (1/logxyxyz)+(1/logyzxyz)+(1/logzxxyz) equals 
+a) 1 b) 2 c) 3 d) 4 
+17) If log5x=a and log20x=b, then what is the value of logx10? a) (a+b)/2ab b) 2ab(a+b) c) 2ab/(a+b) d) (a+b)/2
+
+answers-
+Sure, let's solve the remaining questions in one go:
+
+**Linear Equations:**
+
+1) x=3, y=2 (Option A)
+2) Rs 62.5 (Option B)
+3) 2 (Option C)
+4) 80 years (Option C)
+5) 22 (Option D)
+6) xyz=1 (Option A)
+7) -12 (Option D)
+8) 28 years (Option D)
+9) 80 (Option C)
+10) 38 (Option D)
+11) 25 years (Option C)
+
+**Quadratic Equations:**
+
+1) -1/3 (Option D)
+2) 4 (Option C)
+3) (2bc–a^3)/b^2c (Option A)
+4) HP (Option C)
+5) x²+45x+3=0 (Option A)
+6) 2 (Option C)
+7) 6 (Option C)
+8) 4 (Option A)
+9) 8 (Option C)
+10) 4 (Option B)
+11) 9 (Option B)
+12) 0 (Option A)
+13) 1/3 (Option B)
+14) 2 (Option A)
+15) 2 (Option B)
+16) ≤0 (Option D)
+17) 1≤x≤8 (Option D)
+18) Both (b) and (c) (Option D)
+19) 1≤x≤3 (Option B)
+
+**Inequalities:**
+
+1) 3<x<7 (Option C)
+2) x≥14/9 (Option D)
+3) x>4 (Option C)
+4) x=3 (Option D)
+5) (–∞,–9)ꓴ(4,∞) (Option B)
+6) (–1/2, 1/2) (Option A)
+7) x²y (Option A)
+8) │x+y│ (Option D)
+9) –4≤w≤2 (Option C)
+10) 1<x≤3 (Option B)
+11) x<2 (Option B)
+12) –3<x<7 (Option A)
+13) 0 (Option B)
+14) 27/4 (Option A)
+15) –2<x<1 (Option C)
+16) >0 (Option C)
+17) 1≤x≤8 (Option D)
+18) (a+b)/(2ab) (Option A)
+
+**Relations & Functions:**
+
+1) None of these (Option D)
+2) is symmetric about the Y–axis (Option B)
+3) (0, ∞) (Option B)
+4) (0, ∞) (Option A)
+5) {–2, 8} (Option C)
+6) 20 (Option C)
+7) (x+y)/(1+xy) (Option D)
+8) 1 (Option C)
+
+**Exponents & Logarithms:**
+
+1) 2/3 (Option B)
+2) 2/9 (Option B)
+3) 6 (Option C)
+4) abc (Option A)
+5) x=2, y=5 (Option A)
+6) 3 (Option C)
+7) 2 (Option B)
+8) 3/2 (Option C)
+9) 11/6 (Option D)
+10) 1 (Option D)
+11) 3√2 (Option D)
+12) x=y (Option A)
+13) 24 (Option D)
+14) (a+b)/(2ab) (Option A)
+15) (a+b)/2 (Option B)
+16) 1 (Option A)
+17) (a+b)/(2ab) (Option D)
+18) (a+b)/2 (Option D)
+19) 5 (Option C)
+20) 12 (Option D)
+21) –1/9 (Option B)
+22) one–one but not onto (Option B)
+
