@@ -1,0 +1,89 @@
+# Assignment Questions 8
+
+<aside>
+💡 ****Q1.What is ORM in Hibernate?****
+
+</aside>
+
+<aside>
+💡 ****Q2.What are the advantages of Hibernate over JDBC?****
+
+</aside>
+
+<aside>
+💡 ****Q3.What are some of the important interfaces of Hibernate framework?****
+
+</aside>
+
+<aside>
+💡 ****Q4.What is a Session in Hibernate?****
+
+</aside>
+
+<aside>
+💡 ****Q5.What is a SessionFactory?****
+
+</aside>
+
+<aside>
+💡 ****Q6.What is HQL?****
+
+</aside>
+
+<aside>
+💡 ****Q7.What are Many to Many associations?****
+
+</aside>
+
+<aside>
+💡 ****Q8.What is hibernate caching?****
+
+</aside>
+
+<aside>
+💡 ****Q9.What is the difference between first level cache and second level cache?****
+
+</aside>
+
+<aside>
+💡 ****Q10.What can you tell about Hibernate Configuration File?****
+
+</aside>
+
+answers-
+1. **ORM in Hibernate:**
+   - ORM (Object-Relational Mapping) in Hibernate is a programming technique that allows developers to map Java objects to database tables and vice versa. It eliminates the need for writing complex SQL queries by providing a high-level, object-oriented API for database operations.
+
+2. **Advantages of Hibernate Over JDBC:**
+   - Object-Relational Mapping: Hibernate provides an ORM framework that simplifies database interactions using Java objects.
+   - Productivity: Developers can work with objects instead of writing low-level SQL queries, leading to increased productivity.
+   - Portability: Hibernate is database-agnostic and can work with different relational databases.
+   - Caching: Hibernate supports caching mechanisms to improve performance.
+   - Automatic Schema Generation: It can generate database schemas based on Java classes.
+   - Query Language: Hibernate Query Language (HQL) allows developers to write database queries in an object-oriented manner.
+
+3. **Important Interfaces of Hibernate Framework:**
+   - Some important interfaces in Hibernate include `SessionFactory`, `Session`, `Transaction`, `Query`, `Criteria`, and `Configuration`.
+
+4. **Session in Hibernate:**
+   - A `Session` in Hibernate represents a single-threaded unit of work with a database. It is used to perform database operations (CRUD) and manage the persistence state of objects.
+
+5. **SessionFactory:**
+   - `SessionFactory` is a factory class that creates `Session` instances. It is thread-safe and a single instance typically serves an entire application.
+
+6. **HQL (Hibernate Query Language):**
+   - HQL is a query language in Hibernate that allows developers to write database queries using the syntax of Java objects. It is similar to SQL but operates on Java objects.
+
+7. **Many-to-Many Associations:**
+   - Many-to-Many associations in Hibernate represent a relationship where multiple instances of one entity are associated with multiple instances of another entity. It is typically implemented using an association table.
+
+8. **Hibernate Caching:**
+   - Hibernate caching is a mechanism that stores frequently accessed data in memory to reduce database access and improve application performance. It can be of two types: first level (Session-level) and second level (SessionFactory-level) caching.
+
+9. **Difference Between First Level Cache and Second Level Cache:**
+   - First Level Cache: It is associated with a Session and stores objects within that session's scope. It is enabled by default and ensures that each object is loaded only once per session.
+   - Second Level Cache: It is shared across sessions within a SessionFactory and stores objects at a broader scope. It allows caching data between different sessions.
+
+10. **Hibernate Configuration File:**
+    - The Hibernate configuration file (usually named `hibernate.cfg.xml`) is an XML file that contains configuration settings for Hibernate. It specifies database connection details, dialect, mapping files, and other Hibernate properties.
+
