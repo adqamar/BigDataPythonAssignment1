@@ -1,0 +1,160 @@
+Syllogisms
+Directions: Each question consists of few statements followed by few conclusions. Answer which of the given conclusions(s) logically follow the given statements:
+1) Statements:  i) All W are Z  ii) Some X are Z
+Conclusions:  i) Some X are W  ii) Some W are X
+2) Statements:  i) All W are U  ii) All X are U
+Conclusions:  i) All W are X  ii) Some W are U
+3) Statements:  i) No C is X  ii) Some W are not C
+Conclusions:  i) Some X are W  ii) All C are W
+4) Statements:  i) All W are X  ii) No Y is X
+Conclusions:  i) All W is Y  ii) Some Y are W
+5) Statements:  i) All W are Y  ii) All W are X
+Conclusions:  i) Some Y are W  ii) Some X are W
+6) Statements:  i) No X is C  ii) No C is W
+Conclusions:  i) W is X  ii) Some W are X
+7) Statements:  i) Some hens are cows  ii) All cows are dogs
+Conclusions:  i) Some dogs are not hens  ii) No hen is dog
+8) Statements:  i) Some dogs are bats  ii) Some bats are cats
+Conclusions:  i) Some dogs are not cats  ii) No cat is dog
+9) Statements:
+i) Some poets are goats  ii) Some goats are trees
+Conclusions:
+i) Some poets are not trees  ii) No tree is goat
+10) Statements:
+i) Some pens are tables  ii) No table is blue
+Conclusions:
+i) No table is pen  ii) No pen is blue
+11) Statements:
+i) Some boys are girls  ii) All girls are cute
+Conclusions:
+i) Some boys are cute  ii) No boy is cute
+iii) Some cute are girls  iv) No cute is girl
+12) Statements:
+i) Some copies are desks  ii) No desk is pen
+Conclusions:
+i) Some copies are pens  ii) Some pens are desks
+iii) Some copies are not pens  iv) Some pens are not desks
+13) Statements:
+i) All books are pens  ii) Some pens are pencils
+Conclusions:
+i) Some pens are books  ii) No pen is book
+iii) Some books are pencils  iv) No book is pencil
+14) Statements:
+i) All books are notes  ii) Some notes are watches  iii) No watch is pencil
+Conclusions:
+i) Some watches are books  ii) Some notes are pencils
+iii) No watch is book  iv) Some notes are not pencils
+
+15) Statements:
+i) No system is deck  ii) All decks are books
+Conclusions:
+i) Some systems are books  ii) Some systems are not books
+iii) Some books are systems  iv) Some books are not systems
+16) Statements:
+i) All bulbs are radios  ii) All radios are fans  iii) No fan is table
+Conclusions:
+i) Some fans are bulbs  ii) No bulb is table
+iii) Some radios are bulbs  iv) Some tables are radios
+
+Logical Deductions
+Directions: Each question consists of six statements followed by five sets of three statements each. Select the set in which the statements are logically related:
+1) Statements:  a) All cunning are foxes  b) Some fox are clever  c) All clever write Z  d) Some cunning are clever  e) Some fox do not write Z  f) Some who write Z are cunning
+i) BCE  ii) ADB  iii) BCD  iv) CDE  v) ACE
+2) Statements:  a) Some herbs are not shrubs  b) All seeds are buds  c) Some buds are not shrub  d) No shrub is seed  e) Some buds are herbs  f) Herb is a seed
+i) ABC  ii) BCE  iii) FDC  iv) ECF  v) DFA
+3) Statements:  a) Some mammals are carnivores  b) All whales are mammals  c) All whales are aquatic animals  d) All whales are carnivores  e) Some aquatic animals are mammals  f) Some mammals are whales
+i) ADF  ii) ABC  iii) AEF  iv) BCE  v) NOT
+4) Statements:  a) All arguments are deductions  b) Some deductions are assumptions  c) Some deductions are not formations  d) All equations are assumptions  e) Some deductions are formations  f) No formation is argument
+i) BFE  ii) AFC  iii) AFE  iv) BFC  v) ADC
+5) Statements:  a) Some athletes are lazy  b) Some athletes are couch potatoes  c) Some couch potatoes are hard works  d) All hard works are athletes  e) All couch potatoes are lazy  f) Some hard works are lazy
+i) ABE  ii) AEB  iii) CEF  iv) FEC  v) ABC
+6) Statements:  a) Some software guys are Geeks  b) Some Greeks are Geeks  c) All nerds are Geeks  d) Some Greeks are nerds  e) Some nerds are software guys  f) Some software guys are Greeks
+i) ABF  ii) BCD  iii) DEF  iv) CEA  v) BCE
+7) Statements:  a) Some prizes are gifts  b) All prizes are exotic c) No gift is present  d) Some prizes are present  e) Some sensuous are present  f) Some of the exotic are not sensuous
+i) ACF  ii) ACD  iii) BFE  iv) CBD  v) NOT
+8) Statements:  a) Mangoes are fruity  b) Some bananas are not fruity  c) Some fruities are juicies  d) Some bananas are not mangoes  e) No juicy is banana  f) Some juicies are mangoes
+i) ACB  ii) ECB  iii) ABD  iv) BDA  v) EDF
+
+answers-Here are the answers to the Syllogisms questions:
+
+1) Conclusions: i) Some X are W (True) ii) Some W are X (False)
+Answer: i) BCE
+
+2) Conclusions: i) All W are X (False) ii) Some W are U (True)
+Answer: ii) BCE
+
+3) Conclusions: i) Some X are W (True) ii) All C are W (False)
+Answer: i) BCE
+
+4) Conclusions: i) All W is Y (False) ii) Some Y are W (True)
+Answer: ii) ABD
+
+5) Conclusions: i) Some Y are W (True) ii) Some X are W (False)
+Answer: i) ACB
+
+6) Conclusions: i) W is X (False) ii) Some W are X (False)
+Answer: None of the given options
+
+7) Conclusions: i) Some dogs are not hens (False) ii) No hen is dog (False)
+Answer: None of the given options
+
+8) Conclusions: i) Some dogs are not cats (False) ii) No cat is dog (True)
+Answer: ii) No cat is dog
+
+9) Conclusions: i) Some poets are not trees (False) ii) No tree is goat (False)
+Answer: None of the given options
+
+10) Conclusions: i) No table is pen (True) ii) No pen is blue (True)
+Answer: i) No table is pen ii) No pen is blue
+
+11) Conclusions: i) Some boys are cute (True) ii) No boy is cute (False)
+Answer: i) Some boys are cute
+
+12) Conclusions: i) Some copies are pens (True) ii) Some pens are not desks (True)
+Answer: iv) Some pens are not desks
+
+13) Conclusions: i) Some pens are books (False) ii) No pen is book (True)
+Answer: ii) No pen is book
+
+14) Conclusions: i) Some watches are books (True) ii) Some notes are pencils (False)
+Answer: i) Some watches are books
+
+15) Conclusions: i) Some systems are books (True) ii) Some systems are not books (True)
+Answer: iii) Some books are systems
+
+16) Conclusions: i) Some fans are bulbs (True) ii) No bulb is table (True)
+Answer: i) Some fans are bulbs
+
+Here are the logical deductions for each set:
+
+1) Statements: a) All cunning are foxes b) Some fox are clever c) All clever write Z d) Some cunning are clever e) Some fox do not write Z f) Some who write Z are cunning
+Conclusions: i) Some X are W (True) ii) Some W are X (False)
+Answer: i) BCE
+
+2) Statements: a) Some herbs are not shrubs b) All seeds are buds c) Some buds are not shrub d) No shrub is seed e) Some buds are herbs f) Herb is a seed
+Conclusions: i) ABC (False) ii) BCE (False) iii) FDC (False) iv) ECF (True) v) DFA (False)
+Answer: iv) ECF
+
+3) Statements: a) Some mammals are carnivores b) All whales are mammals c) All whales are aquatic animals d) All whales are carnivores e) Some aquatic animals are mammals f) Some mammals are whales
+Conclusions: i) ADF (True) ii) ABC (False) iii) AEF (False) iv) BCE (False) v) NOT (False)
+Answer: i) ADF
+
+4) Statements: a) All arguments are deductions b) Some deductions are assumptions c) Some deductions are not formations d) All equations are assumptions e) Some deductions are formations f) No formation is argument
+Conclusions: i) BFE (True) ii) AFC (False) iii) AFE (False) iv) BFC (False) v) ADC (False)
+Answer: i) BFE
+
+5) Statements: a) Some athletes are lazy b) Some athletes are couch potatoes c) Some couch potatoes are hard works d) All hard works are athletes e) All couch potatoes are lazy f) Some hard works are lazy
+Conclusions: i) ABE (False) ii) AEB (False) iii) CEF (False) iv) FEC (False) v) ABC (False)
+Answer: None of the given options
+
+6) Statements: a) Some software guys are Geeks b) Some Greeks are Geeks c) All nerds are Geeks d) Some Greeks are nerds e) Some nerds are software guys f) Some software guys are Greeks
+Conclusions: i) ABF (True) ii) BCD (False) iii) DEF (False) iv) CEA (False) v) BCE (False)
+Answer: i) ABF
+
+7) Statements: a) Some prizes are gifts b) All prizes are exotic c) No gift is present d) Some prizes are present e) Some sensuous are present f) Some of the exotic are not sensuous
+Conclusions: i) ACF (True) ii) ACD (True) iii) BFE (False) iv) CBD (True) v) NOT (False)
+Answer: i) ACF
+
+8) Statements: a) Mangoes are fruity b) Some bananas are not fruity c) Some fruities are juicies d) Some bananas are not mangoes e) No juicy is banana f) Some juicies are mangoes
+Conclusions: i) ACB (False) ii) ECB (False) iii) ABD (True) iv) BDA (False) v) EDF (False)
+Answer: iii) ABD
