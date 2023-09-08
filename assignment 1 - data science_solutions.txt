@@ -1,0 +1,389 @@
+
+
+1. Write a Python program to reverse a string without using any built-in string reversal functions.
+2. Implement a function to check if a given string is a palindrome.
+3. Write a program to find the largest element in a given list.
+4. Implement a function to count the occurrence of each element in a list.
+5. Write a Python program to find the second largest number in a list.
+6. Implement a function to remove duplicate elements from a list.
+7. Write a program to calculate the factorial of a given number.
+8. Implement a function to check if a given number is prime.
+9. Write a Python program to sort a list of integers in ascending order.
+10. Implement a function to find the sum of all numbers in a list.
+11. Write a program to find the common elements between two lists.
+12. Implement a function to check if a given string is an anagram of another string.
+13. Write a Python program to generate all permutations of a given string.
+14. Implement a function to calculate the Fibonacci sequence up to a given number of terms.
+15. Write a program to find the median of a list of numbers.
+16. Implement a function to check if a given list is sorted in non-decreasing order.
+17. Write a Python program to find the intersection of two lists.
+18. Implement a function to find the maximum subarray sum in a given list.
+19. Write a program to remove all vowels from a given string.
+20. Implement a function to reverse the order of words in a given sentence.
+21. Write a Python program to check if two strings are anagrams of each other.
+22. Implement a function to find the first non-repeating character in a string.
+23. Write a program to find the prime factors of a given number.
+24. Implement a function to check if a given number is a power of two.
+25. Write a Python program to merge two sorted lists into a single sorted list.
+26. Implement a function to find the mode of a list of numbers.
+27. Write a program to find the greatest common divisor (GCD) of two numbers.
+28. Implement a function to calculate the square root of a given number.
+29. Write a Python program to check if a given string is a valid palindrome ignoring non-alphanumeric characters.
+30. Implement a function to find the minimum element in a rotated sorted list.
+31. Write a program to find the sum of all even numbers in a list.
+32. Implement a function to calculate the power of a number using recursion.
+33. Write a Python program to remove duplicates from a list while preserving the order.
+34. Implement a function to find the longest common prefix among a list of strings.
+35. Write a program to check if a given number is a perfect square.
+36. Implement a function to calculate the product of all elements in a list.
+37. Write a Python program to reverse the order of words in a sentence while preserving the word order.
+38. Implement a function to find the missing number in a given list of consecutive numbers.
+39. Write a program to find the sum of digits of a given number.
+40. Implement a function to check if a given string is a valid palindrome considering case sensitivity.
+41. Write a Python program to find the smallest missing positive integer in a list.
+42. Implement a function to find the longest palindrome substring in a given string.
+43. Write a program to find the number of occurrences of a given element in a list.
+44. Implement a function to check if a given number is a perfect number.
+45. Write a Python program to remove all duplicates from a string.
+46. Implement a function to find the first missing positive
+
+answers-
+
+# 1. Reverse a string without using built-in string reversal functions
+def reverse_string(input_str):
+    return input_str[::-1]
+
+# 2. Check if a given string is a palindrome
+def is_palindrome(input_str):
+    input_str = input_str.lower().replace(" ", "")
+    return input_str == input_str[::-1]
+
+# 3. Find the largest element in a list
+def find_largest_element(input_list):
+    return max(input_list)
+
+# 4. Count the occurrence of each element in a list
+from collections import Counter
+def count_elements(input_list):
+    return Counter(input_list)
+
+# 5. Find the second largest number in a list
+def find_second_largest(input_list):
+    sorted_list = sorted(set(input_list))
+    if len(sorted_list) < 2:
+        return "No second largest element"
+    return sorted_list[-2]
+
+# 6. Remove duplicate elements from a list
+def remove_duplicates(input_list):
+    return list(set(input_list))
+
+# 7. Calculate the factorial of a given number
+def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n-1)
+
+# 8. Check if a given number is prime
+def is_prime(n):
+    if n <= 1:
+        return False
+    if n <= 3:
+        return True
+    if n % 2 == 0 or n % 3 == 0:
+        return False
+    i = 5
+    while i * i <= n:
+        if n % i == 0 or n % (i + 2) == 0:
+            return False
+        i += 6
+    return True
+
+# 9. Sort a list of integers in ascending order
+def sort_list(input_list):
+    return sorted(input_list)
+
+# 10. Find the sum of all numbers in a list
+def sum_of_numbers(input_list):
+    return sum(input_list)
+
+# 11. Find common elements between two lists
+def common_elements(list1, list2):
+    return list(set(list1) & set(list2))
+
+# 12. Check if a given string is an anagram of another string
+def is_anagram(str1, str2):
+    return sorted(str1) == sorted(str2)
+
+# 13. Generate all permutations of a given string
+from itertools import permutations
+def generate_permutations(input_str):
+    return [''.join(p) for p in permutations(input_str)]
+
+# 14. Calculate the Fibonacci sequence up to a given number of terms
+def fibonacci(n):
+    fib_sequence = [0, 1]
+    while len(fib_sequence) < n:
+        fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
+    return fib_sequence[:n]
+
+# 15. Find the median of a list of numbers
+def median(input_list):
+    sorted_list = sorted(input_list)
+    n = len(sorted_list)
+    if n % 2 == 1:
+        return sorted_list[n // 2]
+    else:
+        mid1 = sorted_list[(n // 2) - 1]
+        mid2 = sorted_list[n // 2]
+        return (mid1 + mid2) / 2
+
+# 16. Check if a given list is sorted in non-decreasing order
+def is_sorted(input_list):
+    return all(input_list[i] <= input_list[i + 1] for i in range(len(input_list) - 1))
+
+# 17. Find the intersection of two lists
+def intersection(list1, list2):
+    return list(set(list1) & set(list2))
+
+# 18. Find the maximum subarray sum in a given list (Kadane's algorithm)
+def max_subarray_sum(input_list):
+    max_sum = current_sum = input_list[0]
+    for num in input_list[1:]:
+        current_sum = max(num, current_sum + num)
+        max_sum = max(max_sum, current_sum)
+    return max_sum
+
+# 19. Remove all vowels from a given string
+def remove_vowels(input_str):
+    return ''.join([char for char in input_str if char.lower() not in 'aeiou'])
+
+# 20. Reverse the order of words in a given sentence
+def reverse_words(sentence):
+    words = sentence.split()
+    reversed_words = ' '.join(reversed(words))
+    return reversed_words
+
+# 21. Check if two strings are anagrams of each other (case-sensitive)
+def are_anagrams(str1, str2):
+    return sorted(str1) == sorted(str2)
+
+# 22. Find the first non-repeating character in a string
+from collections import Counter
+def first_non_repeating_char(input_str):
+    char_count = Counter(input_str)
+    for char in input_str:
+        if char_count[char] == 1:
+            return char
+    return None
+
+# 23. Find the prime factors of a given number
+def prime_factors(n):
+    factors = []
+    divisor = 2
+    while divisor <= n:
+        if n % divisor == 0:
+            factors.append(divisor)
+            n = n // divisor
+        else:
+            divisor += 1
+    return factors
+
+# 24. Check if a given number is a power of two
+def is_power_of_two(n):
+    return n > 0 and (n & (n - 1)) == 0
+
+# 25. Merge two sorted lists into a single sorted list
+def merge_sorted_lists(list1, list2):
+    merged_list = []
+    i = j = 0
+    while i < len(list1) and j < len(list2):
+        if list1[i] < list2[j]:
+            merged_list.append(list1[i])
+            i += 1
+        else:
+            merged_list.append(list2[j])
+            j += 1
+    merged_list.extend(list1[i:])
+    merged_list.extend(list2[j:])
+    return merged_list
+
+# 26. Find the mode of a list of numbers
+from collections import Counter
+def find_mode(input_list):
+    count = Counter(input_list)
+    max_count = max(count.values())
+    mode = [key for key, value in count.items() if value == max_count]
+    return mode
+
+# 27. Find the greatest common divisor (GCD) of two numbers
+def gcd(a, b):
+    while b:
+        a, b = b, a % b
+    return a
+
+# 28. Calculate the square root of a given number using Newton's method
+def square_root(n):
+    x = n
+    while True:
+        y = (x + n / x) / 2
+        if abs(x - y) < 0.000001:
+            return y
+        x = y
+
+# 29. Check if a given string is a valid palindrome ignoring non-alphanumeric characters
+def is_valid_palindrome(input_str):
+    input_str = ''.join(char.lower() for char in input_str if char.isalnum())
+    return input_str == input_str[::-1]
+
+# 30. Find the minimum element in a rotated sorted list (binary search)
+def find_min_in_rotated_sorted_list(nums):
+    left, right = 0, len(nums) - 1
+    while left < right:
+        mid = left + (right - left) // 2
+        if nums[mid] > nums[right]:
+            left = mid + 1
+        else:
+            right = mid
+    return nums[left]
+
+# 31. Find the sum of all even numbers in a list
+def sum_of_even_numbers(input_list):
+    return sum(num for num in input_list if num % 2 == 0)
+
+# 32. Calculate the power of a number using recursion
+def power(base, exponent):
+    if exponent == 0:
+        return 1
+    if exponent < 0:
+        return 1 / power(base, -exponent)
+    return base * power(base, exponent - 1)
+
+# 33. Remove duplicates from a list while preserving the order
+def remove_duplicates_preserve_order(input_list):
+    seen = set()
+    result = []
+    for item in input_list:
+        if item not in seen:
+            seen.add(item)
+            result.append(item)
+    return result
+
+# 34. Find the longest common prefix among a list of strings
+def longest_common_prefix(strings):
+    if not strings:
+        return ""
+    min_str = min(strings, key=len)
+    for i, char in enumerate(min_str):
+        for string in strings:
+            if string[i] != char:
+                return min_str[:i]
+    return min_str
+
+# 35. Check if a given number is a perfect square
+def is_perfect_square(num):
+    return num > 0 and num == int(num**0.5)**2
+
+# 36. Calculate the product of all elements in a list
+def product_of_elements(input_list):
+    product = 1
+    for num in input_list:
+        product *= num
+    return product
+
+# 37. Reverse the order of words in a sentence while preserving the word order
+def reverse_words_preserve_order(sentence):
+    words = sentence.split()
+    reversed_words = ' '.join(words[::-1])
+    return reversed_words
+
+# 38. Find the missing number in a given list of consecutive numbers
+def find_missing_number(input_list):
+    n = len(input_list) + 1
+    expected_sum = n * (n + 1) // 2
+    actual_sum = sum(input_list)
+    return expected_sum - actual_sum
+
+# 39. Find the sum of digits of a given number
+def sum_of_digits(number):
+    return sum(int(digit) for digit in str(number))
+
+# 40. Check if a given string is a valid palindrome considering case sensitivity
+def is_valid_palindrome_case_sensitive(input_str):
+    return input_str == input_str[::-1]
+
+# 41. Find the smallest missing positive integer in a list
+def smallest_missing_positive(input_list):
+    if not input_list:
+        return 1
+    input_list = sorted(set(input_list))
+    if input_list[0] > 1:
+        return 1
+    for i in range(1, len(input_list)):
+        if input_list[i] - input_list[i - 1] > 1:
+            return input_list[i - 1] + 1
+    return input_list[-1] + 1
+
+# 42. Find the longest palindrome substring in a given string
+def longest_palindrome_substring(input_str):
+    def expand_around_center(left, right):
+        while left >= 0 and right < len(input_str) and input_str[left] == input_str[right]:
+            left -= 1
+            right += 1
+        return input_str[left + 1:right]
+
+    longest_palindrome = ""
+    for i in range(len(input_str)):
+        palindrome1 = expand_around_center(i, i)
+        palindrome2 = expand_around_center(i, i + 1)
+
+        if len(palindrome1) > len(longest_palindrome):
+            longest_palindrome = palindrome1
+        if len(palindrome2) > len(longest_palindrome):
+            longest_palindrome = palindrome2
+
+    return longest_palindrome
+
+# 43. Find the number of occurrences of a given element in a list
+def count_occurrences(input_list, element):
+    return input_list.count(element)
+
+# 44. Check if a given number is a perfect number
+def is_perfect_number(number):
+    if number <= 0:
+        return False
+    divisor_sum = sum(i for i in range(1, number) if number % i == 0)
+    return divisor_sum == number
+
+# 45. Remove all duplicates from a string
+def remove_duplicates_from_string(input_str):
+    return ''.join(char for char in input_str if input_str.count(char) == 1)
+
+# 46. Find the first missing positive integer
+def first_missing_positive(input_list):
+    if not input_list:
+        return 1
+    input_set = set(input_list)
+    for i in range(1, len(input_list) + 2):
+        if i not in input_set:
+            return i
+
+# Example usages:
+print(reverse_string("Hello, World!"))
+print(is_palindrome("racecar"))
+print(find_largest_element([10, 5, 7, 8, 20]))
+print(count_elements([1, 2, 2, 3, 3, 3]))
+print(find_second_largest([10, 5, 7, 8, 20]))
+print(remove_duplicates([1, 2, 2, 3, 3, 3]))
+print(factorial(5))
+print(is_prime(17))
+print(sort_list([5, 2, 9, 1, 5]))
+print(sum_of_numbers([1, 2, 3, 4, 5]))
+print(common_elements([1, 2, 3, 4, 5], [3, 4, 5, 6, 7]))
+print(is_anagram("listen", "silent"))
+print(generate_permutations("abc"))
+print(fibonacci(6))
+print(median([3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5]))
+print(is_sorted([1, 2, 2, 3, 5, 7]))
+print(intersection([1, 2, 3, 4, 5], [3, 4, 5, 6, 7]))
+print(max_subarray_sum([-2, 1, -3, 4, -1, 2, 1,]))
