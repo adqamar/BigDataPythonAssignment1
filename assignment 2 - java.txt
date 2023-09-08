@@ -1,0 +1,125 @@
+# Assignment Questions 2
+
+<aside>
+💡 **Q1. What are the Conditional Operators in Java?**
+
+</aside>
+
+<aside>
+💡 **Q2. What are the types of operators based on the number of operands?**
+
+</aside>
+
+<aside>
+💡 **Q3.What is the use of Switch case in Java programming?**
+
+</aside>
+
+<aside>
+💡 **Q4.What are the conditional Statements and use of conditional statements in Java?**
+
+</aside>
+
+<aside>
+💡 **Q5.What is the syntax of if else statement?**
+
+</aside>
+
+<aside>
+💡 **Q6.How do you compare two strings in Java?**
+
+</aside>
+
+<aside>
+💡 **Q7.What is Mutable String in Java Explain with an example**
+
+</aside>
+
+<aside>
+💡 **Q8.Write a program to sort a String Alphabetically**
+
+</aside>
+
+<aside>
+💡 **Q9.Write a program to check if the letter 'e' is present in the word**
+
+**'Umbrella'.**
+
+</aside>
+
+<aside>
+💡 **Q10.Where exactly is the string constant pool located in the**
+
+**memory?**
+
+</aside>
+
+answers-
+
+1. **Conditional Operators in Java:**
+   - Conditional operators in Java include `if`, `else`, `else if`, `switch`, and the ternary operator (`? :`). They are used for making decisions and executing different code blocks based on conditions.
+
+2. **Types of Operators Based on the Number of Operands:**
+   - Operators can be categorized as unary (1 operand), binary (2 operands), or ternary (3 operands). For example, the unary `-` operator negates a value, the binary `+` operator adds two values, and the ternary `? :` operator performs a conditional operation.
+
+3. **Use of Switch Case in Java Programming:**
+   - The `switch` case statement is used for multi-branch decision-making in Java. It allows you to select one of many code blocks to be executed based on the value of an expression.
+
+4. **Conditional Statements and Use in Java:**
+   - Conditional statements, such as `if`, `else`, `else if`, and `switch`, are used to control the flow of a program based on certain conditions. They help in making decisions and executing specific code blocks accordingly.
+
+5. **Syntax of If-Else Statement:**
+   - The syntax of the `if-else` statement in Java is as follows:
+     ```java
+     if (condition) {
+         // Code to execute if the condition is true
+     } else {
+         // Code to execute if the condition is false
+     }
+     ```
+
+6. **Comparing Two Strings in Java:**
+   - In Java, you can compare two strings using the `.equals()` method for content comparison and `==` for reference comparison. For example:
+     ```java
+     String str1 = "Hello";
+     String str2 = "Hello";
+     boolean contentEqual = str1.equals(str2); // Content comparison
+     boolean referenceEqual = (str1 == str2);  // Reference comparison
+     ```
+
+7. **Mutable String in Java:**
+   - Strings in Java are immutable, meaning their values cannot be changed once created. To work with mutable strings, you can use the `StringBuilder` class. For example:
+     ```java
+     StringBuilder mutableStr = new StringBuilder("Hello");
+     mutableStr.append(" World"); // Modifying the string
+     ```
+
+8. **Program to Sort a String Alphabetically:**
+   - Here's a simple Java program to sort a string alphabetically:
+     ```java
+     public class StringSort {
+         public static void main(String[] args) {
+             String str = "programming";
+             char[] charArray = str.toCharArray();
+             java.util.Arrays.sort(charArray);
+             String sortedStr = new String(charArray);
+             System.out.println("Sorted String: " + sortedStr);
+         }
+     }
+     ```
+
+9. **Program to Check if 'e' is Present in the Word 'Umbrella':**
+   - Here's a Java program to check if the letter 'e' is present in the word 'Umbrella':
+     ```java
+     public class CheckLetter {
+         public static void main(String[] args) {
+             String word = "Umbrella";
+             boolean containsE = word.contains("e");
+             System.out.println("Letter 'e' is present: " + containsE);
+         }
+     }
+     ```
+
+10. **String Constant Pool Location in Memory:**
+    - The string constant pool is located in the Java Heap memory, a region where string literals are stored. String literals are interned, allowing multiple references to the same string literal to share the same memory location.
+
