@@ -1,0 +1,97 @@
+# Assignment Questions 9
+
+<aside>
+💡 ****Q1.What is Spring Framework?****
+
+</aside>
+
+<aside>
+💡 ****Q2.What are the features of Spring Framework?****
+
+</aside>
+
+<aside>
+💡 ****Q3.What is a Spring configuration file?****
+
+</aside>
+
+<aside>
+💡 ****Q4.What do you mean by IoC Container?****
+
+</aside>
+
+<aside>
+💡 ****Q5.What do you understand by Dependency Injection?****
+
+</aside>
+
+<aside>
+💡 ****Q6.Explain the difference between constructor and setter injection?****
+
+</aside>
+
+<aside>
+💡 ****Q7.What are Spring Beans?****
+
+</aside>
+
+<aside>
+💡 ****Q8.What are the bean scopes available in Spring?****
+
+</aside>
+
+<aside>
+💡 ****Q9.What is Autowiring and name the different modes of it?****
+
+</aside>
+
+<aside>
+💡 **Q10.Explain Bean life cycle in Spring Bean Factory Container**
+
+</aside>
+
+answers-
+
+1. **Spring Framework:**
+   - The Spring Framework is an open-source, lightweight, and comprehensive Java-based framework used for building enterprise-level applications. It provides a structured way to develop applications with a focus on modularity, ease of testing, and inversion of control (IoC) and aspect-oriented programming (AOP) capabilities.
+
+2. **Features of Spring Framework:**
+   - Inversion of Control (IoC) container
+   - Aspect-Oriented Programming (AOP)
+   - Modular and loosely coupled architecture
+   - Dependency Injection (DI)
+   - Transaction Management
+   - JDBC Exception Handling
+   - Spring MVC for web applications
+   - Spring Security for authentication and authorization
+   - Spring Boot for rapid application development
+
+3. **Spring Configuration File:**
+   - A Spring configuration file, often named `applicationContext.xml`, is an XML file that contains configuration information for a Spring application. It defines beans, their dependencies, and various Spring settings.
+
+4. **IoC Container (Inversion of Control Container):**
+   - The IoC container is a core concept in the Spring Framework. It manages the instantiation, configuration, and assembly of objects (beans) in an application. It promotes loose coupling and allows developers to focus on business logic by handling object creation and wiring.
+
+5. **Dependency Injection (DI):**
+   - Dependency Injection is a design pattern and a core concept in Spring. It involves providing the dependencies (e.g., objects) that a class needs from external sources rather than creating them internally. DI can be achieved through constructor injection, setter injection, or method injection.
+
+6. **Constructor vs. Setter Injection:**
+   - Constructor Injection: Dependencies are injected through a constructor. It ensures that all required dependencies are provided when an object is created.
+   - Setter Injection: Dependencies are injected using setter methods. It allows for optional dependencies and is useful when there are multiple dependencies.
+
+7. **Spring Beans:**
+   - Spring Beans are Java objects managed by the Spring IoC container. These objects are defined in the Spring configuration file and can be instantiated, configured, and managed by the container.
+
+8. **Bean Scopes in Spring:**
+   - Singleton (default): A single instance of the bean is created and shared across the entire application.
+   - Prototype: A new instance of the bean is created each time it is requested.
+   - Request: A new instance is created for each HTTP request (only in a web-based application).
+   - Session: A new instance is created for each user session (only in a web-based application).
+
+9. **Autowiring and Modes:**
+   - Autowiring is a feature in Spring that automatically injects dependencies into a bean.
+   - Autowiring Modes: There are five autowiring modes in Spring—no, by name, by type, constructor, and autodetect. These modes specify how dependencies are resolved and injected.
+
+10. **Bean Lifecycle in Spring Bean Factory Container:**
+    - Spring manages the lifecycle of a bean in the Bean Factory Container. It includes bean instantiation, population of properties, initialization, and destruction. Developers can define initialization and destruction methods using callbacks.
+
