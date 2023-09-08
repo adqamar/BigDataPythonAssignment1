@@ -1,0 +1,457 @@
+Data Interpretation
+Following questions are based on the information given below:
+
+
+
+1) When and how much is the maximum increment, maximum decrement and maximum change?
+2) When and how much is the minimum increment, minimum decrement and minimum change?
+3) How many number of years and number of sessions are there in the given period?
+4) When and how much is the maximum percentage increment, maximum percentage decrement and maximum percentage change?
+5) Calculate average revenue and average revenue change for the given period.
+6) When and how much is the maximum profit in the given
+period? If the average expenditure of all the years is 60 cr then what is the maximum profit?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The following pie charts show the details about revenues and expenditures of five different sectors of TATA group:
+ 
+
+1) Calculate the sum and difference between the profits of A and B.
+2) What and from which sector has the maximum and minimum profits incurred?
+3) Calculate the average profits of all sectors.
+4) If the revenue of B is increased by 20%, what will be its new degree?
+5) How many sectors have profits greater than 40 cr?
+6) If the revenues of A and C are increased by 10% and 20% respectively, what will be the new degree of E?
+7) If the expenditure of B is increased by 10% and revenue is decreased by 10%, what will be its new profit?
+8) If the expenditure of C is increased by 20%, by how much percentage the expenditure of E should be decreased so that the total expenditure remains unchanged?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loan disbursed by five banks (Rupees in Crores):
+
+
+Banks
+1982
+1983
+1984
+1985
+1986
+A
+18
+23
+45
+30
+70
+B
+27
+33
+18
+41
+37
+C
+29
+29
+22
+17
+11
+D
+31
+16
+28
+32
+43
+E
+13
+19
+27
+34
+42
+Total
+118
+120
+140
+154
+203
+
+1) In which year was the disbursement of loans of all the banks put together least compared to the average disbursement of loans over the years?
+a) 1982  b) 1983  c) 1984  d)1985  e) 1986
+2) What was the percentage increase of disbursement of loans of all banks together from 1984 to 1985?
+a) 110  b) 14  c) 90 10/11  d)10  e) NOT
+3) In which year was the total disbursement of loans of banks A & B exactly equal to the total disbursement of banks D and E?
+a) 1983  b) 1986  c) 1984  d) 1982  e) NOT
+4) In which of the following banks did the disbursement of loan continuously increase over the years?
+a) A  b) B  c) C  d) D  e) E
+5) If the minimum target in the preceding years was 20% of the total disbursement of loans, how many banks reached the target in 1983?
+a) 1  b) 3  c) 2  d) 4  e) NOT
+6) In which bank was the loan disbursement more than 25% of the disbursement of all banks together in 1986?
+a) A  b) B  c) C  d) D  e) 
+
+
+
+Number of boys of standard XI participating in different games:
+
+
+Games
+XI A
+XI B
+XI C
+XI D
+XI E
+Total 
+Chess
+8
+8
+8
+4
+4
+32
+Badminton
+8
+12
+8
+12
+12
+52
+Tennis
+12
+16
+12
+8
+12
+60
+Hockey
+8
+4
+8
+4
+8
+32
+Football
+8
+8
+12
+12
+12
+52
+Total boys
+44
+48
+48
+40
+48
+228
+
+Note:
+A- Every student (boy and girl) of each class of standard XI participates in a game.
+B- In each class, the number of girls participating in each game is 25% of the number of boys participating in each game.
+C- Each student (boy or girl) participates in one and only one game.
+
+1) All the boys of class XI D passed the annual examination but a few girls failed. If all the boys and girls who passed and entered XII D are in the ratio of boys to girls as 5:1, what would be the number of girls who failed in class XI D?
+a) 8  b) 5  c) 2  d) 1   e) NOT
+2) Girls playing which of the following games need to be combined to yield a ratio of boys to girls of 4:1, if all boys playing chess and badminton are combined?
+a) Tennis & Hockey  b) Badminton & Tennis   c) Chess & Hockey d) Hockey & Football  e) NOT
+3) What should be the total number of students in the school if all the boys of class XI A together with all the girls of class XI B and class XI C were to be equal to 25% of the total number of students?
+a) 272  b) 560  c) 656  d) 340  e) NOT
+4) Boys of which of the following classes need to be combined to equal four times the number of girls in class XI B and class XI C?
+a) XI D & XI E  b) XI A & XI B  c) XI A & XI C   d) XI A & XI D  e) NOT
+5) If boys of class XI E participate in chess together with girls of class XI B and class XI C participating in Tennis and Hockey respectively are selected for a course at the college of sports, what % of the students will get this advantage approximately?
+a) 4.38  b) 3.51  c) 10.52  d) 13.5  e) NOT
+6) If the social work every boy of class XI D & class XI C is paired with the girl of the same class, what % of the boys of these two classes cannot participate in social work?
+a) 33  b) 66  c) 50  d) 75  e) NOT
+
+
+
+
+
+
+
+Financial statement of a company over the years (Rupees in lakh):
+Year
+Gross Turnover Rs. 
+Profit before interest and depreciation
+Interest
+Depreciation
+Net Profit
+1980-81
+1380
+380.92
+300.25
+69.9
+10.67
+1981-82
+1401
+404.98
+315.4
+71.12
+18.46
+1982-83
+1540
+520.03
+390.85
+80.02
+49.16
+1983-84
+2112
+599.01
+444.44
+88.88
+65.69
+1984-85
+2520
+811
+505.42
+91.91
+212.78
+1985-86
+2758.99
+920
+600.2
+99
+220.8
+
+
+
+1) During which year did the ‘Net Profit’ exceed Rs. 1 crore for the first time?
+a) 1985-86  b) 1984-85  c) 1983-84  d) 1982-83  e) NOT
+2) During which year was the “Gross Turnover” closest to thrice the ‘Profit before Interest and Depreciation’?
+a) 1985-86  b) 1984-85  c) 1983-84  d) 1982-83  e) 1981-82
+3) During which of the given years did the ‘Net Profit’ form the highest proportion of the ‘Profit before Interest and Depreciation?
+a) 1984-85  b) 1983-84  c) 1982-83  d) 1981-82  e) 1980-81
+4) Which of the following registered the lowest increase in terms of rupees from the year 1984-85 to the year 1985-86?
+a) Gross Turnover  b) Profit before Interest and Depreciation   c) Depreciation  d) Interest  e) Net Profit
+5) The ‘Gross Turnover’ for 1982-83 is about what percent of the ‘Gross Turnover’ for 1984-85?
+a) 61  b) 163  c) .611  d) 39  e) .006
+
+
+Following questions are based on the information given below:
+
+
+1) In how many of the given years were the exports at least 10% more than the imports?
+a) 0  b) 1  c) 2  d) 3
+2) From 1995 to 1999, in which year was the percentage growth in exports, compared to the previous year, the highest?
+a) 1995  b) 1996  c) 1997  d) 1998
+3) What were the average exports for the given periods?
+a) 145000 cr  b) 132000 cr  c) 126000 cr  d) 119000 cr
+4) What is the simple average annual growth in the imports from 1994 to 1999?
+a) 15  b) 16  c) 19  d) 23
+5) Among the years in which the imports as well as exports exceeded those in the previous years, in how many years was the percentage increase in imports less than the percentage increase in exports?
+a) 0  b) 1  c) 2  d) 3
+
+The following pie chart represents the breakup of Raju’s monthly expenses:
+
+
+1) If Raju spent 4500 rupees more on food and transport together than he spent on rent, then find his monthly expenses (in rupees):
+a) 15000  b) 25000  c) 30000  d) 35000
+2) If Raju increased his savings, which is currently 10% of his income, by 20% and reduced his expenses by 20%, then his savings would be what percentage of his expenses?
+a) 10%  b) 12.5%  c) 15%  d) 16.66%
+3) Raju spent 20% of his expenditure on ‘others’ on entertainment, this amounted to 2100 rupees, find his expenditure on education.
+a) 4500  b) 5000  c) 6500  d) None of these
+4) Find the angle made by the expenditure on rent and others put together
+a) 1200  b) 1600  c) 1800  d) 2100
+5) As the prices dropped, Raju’s expenditure on clothes dropped by 10%. As a result of this, his expenditure on others decreased from 10500 rupees to 10290 rupees, what percentage of his expenditure on others was spent on clothes?
+a) 10%  b) 12%  c) 15%  d) 20%
+
+
+
+The line graph represents the number of units sold (in 000’s) by three companies X,Y,Z from 2003 to 2007:
+
+
+1) If in 2004, the manufacturing cost and selling cost of each unit for all the companies is Rs. 25 and Rs. 40 respectively, then total profit in Rs. Earned by all the three companies in that year, if all the manufactured goods are sold is:
+a) 6.75 million  b) 6.75 lakh  c) 0.225 million  d) 0.3 million
+2) Which company has the maximum revenue in the year 2004 and 2005 together, if the selling price (in Rs.) of each unit in both years, for companies X,Y,Z are 12,18 and 8 respectively?
+a) X  b) Y  c) Z  d) Both X and Y
+3) How are the revenues from 2003 to 2007 for company X and company Z related if the selling price of each unit sold in a year is the same for both the companies?
+a) inverse relationship  b) sum of their revenues is a constant  c) direct relationship  d) none of these
+4) What is the ratio of the profits generated by the companies X,Y and Z in 2003 if their average profit per units is Rs. 15, 5 and 8 respectively?
+a) 15:20:24  b) 5:7:8  c) 6:6:8  d) 6:5:8
+5) Which company had the highest percentage growth in profits during the period from 2003 to 2006?
+a) X  b) Y  c) Z  d) Cannot be determined
+
+
+
+Expenditures of a company (in Lakh Rupees) per annum:
+
+
+Item
+Salary
+Fuel and Transport
+Bonus
+Interest on Loans
+Taxes
+Year
+1998
+288
+98
+3
+23.4
+83
+1999
+342
+112
+2.52
+32.5
+108
+2000
+324
+101
+3.84
+41.6
+74
+2001
+336
+133
+3.68
+36.4
+88
+2002
+420
+142
+3.96
+49.4
+98
+
+1) Total expenditure on all these items in 1998 was approximately what percent of the total expenditure in 2002?
+a) 62%  b) 66%  c) 69%  d) 71%
+2) The total amount of bonus paid by the company during the given period is approximately what percent of the total amount of salary paid during this period?
+a) 0.1%  b) 0.5%  c) 1%  d) 1.25%
+3) The ratio between the total expenditure on Taxes for all the years and the total expenditure on Fuel and Transport for all the years respectively is approximately?
+a) 4:7  b) 10:13  c) 15:18  d) 5:8
+
+answers-
+
+**Questions based on Financial Statement:**
+
+1) During which year did the ‘Net Profit’ exceed Rs. 1 crore for the first time?
+**Answer: a) 1985-86**
+
+2) During which year was the “Gross Turnover” closest to thrice the ‘Profit before Interest and Depreciation’?
+**Answer: c) 1983-84**
+
+3) During which of the given years did the ‘Net Profit’ form the highest proportion of the ‘Profit before Interest and Depreciation?
+**Answer: e) 1980-81**
+
+4) Which of the following registered the lowest increase in terms of rupees from the year 1984-85 to the year 1985-86?
+**Answer: d) Interest**
+
+5) The ‘Gross Turnover’ for 1982-83 is about what percent of the ‘Gross Turnover’ for 1984-85?
+**Answer: a) 61**
+
+**Questions based on Exports and Imports:**
+
+1) In how many of the given years were the exports at least 10% more than the imports?
+**Answer: c) 2**
+
+2) From 1995 to 1999, in which year was the percentage growth in exports, compared to the previous year, the highest?
+**Answer: b) 1996**
+
+3) What were the average exports for the given periods?
+**Answer: c) 126000 cr**
+
+4) What is the simple average annual growth in the imports from 1994 to 1999?
+**Answer: d) 23**
+
+5) Among the years in which the imports as well as exports exceeded those in the previous years, in how many years was the percentage increase in imports less than the percentage increase in exports?
+**Answer: c) 2**
+
+**Questions based on Raju's Expenses:**
+
+1) If Raju spent 4500 rupees more on food and transport together than he spent on rent, then find his monthly expenses (in rupees):
+**Answer: b) 25000**
+
+2) If Raju increased his savings, which is currently 10% of his income, by 20% and reduced his expenses by 20%, then his savings would be what percentage of his expenses?
+**Answer: c) 15%**
+
+3) Raju spent 20% of his expenditure on ‘others’ on entertainment, this amounted to 2100 rupees, find his expenditure on education.
+**Answer: b) 5000**
+
+4) Find the angle made by the expenditure on rent and others put together
+**Answer: a) 1200**
+
+5) As the prices dropped, Raju’s expenditure on clothes dropped by 10%. As a result of this, his expenditure on others decreased from 10500 rupees to 10290 rupees, what percentage of his expenditure on others was spent on clothes?
+**Answer: c) 15%**
+
+**Questions based on Units Sold by Companies:**
+
+1) If in 2004, the manufacturing cost and selling cost of each unit for all the companies is Rs. 25 and Rs. 40 respectively, then the total profit in Rs. Earned by all three companies in that year, if all the manufactured goods are sold is:
+**Answer: a) 6.75 million**
+
+2) Which company has the maximum revenue in the year 2004 and 2005 together, if the selling price (in Rs.) of each unit in both years, for companies X, Y, Z are 12, 18, and 8 respectively?
+**Answer: d) Both X and Y**
+
+3) How are the revenues from 2003 to 2007 for company X and company Z related if the selling price of each unit sold in a year is the same for both the companies?
+**Answer: b) sum of their revenues is a constant**
+
+4) What is the ratio of the profits generated by the companies X, Y, and Z in 2003 if their average profit per unit is Rs. 15, 5, and 8 respectively?
+**Answer: c) 6:6:8**
+
+5) Which company had the highest percentage growth in profits during the period from 2003 to 2006?
+**Answer: a) X**
+
+**Questions based on Company Expenditures:**
+
+1) Total expenditure on all these items in 1998 was approximately what percent of the total expenditure in 2002?
+**Answer: b) 66%**
+
+2) The total amount of bonus paid by the company during the given period is approximately what percent of the total amount of salary paid during this period?
+**Answer: c) 1%**
+
+3) The ratio between the total expenditure on Taxes for all the years and the total expenditure on Fuel and Transport for all the years respectively is approximately?
+**Answer: a) 4:7**
