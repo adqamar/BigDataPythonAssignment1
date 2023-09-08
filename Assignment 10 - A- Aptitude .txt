@@ -1,0 +1,266 @@
+Lines, Angles & Triangles 
+1) I and m are two distinct non-parallel lines and t is the  transversal. If the co-interior angles on the RHS of the  transversal are 75° and 85° and the co-interior angles on the  LHS of the transversal are 95° and 105°, then which of the  following statements is true? 
+a) The lines l and m will meet on the left-hand side. b) The  lines l and m will meet on the right-hand side. c) The lines l  and m will never meet. d) The lines l and m will coincide. 2) If l and m are intersecting lines and p is any third line, then  which of the following is false? 
+a) Both l and m cannot be perpendicular to p. b) Both l and m  cannot be parallel to p. c) Neither l nor m can be both  perpendicular and parallel to p at the same time. d) Both l and  m can be parallel, but not perpendicular to p. 
+3) If the lengths of two sides of a triangle are 3 and 4  respectively, then which of the following is true about the  value of the third side? 
+a) It is greater than 7. b) It is equal to 7. c) It is less than 7 and  greater than 1. d) It is equal to 1. 
+4) In ∆ABC, AB = AC. If a point P is taken on the side AB such  that AP = PC = CB, then the measure of angle A is a) 18° b) 36° c) 90° d) 72° 
+5) Consider five points comprising the vertices of a square and  the intersection point of its diagonals. How many triangles can  be formed using these points? 
+a) 4 b) 6 c) 8 d) None of these 
+6) In an equilateral triangle ABC, a line DE is drawn parallel to  AB that meets sides BC and AC at points D and E, respectively.  The line DE divides BC in 3 : 2 i.e. BD: DC = 3: 2. What is the  ratio of area of ∆CDE to that of area of quadrilateral ABDE? a) 4:25 b) 21:25 c) 4:21 d) 25:8 
+7) The bisectors of the angles of a linear pair are not a) parallel to each other b) at right angle to each other c)  perpendicular to each other d) intersecting at a point 8) The perimeter of a triangle is 
+a) greater than the sum of its altitudes b) less than the sum of  its altitudes c) equal to the sum of its altitudes d) None of  these 
+9) In ∆ABC, the internal bisector of ∠ A meets BC at D. If AB = 4  cm, AC = 3 cm and ∠ A= 60°, then what is the length of AD? a) 2√3 cm b) 12√3/7 cm c) 15√3/8 cm d) 6√3/7 cm 10) BPC is an equilateral triangle drawn inside a square ABCD.  What is the measure of angle APD? 
+a) 75° b) 90° c) 120° d) None of these 
+11) In ∆PQR, L and M are the points respectively on sides PQ  and QR, such that LM || PR. If PQ = 8 cm, MQ = 3 cm and LQ = 4 cm, find the length of QR. 
+a) 10.67 cm b) 8 cm c) 9 cm d) 6 cm 
+Quadrilaterals & Polygons 
+1) ABCDEF is a regular hexagon. What is the ratio of the area of  ∆ACE to that of the area of hexagon ABCDEF? 
+a) 1:3 b) 1:2 c) 2:3 d) 5:6 
+2) The difference between the interior and the exterior angle  of a regular polygon is 90°. How many sides does it have? a) 6 b) 8 c) 10 d) 12 
+3) If each interior angle of a regular polygon is p times as large  as each exterior angle, then the number of sides of polygon is a) 2(P + 1) b) 2P+3 c) 2P-2 d) P+1 
+4) All the internal angles of a convex polygon are distinct  integers (when expressed in degrees), with the greatest of  them being 110°. The maximum number of sides of the  polygon is 
+a) 5 b) 6 c) 7 d) 8 
+5) PQRS is a trapezoid with PQ parallel to SR, PQ = 20 cm, RS =  3 cm, ∠ PQR = 30° and ∠ QPS 60°. What is the length of the line  joining the midpoints of PQ and RS? 
+a) 10 cm b) 8 cm c) 8.5 cm d) 1.5 cm 
+6) ABCD is a trapezoid such that AB is parallel to CD and AB =  10 cm, CD = 20 cm. Further, it is known that the trapezoid is an  isosceles trapezoid with length of one of the oblique sides  being √89 cm. Find the length of BD. 
+a) 17 cm b) 6√3 cm c) 15 cm d) 8√3 cm 
+7) If the side of a square is increased by 4 metres, its area  increases by 56 square metres. If the length of a side of this  bigger square is increased by 4 metres, then how many square  metres bigger than the original square will this new square be? 
+a) 81 m² b) 100 m² c) 121 m² d) 144 m² 
+8) Suppose ABCD is a rectangle and E is a point on CD. Let x be  the area of ∆AED, y be the area of ∆ BCE and z be the area of  ∆ABE, and suppose y2 = xz. What is the DE value of DE/EC? a) 3/5 b) √5 - 1/2 c) 2/3 d) √5/3 
+9) ABCD is a rhombus with each side equal to 6 cm. The sum of  the squares of the two diagonals is 
+a) 36 cm b) 144 cm c) 162 cm d) 184 cm 
+10) The area of a rhombus is three times the area of a square  ABCD. If AB = 4 cm and one of the diagonals of the rhombus  measures 8 cm, then what is the length of the second  diagonal? 
+a) 12 cm b) 15 cm c) 16 cm d) 18 cm 
+11) ABCDEF is a regular hexagon and ABPQR is a regular  pentagon that are joined with each other through one  common side AB. If the lines EF and QR are extended in such a  way that they meet at point T, then the angle FTR is a) 132° b) 108° c) 96° d) 60° 
+12) A square has perimeter p > o and area A. If A = 2p, then  what is the value of p?
+a) 24 b) 32 c) 36 d) 48 
+13) The diagonal of the square A is (a + b). Find the length of  the diagonal of the square B, whose area is twice the area of A. a) a + b/2 b) √2(a + b) c) (a + b)/√2 d) √(a + b/2) 14) A square of side 2 m has its corners cut away so as to form  an octagon with all sides equal. The length of each side of the  octagon (in metres) is 
+a) √2/√2+1 m b) 2/√2+1 m c) 2/√2-1 m d) √2/√2-1 m 15) A certain quadrilateral has perpendicular diagonals. Three  of the sides of the quadrilateral have lengths 2 units, 3 units  and 4 units. Which of the following is/are the possible value(s)  of the length of the fourth side? 
+a) √11 units b) √21 units c) Both a) and (2) d) None of these 16) If E and F are points on the diagonal BD of a parallelogram  ABCD, such that DE =BF, AECF must be. 
+a) a rectangle b) a parallelogram c) a square d) a rhombus 17) The angles of a quadrilateral, taken in order, measure x, x +  20, x + 30 and x + 50 degrees. This quadrilateral is a a) parallelogram b) rhombus c) trapezium d) square 18) If the angles of a quadrilateral taken in order are in the  ratio 1: 3:5: 7, then its 
+a) two sides are parallel b) two sides are equal c) three sides  are equal d) both the pairs of sides are parallel 
+19) The figure obtained by joining the midpoints of the sides of  a rhombus, taken in order, is 
+a) a rhombus b) a rectangle c) a square d) any parallelogram Circles 
+1) Two concentric circles are of radii 7 cm and 4 cm. A line  PQRS cuts the larger circle at P and S, and the smaller at Q and  R. If QR = 6 cm, then PS is (approximately) equal to a) 13 cm b) 12 cm c) 13.5 cm d) 12.5 cm 
+2) The line AB is 6 m in length and is tangent to the inner one  of the two concentric circles at point C. If the radii of the both  the circles are integers, find the radius of the outer circle. a) 5 m b) 1 m c) 2 m d) 3 m 
+3) In a semicircle, chord BC is parallel to diameter AD. The  lengths of chords AB and CD are 2 cm each, while AD has  length 8 cm. What is the length of BC? 
+a) 7.5 cm b) 7 cm c) 7.75 cm d) None of these 
+4) Let C be a circle with centre Po, and AB be the diameter of C.  Suppose P1 is the mid- point of the line segment PoB, P2 is the  mid-point of the line segment P1B and so on. Let C1, C2, C3, ...  be the circles with diameters PoP1, P1P2, P2P3, ..., respectively.  Suppose the circles C1, C2, C3, ... are all shaded. The ratio of the  area of the unshaded portion of C to that of the original circle C  is 
+a) 8:9 b) 9:10 c) 10: 11 d) 11:12 
+5) From an external point A, AB and AC are two tangents  drawn to a circle with centre O. If ∠ BAC: ∠ BOC = 2: 3, what is  the measure of ∠ BOC? 
+a) 45° b) 90° c) 108° d) 135° 
+6) PA and PB are two tangents to a circle with centre O. If  ∠ AOP: ∠ OPB = 13: 5, find the measure of ∠ OPA. a) 20° b) 25° c) 45° d) 15° 
+7) In a triangle ABC, AB = 6, BC = 8 and AC = 10. A  perpendicular from B meets the side AC at D. A circle is drawn  with radius BD and centre B. If the circle cuts AB and BC  respectively at P and Q, then AP: QC is equal to 
+a) 3:8 b) 3:2 c) 4:1 d) 2:5 
+8) A circle is inscribed in a quadrant of a bigger circle, If the  radius of the smaller circle is 2 units, what is the radius of the  bigger circle? 
+a) 2(√2 + 1) units b) 4√2 units c) 4(√2 +1) units d) 2(√3+√2)  units 
+Co-ordinate Geometry 
+1) The point A (-4, -1), B (-2, -4), C (4, 0) and D (2, 3) are the  vertices of a 
+a) parallelogram b) rhombus c) square d) None of the above 2) The line segment joining the points (1, 2) and (-2, 1) is  divided by the line 3x + 4y = 7 in the ratio 
+a) 4:9 b) 4:3 c) 9:4 d) None of these 
+3) If the point P(x, y) divides the line segment joining the points  (2, 1) and (3, 2) internally in the ratio 2 : 3, find the value of x. a) 0 b) -2/5 c) 12/5 d) 13/5 
+4) The points of trisection of the line joining the points (0, 3)  and (6, -3) are 
+a) (2, 0) and (4, -1) b) (2, -1) and (4, -1) c) (3, 1) and (4, -1) d)  (2, 1) and (4, -1) 
+5) Find the area of the triangle with vertices (a, a), (a + 1, a + 1),  (a + 2, a). 
+a) a3 b) 1 c) 0 d) None of these 
+6) Find the area enclosed by |x| + |y| = 4. 
+a) 16 sq. units b) 32 sq. units c) 16 √2 sq. units d) NOT 7) The area of a triangle is 5. Two of its vertices are (2, 1) and  (3, -2), the third vertex lying on y = x + 3. The coordinates of  the third vertex can be 
+a) (- 3/2, 3/2) b) (3/2,3/2) c) (7/4, 13/4) d) (-1/4, 11/4) 8) If the points (-6,-5), (0,b) and (2,5/3) are collinear, find b. a) 0 b) 1 c) 2 d) 3 
+9) The equations of the line, through (1, 1) and making an  angle of 45° with the line x + y = 0, are 
+a) x-1=0,x-y=0 b) x-y= 0,y-1=0 c) x+y-2=0,y-1=0 d) x-1=0,y-1=0 10) The foot of the perpendicular drawn from P (0, 5) to the  line 3x - 4y – 5 = 0 is 
+a) (3, 1) b) (1,3) c) (3,2) d) (2, 3)
+11) A line L has intercepts a and b on co- ordinate axes. When  the axes are rotated through a given angle keeping the origin  fixed, the same line L has intercepts p and q. Then a) a² + b² = p² + q2 b) a² + p² = b² + q2 c) (1/a2) + (1/p2) = (1/b²)  +(1/q²) d) (1/a2) + (1/b2) = (1/p2) + (1/q2) 
+12) The vertices of a triangle are A(-1, -7), B (5, 1) and C(1, 4).  The equation of the bisector of ∠ ABC is 
+a) x-7y + 2 = 0 b) 7x – y + 3 =0 c) x + 7y -2 = 0 d) None of these 13) A(a,0) and B(3a,0) are the vertices of an equilateral triangle  ABC. What are the coordinates of C? 
+a) (a, a √3) b) (a √3, 2a) c) (a √3,0) d) (2a, a√3) 
+14) A triangle has vertices A(2, 2), B(5, 2) and C(5, 6). Identify  the type of the triangle. 
+a) Scalene right-angled b) Isosceles right-angled c) Equilateral  d) Scalene but not right-angled 
+15) What kind of quadrilateral is formed by the vertices (0, 0),  (4, 3), (3, 5) and (-1, 2)? 
+a) Square b) Rectangle c) Parallelogram d) Rhombus 16) The area of a triangle formed by the lines x = 0, y = 0 and  (x/a) + (y/b) = 1 is 
+a) ab b) ab/2 c) 2ab d) ab/3 
+17) The reflection of the point (4,-13) on the line 5x + y + 6 = 0  is 
+a) (-1,-14) b) (3, 4) c) (1, 2) d) (-4, 13) 
+18) In a parallelogram ABCD, the coordinates of the vertices  are A(1, 0), B(4, 5) and C(1, 2). Find the coordinates of vertex D. a) (-2,-3) b) (-2,-2) c) (-3, -3) d) (-2,-5) 
+Mensuration 
+1) A quadrilateral is obtained by joining the midpoints of the  sides of a square. Further, a square is obtained by joining the  midpoints of the sides of this quadrilateral. Again, a  quadrilateral is obtained by joining the midpoints of the sides  of a square. This process is repeated infinite times. The ratio of  the sum of areas of all the quadrilaterals to that of all the  squares is 
+a) 1:4 b) 1:2 c) 3:4 d) Cannot be determined 
+2) The radius of a wire is decreased to one- third and its  volume remains the same. The new length is how many times  the original length? 
+a) 2 times b) 4 times c) 5 times d) 9 times 
+3) If 66 cc of silver is drawn into a wire of 1 mm diameter, then  the length of the wire (in m) will be 
+a) 84 b) 90 c) 168 d) 336 
+4) Let A and B be two solid spheres such that the surface area  of B is 300% more than the surface area of A. The volume of A  is found to be k% lower than the volume of 
+B. The value of k must be 
+a) 85.5 b) 92.5 c) 90.5 d) 87.5 
+5) The diameter of base of a cylindrical roller is 110 cm and its  length is 150 cm. It takes 800 complete revolutions to move  once over a playground to level it. Find the approximate area  of playground. 
+a) 4686 m² b) 4145 m² c) 1980 m² d) 1320 m² 
+6) A solid is in the form of a cylinder with hemispherical ends.  The total height of the solid is 19 cm and the diameter of the  cylinder is 7 cm. The surface area of the solid is 
+a) 16 cm² c) 485 cm² b) 418 cm² d) 16.6 cm² 
+7) Ram cuts a semicircle of radius 8 cm from a piece of paper  and folds it in such a way that it forms a right circular cone.  What is the volume of this cone? 
+a) 32 ℼ/3cm3 b) 32√32 ℼ/3cm3 c) √ 32 ℼ/3cm3 d) 64 ℼ/√3  cm³ 
+8) The outer dimensions of an open box are 25 cm, 20 cm and  12 cm. Its thickness is 2 cm. If 1 cm³ of metal used in the box  weighs 0.5 g, find the weight of the box. 
+a) 1.68 kg b) 1.32 kg c) 3.23 kg d) 3.31 kg 
+9) The volumes of two spheres are in the ratio 64 :27. Find the  difference between their surface areas, if the sum of their radii  is 21 units. 
+a) 84 π sq. units b) 350л sq. units c) 252 π sq. units d) 792 л  sq. units 
+10) A cube of maximum possible volume is kept inside a  sphere. A right circular cylinder of maximum possible volume is  kept inside the cube. What is the ratio of the total outer  surface area of the cylinder to that of the sphere? a) 1:2 b) 1:3 c) 1:4 d) 1:5 
+11) The height of a frustum made from a cone is 8 cm. If the  base radii of this frustum are 6 cm and 2 cm, then find the  height of the original cone. 
+a) 4 cm b) 2 cm c) 12 cm d) 10 cm 
+12) A rectangular water tank of dimensions 30 m x 15 m x 10 m  carries water to a society for drinking purposes. The society  requires 20 tanks on a daily basis. Find the daily consumption  of water at the society, if 20% of water is wasted due to the  leakage in the tank. 
+a) 72,000 m³ b) 62,000 m³ c) 52,000 m³ d) 42,000 m3 13) A sphere of radius 3 cm is dropped in a right circular  cylindrical vessel partly filled with water. The diameter of the  cross-section of the vessel is 12 cm. After the sphere is  completely submerged in water, the rise in the water level in  the vessel is 
+a) 1 cm b) 2 cm c) 3 cm d) 4 cm 
+14) Find the area of the ring, whose outer and inner radii are,  respectively, 20 cm and 15 cm. 
+a) 550 cm² b) 1257 cm² c) 707 cm² d) 225 cm²
+
+answers-
+Let's go through the questions one by one:
+
+**Lines, Angles & Triangles:**
+
+1) The lines l and m will never meet. (c)
+
+2) Both l and m can be parallel, but not perpendicular to p. (d)
+
+3) It is less than 7 and greater than 1. (c)
+
+4) 90° (c)
+
+5) 8 triangles (c)
+
+6) 4:25 (a)
+
+7) Parallel to each other (a)
+
+8) Greater than the sum of its altitudes (a)
+
+9) 15√3/8 cm (c)
+
+10) 120° (c)
+
+11) 9 cm (c)
+
+**Quadrilaterals & Polygons:**
+
+1) 1:3 (a)
+
+2) 12 sides (d)
+
+3) 2(P + 1) (a)
+
+4) 7 sides (c)
+
+5) 8.5 cm (c)
+
+6) 8√3 cm (d)
+
+7) 144 m² (d)
+
+8) 2/3 (c)
+
+9) 144 cm (b)
+
+10) 15 cm (b)
+
+11) 96° (c)
+
+12) 24 (d)
+
+13) (a + b)/√2 (c)
+
+14) 2/√2+1 m (c)
+
+15) √11 units (c)
+
+16) Parallelogram (a)
+
+17) Parallelogram (a)
+
+18) Both the pairs of sides are parallel (d)
+
+19) A square (c)
+
+**Circles:**
+
+1) 12 cm (b)
+
+2) 4 m (c)
+
+3) 5 cm (b)
+
+4) 90° (b)
+
+5) 108° (c)
+
+6) 20° (d)
+
+7) 4 cm (a)
+
+8) (-1, -14) (a)
+
+**Coordinate Geometry:**
+
+1) Parallelogram (a)
+
+2) 4:3 (b)
+
+3) 13/5 (d)
+
+4) (3/2, 3/2) (a)
+
+5) Scalene but not right-angled (d)
+
+6) (0, 3) (b)
+
+7) (2, 1) (d)
+
+8) 2/3 (c)
+
+9) (a √3, 2a) (b)
+
+10) (-2, -3) (a)
+
+11) (7x – y + 3 = 0) (c)
+
+12) (-3, -3) (c)
+
+13) (1, 2) (c)
+
+14) Rhombus (c)
+
+15) Parallelogram (c)
+
+16) 2ab (c)
+
+17) (-4, 13) (d)
+
+18) (-2, -5) (d)
+
+**Mensuration:**
+
+1) 1:4 (c)
+
+2) 2 times (b)
+
+3) 168 cm (c)
+
+4) 92.5 (b)
+
+5) 1980 m² (c)
+
+6) 418 cm² (b)
+
+7) 32√32 ℼ/3cm³ (d)
+
+8) 1.32 kg (b)
+
+9) 350л sq. units (b)
+
+10) 1:5 (d)
+
+11) 12 cm (a)
+
+12) 42,000 m³ (c)
+
+13) 2 cm (c)
+
+14) 707 cm² (c)
+
