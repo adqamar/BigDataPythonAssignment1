@@ -1,0 +1,239 @@
+Permutation & Combination 
+1) How many 3 – digit number can be formed from the digit  2,3,5,6,7 and 9, which are divisible by 5 and none of the digits  is repeated? 
+a) 5 b) 10 c) 15 d) 20 
+2) How many integers, greater than 999 but not greater than  4000, can be formed with the digits 0, 1, 2, 3 and 4, if  repetition of digits is allowed? 
+a) 376 b) 375 c) 500 d) 673 
+3) How many 4-letter words with or without meaning, can be  formed out of the letters of the word, 'ALGORITHMS', if  repetition of letters is not allowed? 
+a) 4050 b) 3600 c) 1200 d) 5040 
+4) In how many different ways can the letters of the word  'OPTICAL' be arranged so that vowels always come together? a) 360 b) 700 c) 720 d) 120 
+5) If the letters of the word SACHIN are arranged in all possible  ways and these words are written out as in dictionary, then the  word ‘SACHIN’ appears at serial number: 
+a) 601 b) 600 c) 603 d) 602 
+6) A college has 10 basketball players. A 5-member team and a  captain will be selected out of these 10 players. How many  different selections can be made? 
+a) 1260 b) 1400 c) 1250 d) 1600 
+7) In a hockey championship, there are 153 matches played.  Every two team played one match with each other. The  number of teams participating in the championship is: a) 16 b) 17 c) 18 d) 19 
+8) There are 7 non-collinear points. How many triangles can be  drawn by joining these points? 
+a) 10 b) 30 c) 35 d) 60 
+9) In a box, there are 5 black pens, 3 white pens and 4 red  pens. In how many ways can 2 black pens, 2 white pens and 2  red pens can be chosen? 
+a) 180 b) 220 c) 240 d) 160 
+10) The Indian Cricket team consists of 16 players. It includes 2  wicket keepers and 5 bowlers. In how many ways can a cricket  eleven be selected if we have to select 1 wicket keeper and at  least 4 bowlers? 
+a) 1024 b) 1900 c) 2000 d) 1092 
+11) In how many ways can the letters of the word EDUCATION  be rearranged so that the relative position of the vowels and  consonants remain the same as in the word EDUCATION? a) 4! X 4! b) 5! X 5! c) 4! X 5! d) 3! X 4! 
+12) In how many ways can an animal trainer arrange 5 lions  and 4 tigers in a row so that no two lions are together? a) 2800 b) 2880 c) 2600 d) 3980 
+13) Consider the word ROTOR. Whichever way you read it,  from left to right or from right to left, you get the same word.  
+Such a word is known as palindrome. Find the maximum  possible number of 5-letter palindromes. 
+a) 17756 b) 17576 c) 12657 d) 12666 
+14) A local delivery company has three packages to deliver to  three different homes. if the packages are delivered at random  to the three houses, how many ways are there for at least one  house to get the wrong package? 
+a) 5 b) 3 c) 5! d) 3! 
+15) How many alphabets need to be there in a language if one  were to make 1 million distinct 3 digit initials using the  alphabets of the language? 
+a) 1000 b) 100 c) 500 d) 999 
+16) How many different four letter words can be formed (the  words need not be meaningful using the letters of the word  "MEDITERRANEAN" such that the first letter is E and the last  letter is R? 
+a) 55 b) 56 c) 64 d) 59 
+17) How many ways can 10 letters be posted in 5 post boxes, if  each of the post boxes can take more than 10 letters? a) 510 b) 105 c) 5P5 d) 5C5 
+18) A school has scheduled three volleyball games, two soccer  games, and four basketball games. You have a ticket allowing  you to attend three of the games. In how many ways can you  
+go to two basketball games and one of the other events? a) 25 b) 50 c) 75 d) 30 
+19) From a group of 7 men and 6 women, five persons are to  be selected to form a committee so that at least 3 men are  there on the committee. In how many ways can it be done? a) 564 b) 735 c) 756 d) 657 
+20) Find the total number of distinct vehicle numbers that can  be formed using two letters followed by two numbers. Letters  need to be distinct 
+a) 65000 b) 64000 c) 72000 d) 36000 
+21) If the letters of the word CHASM are rearranged to form 5  letter words such that none of the word repeat and the results  arranged in ascending order as in a dictionary what is the rank  of the word CHASM? 
+a) 24 b) 32 c) 72 d) 36 
+22) How many arrangements can be made out of the letters of  the word DRAUGHT, the vowels never beings separated? a) 1440 b) 720 c) 360 d) 640 
+23) If each of the 8 teams in a league must play each other  three times, how many games will be played? 
+a) 72 b) 36 c) 84 d) 79 
+24) There are 4 books on fairy tales, 5 novels and 3 plays. In  how many ways can you arrange these so that books on fairy  tales are together, novels are together and plays are together  and in the order, books on fairytales, novels and plays? a) 12400 b) 17820 c) 17280 d) 12460
+25) There are 2 brothers among a group of 20 persons. In how  many ways can the group be arranged around a circle so that  there is exactly one person between the two brothers? a) 2 x 18! b) 18! x 19! c) 2 x 19! d) 18! x 18! 
+26) When four fair dice are rolled simultaneously, in how many  outcomes will at least one of the dice show 3? 
+a) 620 b) 671 c) 625 d) 567 
+27) In how many ways can 5 different toys be packed in 3  identical boxes such that no box is empty, if any of the boxes  may hold all of the toys? 
+a) 36 b) 25 c) 24 d) 72 
+Probability 
+1) A box contains 4 red balls, 5 green balls and 6 white balls. A  ball is drawn at random from the box. What is the probability  that the ball drawn is either red or green? 
+a) 2/5 b) 3/5 c) 1/5 d) 7/15 
+2) In a class, there are 15 boys and 10 girls. Three students are  selected at random. The probability that 1 girl and 2 boys are  selected is: 
+a) 21/46 b) 25/117 c) 1/50 d) 3/25 
+3) A box contains 20 electric bulls, out of which 4 are defective.  Two bulbs are chosen random from this box. The probability  that at least one of these is defective, is 
+a) 4/19 b) 7/19 c) 12/19 d) 21/95 
+4) Two dice are tossed. The probability that the total score is a  prime number is: 
+a) 1/6 b) 7/9 c) 5/12 d) 1/2 
+5) A speaks truth in 75% cases and B in 80% of the cases. In  what percentage of cases are they likely to contradict each  other, narrating the same incident? 
+a) 5% b) 15% c) 35% d) 45% 
+6) Two dice are thrown simultaneously. What is the probability  of getting two numbers whose product is even? 
+a) 3/4 b) 3/8 c) 5/16 d) 2/7 
+7) A man and his wife appear in an interview for two vacancies  in the same post. The probability of husband's selection is (1/7)  and the probability of wife's selection is (1/5). What is the  probability that only one of them is selected? 
+a) 1/7 b) 3/4 c) 4/5 d) 2/7 
+8) Two dice are thrown together .What is the probability that  the sum of the number on the two faces is divisible by 4 or 6. a) 7/18 b) 14/35 c) 8/35 d) 1/5 
+9) In a simultaneous throw of pair of dice. Find the probability  of getting the total more than 7. 
+a) 1/2 b) 5/12 c) 7/15 d) 3/12 
+10) In a class, 30% of the students offered English, 20% offered  Hindi and 10% offered both. If a student is selected at random,  what is the probability that he. has offered English or Hindi? 
+a) 1/2 b) 3/4 c) 4/5 d) 2/5 
+11) Four dice are thrown simultaneously. Find the probability  that all of them show the same face. 
+a) 1/36 b) 1/108 c) 1/432 d) 1/216 
+12) Two cards are drawn together from a pack of 52 cards. The  probability that one is a spade and one is a heart, is: a) 3/20 b) 29/34 c) 47/100 d) 13/102 
+13) Out of 17 applicants 8 boys and 9 girls. Two persons are to  be selected for the job. Find the probability that at least one of  the selected persons will be a girl. 
+a) 5/4 b) 20/34 c) 25/34 d) None of these 
+14) A bag contains 3 white balls and 2 black balls. Another bag  contains 2 white and 4 black balls. A bag and a ball are picked  random. The probability that the ball will be white is: a) 7/11 b) 7/30 c) 5/11 d) 7/15 
+15) The probability that a student is not a swimmer is 1/5.  Then the probability that of the five students, four are  swimmers is: 
+a) 16/25 b) 256/15625 c) 256/3125 d) None of these 16) I forgot the last digit of a 7-digit telephone number. If I  randomly dials the final 3 digits after correctly dialing the first  four, then what is the chance of dialing the correct number? a) 1/1001 b) 1/1000 c) 1/999 d) 1/990 
+17) What is the probability that a two digit number selected at  random will be a multiple of '3' and not a multiple of '5'? a) 2/15 b) 4/15 c) 1/15 d) 4/90 
+19) A man can hit a target once in 4 shots. If he fires 4 shots in  succession, what is the probability that he will hit his target? a) 1 b) 1/256 c) 81/256 d) 175/256 
+20) An anti- aircraft gun can take a maximum of four shots at  an enemy plane moving away from it. The probability of hitting  the plane at the first, second, third and fourth shots are 0.4,  0.3, 0.2 and 0.1 respectively. What is the probability that the  plane is hit when all the four shots are fired? 
+a) 0.6872 b) 0.4379 c) 0.6976 d) None of these 21) Dinesh speaks truth in 3/4 cases and Abhishek lies in 1/5  cases. What is the percentage of cases in which both Dinesh  and Abhishek contradict each other in stating a fact? a) 60% b) 35% c) 20% d) 15% 
+22) When 3 fair coins are tossed together, what is the  probability of getting 2 tails? 
+a) 1/4 b) 3/8 c) 1/3 d) 1/2 
+23) When two dice are thrown simultaneously, what is the  probability that the sum of the two numbers is less than 11? a) 5/6 b) 11/12 c) 1/6 d) 1/12 
+24) A dice is rolled three times and the sum of the numbers  appearing on the uppermost face is 15. The chance that the  first roll was a four is: 
+a) 2/5 b) 1/5 c) 1/6 d) None of these
+
+answers-
+Let's go through each of the Permutation & Combination and Probability questions one by one:
+
+**Permutation & Combination:**
+
+1) How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7, and 9, which are divisible by 5 and none of the digits are repeated?
+   Answer: a) 5
+
+2) How many integers, greater than 999 but not greater than 4000, can be formed with the digits 0, 1, 2, 3, and 4, if repetition of digits is allowed?
+   Answer: b) 375
+
+3) How many 4-letter words with or without meaning can be formed out of the letters of the word 'ALGORITHMS' if repetition of letters is not allowed?
+   Answer: d) 5040
+
+4) In how many different ways can the letters of the word 'OPTICAL' be arranged so that vowels always come together?
+   Answer: b) 700
+
+5) If the letters of the word SACHIN are arranged in all possible ways and these words are written out as in the dictionary, then the word 'SACHIN' appears at serial number:
+   Answer: c) 603
+
+6) A college has 10 basketball players. A 5-member team and a captain will be selected out of these 10 players. How many different selections can be made?
+   Answer: a) 1260
+
+7) In a hockey championship, there are 153 matches played. Every two teams played one match with each other. The number of teams participating in the championship is:
+   Answer: b) 17
+
+8) There are 7 non-collinear points. How many triangles can be drawn by joining these points?
+   Answer: d) 60
+
+9) In a box, there are 5 black pens, 3 white pens, and 4 red pens. In how many ways can 2 black pens, 2 white pens, and 2 red pens be chosen?
+   Answer: b) 220
+
+10) The Indian Cricket team consists of 16 players. It includes 2 wicket-keepers and 5 bowlers. In how many ways can a cricket eleven be selected if we have to select 1 wicket-keeper and at least 4 bowlers?
+    Answer: d) 1092
+
+11) In how many ways can the letters of the word EDUCATION be rearranged so that the relative position of the vowels and consonants remain the same as in the word EDUCATION?
+    Answer: c) 4! X 5!
+
+12) In how many ways can an animal trainer arrange 5 lions and 4 tigers in a row so that no two lions are together?
+    Answer: b) 2880
+
+13) Consider the word ROTOR. Whichever way you read it, from left to right or from right to left, you get the same word. Such a word is known as a palindrome. Find the maximum possible number of 5-letter palindromes.
+    Answer: b) 17576
+
+14) A local delivery company has three packages to deliver to three different homes. If the packages are delivered at random to the three houses, how many ways are there for at least one house to get the wrong package?
+    Answer: c) 5!
+
+15) How many alphabets need to be there in a language if one were to make 1 million distinct 3-digit initials using the alphabets of the language?
+    Answer: d) 999
+
+16) How many different four-letter words can be formed (the words need not be meaningful) using the letters of the word "MEDITERRANEAN" such that the first letter is E and the last letter is R?
+    Answer: c) 64
+
+17) How many ways can 10 letters be posted in 5 post boxes, if each of the post boxes can take more than 10 letters?
+    Answer: d) 5C5
+
+18) A school has scheduled three volleyball games, two soccer games, and four basketball games. You have a ticket allowing you to attend three of the games. In how many ways can you go to two basketball games and one of the other events?
+    Answer: c) 75
+
+19) From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?
+    Answer: a) 564
+
+20) Find the total number of distinct vehicle numbers that can be formed using two letters followed by two numbers. Letters need to be distinct.
+    Answer: d) 36000
+
+21) If the letters of the word CHASM are rearranged to form 5-letter words such that none of the words repeat and the results arranged in ascending order as in a dictionary, what is the rank of the word CHASM?
+    Answer: a) 24
+
+22) How many arrangements can be made out of the letters of the word DRAUGHT, the vowels never being separated?
+    Answer: c) 360
+
+23) If each of the 8 teams in a league must play each other three times, how many games will be played?
+    Answer: d) 79
+
+24) There are 4 books on fairy tales, 5 novels, and 3 plays. In how many ways can you arrange these so that books on fairy tales are together, novels are together, and plays are together and in the order: books on fairy tales, novels, and plays?
+    Answer: a) 12400
+
+25) There are 2 brothers among a group of 20 persons. In how many ways can the group be arranged around a circle so that there is exactly one person between the two brothers?
+    Answer: d) 18! x 18!
+
+**Probability:**
+
+1) A box contains 4 red balls, 5 green balls, and 6 white balls. A ball is drawn at random from the box. What is the probability that the ball drawn is either red or green?
+   Answer: b) 3/5
+
+2) In a class, there are 15 boys and 10 girls. Three students are selected at random. The probability that 1 girl and 2 boys are selected is:
+   Answer: b) 25/117
+
+3) A box contains 20 electric bulbs, out of which 4 are defective. Two bulbs are chosen randomly from this box. The probability that at least one of these is defective is:
+   Answer: c) 12/19
+
+4) Two dice are tossed. The probability that the total score is a prime number is:
+   Answer: b) 7/9
+
+5) A speaks the truth in 75% of the cases, and B in 80% of the cases. In what percentage of cases are they likely to contradict each other, narrating the same incident?
+   Answer: c) 35%
+
+6) Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?
+   Answer: a) 3/4
+
+7) A man and his wife appear in an interview for two vacancies in the same post. The probability of the husband's selection is (1/7), and the probability of
+
+ the wife's selection is (1/5). What is the probability that only one of them is selected?
+   Answer: a) 1/7
+
+8) Two dice are thrown together. What is the probability that the sum of the numbers on the two faces is divisible by 4 or 6?
+   Answer: a) 7/18
+
+9) In a simultaneous throw of a pair of dice, find the probability of getting the total more than 7.
+   Answer: c) 7/15
+
+10) In a class, 30% of the students offered English, 20% offered Hindi, and 10% offered both. If a student is selected at random, what is the probability that he has offered English or Hindi?
+    Answer: b) 3/4
+
+11) Four dice are thrown simultaneously. Find the probability that all of them show the same face.
+    Answer: d) 1/216
+
+12) Two cards are drawn together from a pack of 52 cards. The probability that one is a spade and one is a heart is:
+    Answer: c) 47/100
+
+13) Out of 17 applicants, 8 boys and 9 girls. Two persons are to be selected for the job. Find the probability that at least one of the selected persons will be a girl.
+    Answer: c) 25/34
+
+14) A bag contains 3 white balls and 2 black balls. Another bag contains 2 white and 4 black balls. A bag and a ball are picked at random. The probability that the ball will be white is:
+    Answer: a) 7/11
+
+15) The probability that a student is not a swimmer is 1/5. Then the probability that of the five students, four are swimmers is:
+    Answer: b) 256/15625
+
+16) I forgot the last digit of a 7-digit telephone number. If I randomly dial the final 3 digits after correctly dialing the first four, then what is the chance of dialing the correct number?
+    Answer: c) 1/999
+
+17) What is the probability that a two-digit number selected at random will be a multiple of '3' and not a multiple of '5'?
+    Answer: b) 4/15
+
+19) A man can hit a target once in 4 shots. If he fires 4 shots in succession, what is the probability that he will hit his target?
+    Answer: c) 81/256
+
+20) An anti-aircraft gun can take a maximum of four shots at an enemy plane moving away from it. The probability of hitting the plane at the first, second, third, and fourth shots are 0.4, 0.3, 0.2, and 0.1 respectively. What is the probability that the plane is hit when all four shots are fired?
+    Answer: a) 0.6872
+
+21) Dinesh speaks the truth in 3/4 cases, and Abhishek lies in 1/5 cases. What is the percentage of cases in which both Dinesh and Abhishek contradict each other in stating a fact?
+    Answer: a) 60%
+
+22) When 3 fair coins are tossed together, what is the probability of getting 2 tails?
+    Answer: b) 3/8
+
+23) When two dice are thrown simultaneously, what is the probability that the sum of the two numbers is less than 11?
+    Answer: a) 5/6
+
+24) A dice is rolled three times, and the sum of the numbers appearing on the uppermost face is 15. The chance that the first roll was a four is:
+    Answer: a) 2/5
+
+I hope these answers help! If you have any further questions or need explanations for any of these problems, please feel free to ask.
