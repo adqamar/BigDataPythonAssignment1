@@ -1,0 +1,106 @@
+# Assignment Questions 7
+
+<aside>
+💡 **Q1.What is the use of JDBC in java?**
+
+</aside>
+
+<aside>
+💡 **Q2.What are the steps involved in JDBC?**
+
+</aside>
+
+<aside>
+💡 **Q3.What are the types of statement in JDBC in java?**
+
+</aside>
+
+<aside>
+💡 **Q4.What is Servlet in Java?**
+
+</aside>
+
+<aside>
+💡 **Q5.Explain the life Cycle of servlet?**
+
+</aside>
+
+<aside>
+💡 **Q6.Explain the difference between the RequestDispatcher.forward() and HttpServletResponse.sendRedirect() methods?**
+
+</aside>
+
+<aside>
+💡 **Q7.What is the purpose of the doGet() and doPost() methods in a servlet?**
+
+</aside>
+
+<aside>
+💡 **Q8.Explain the JSP Model-View-Controller (MVC) architecture.**
+
+</aside>
+
+<aside>
+💡 ****Q9.What are some of the advantages of Servlets?****
+
+</aside>
+
+<aside>
+💡 **Q10.What are the limitations of JSP?**
+
+</aside>
+
+answers-
+
+1. **Use of JDBC in Java:**
+   - JDBC (Java Database Connectivity) is used in Java to connect and interact with relational databases. It provides a standard interface for Java applications to connect to databases, execute SQL queries, and manipulate database data.
+
+2. **Steps Involved in JDBC:**
+   - Import JDBC packages.
+   - Load and register the JDBC driver.
+   - Establish a database connection using `DriverManager.getConnection()`.
+   - Create a statement using `Connection.createStatement()` or prepare a statement using `Connection.prepareStatement()`.
+   - Execute SQL queries using statement methods.
+   - Process the query results.
+   - Close the connection and release resources.
+
+3. **Types of Statements in JDBC:**
+   - There are three types of statements in JDBC: `Statement`, `PreparedStatement`, and `CallableStatement`. 
+   - `Statement` is used for executing simple SQL queries.
+   - `PreparedStatement` is used for precompiled SQL queries with parameters.
+   - `CallableStatement` is used for calling stored procedures in the database.
+
+4. **Servlet in Java:**
+   - Servlets are Java classes that extend the capabilities of servers. They are used to create web applications and handle HTTP requests and responses. Servlets run on the server-side and provide dynamic content generation for web applications.
+
+5. **Servlet Lifecycle:**
+   - The servlet lifecycle consists of three main phases: initialization, service, and destruction.
+   - `init()` method is called during initialization.
+   - `service()` method handles requests and responses.
+   - `destroy()` method is called when the servlet is being removed.
+
+6. **Difference Between `RequestDispatcher.forward()` and `HttpServletResponse.sendRedirect()` Methods:**
+   - `RequestDispatcher.forward()` forwards the request and response objects to another resource (servlet or JSP) on the server. It happens on the server-side without the client's involvement.
+   - `HttpServletResponse.sendRedirect()` sends a response to the client with a new URL. The client then makes a new request to the provided URL. It results in an additional client-side request.
+
+7. **Purpose of `doGet()` and `doPost()` Methods in a Servlet:**
+   - `doGet()` is used for handling HTTP GET requests, typically used for reading data from the server.
+   - `doPost()` is used for handling HTTP POST requests, typically used for submitting data to the server.
+
+8. **JSP Model-View-Controller (MVC) Architecture:**
+   - In the JSP MVC architecture, JSP pages serve as the view layer, JavaBeans as the model layer, and servlets as the controller layer.
+   - JSP pages (view) display data.
+   - JavaBeans (model) manage and provide data.
+   - Servlets (controller) handle requests, process data, and interact with the model and view.
+
+9. **Advantages of Servlets:**
+   - Platform Independence: Servlets are written in Java and run on any platform with a Java Virtual Machine (JVM).
+   - Performance: They are efficient and provide better performance compared to CGI scripts.
+   - Reusability: Servlets can be reused in various web applications.
+   - Session Management: Servlets offer built-in session management for user tracking.
+
+10. **Limitations of JSP:**
+    - Complexity: JSP pages can become complex, making maintenance challenging.
+    - Slower Development: Building complex logic in JSP may slow down development.
+    - Limited Support for Business Logic: JSP is primarily for presentation, and complex business logic is better handled by servlets or JavaBeans.
+
