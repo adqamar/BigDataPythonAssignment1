@@ -1,0 +1,204 @@
+Time, Speed & Distance 
+
+1) An aeroplane covers a certain distance at a speed of 240  kmph in 5 hours. To cover the same distance in 1 2/3 hours, it  must travel at a speed of: 
+a) 300 kmph b) 360 kmph c) 600 kmph d) 720 kmph 2) If a person walks at 14 km/hr instead of 10 km/hr, he can  walk 20 km more. The actual distance travelled by him is: a) 50 km b) 56 km c) 70 km d) 80 km 
+3) A train can travel 50% faster than a car. Both start from point  A at the same time and reach point B 75 kms away from A at the  same time. On the way, however, the train lost about 12.5  minutes while stopping at the stations. The speed of the car is: a) 100 kmph b) 110 kmph c) 120 kmph d) 130 kmph 4) Excluding stoppages, the speed of a bus is 54 kmph and  including stoppages, it is 45 kmph. For how many minutes does  the bus stop per hour? 
+a) 9 b) 10 c) 12 d) 20 
+5) In a flight of 600 km, an aircraft was slowed down due to bad  weather. Its average speed for the trip was reduced by 200  km/hr and the time of flight increased by 30 minutes. The  duration of the flight is: 
+a) 1 hour b) 2 hours c) 3 hours d) 4 hours 
+6) A man completes a journey in 10 hours. He travels first half of  the journey at the rate of 21 km/hr and second half at the rate  of 24 km/hr. Find the total journey in km. 
+a) 220 km b) 224 km c) 230 km d) 234 km 
+7) The ratio between the speeds of two trains is 7: 8. If the  second train runs 400 km in 4 hours, then the speed of the first  train is: 
+a) 70 km/hr b) 75 km/hr c) 84 km/hr d) 87.5 km/hr 8) A man on tour travels first 160 km at 64 km/hr and the next  160 km at 80 km/hr. The average speed for the first 320 km of  the tour is: 
+a) 35.55 km/hr b) 36 km/hr c) 71.11 km/hr d) 71 km/hr 9) In covering a distance of 30 km, Abhay takes 2 hours more  than Sameer. If Abhay doubles his speed, then he would take 1  hour less than Sameer. Abhay's speed is: 
+a) 5 kmph b) 6 kmph c) 6.25 kmph d) 7.5 kmph 
+10) Robert is travelling on his cycle and has calculated to reach  point A at 2 P.M. if he travels at 10 kmph, he will reach there at  12 noon if he travels at 15 kmph. At what speed must he travel  to reach A at 1 P.M.? 
+a) 8 kmph b) 11 kmph c) 12 kmph d) 14 kmph 
+11) It takes eight hours for a 600 km journey, if 120 km is done  by train and the rest by car. It takes 20 minutes more, if 200 km  is done by train and the rest by car. The ratio of the speed of the  train to that of the cars is: 
+a) 2: 3 b) 3: 2 c) 3: 4 d) 4: 3 
+12) A farmer travelled a distance of 61 km in 9 hours. He  travelled partly on foot @ 4 km/hr and partly on bicycle @ 9  km/hr. The distance travelled on foot is: 
+a) 14 km b) 15 km c) 16 km d) 17 km 
+13) A train running at the speed of 60 km/hr crosses a pole in 9  seconds. What is the length of the train? 
+a) 120 metres b) 180 metres c) 324 metres d) 150 metres 14) A train 125 m long passes a man, running at 5 km/hr in the  same direction in which the train is going, in 10 seconds. The  speed of the train is: 
+a) 45 km/hr b) 50 km/hr c) 54 km/hr d) 55 km/hr 15) The length of the bridge, which a train 130 metres long and  travelling at 45 km/hr can cross in 30 seconds, is: a) 200 m b) 225 m c) 245 m d) 250 m 
+16) Two trains running in opposite directions cross a man  standing on the platform in 27 seconds and 17 seconds  respectively and they cross each other in 23 seconds. The ratio  of their speeds is: 
+a) 1: 3 b) 3: 2 c) 3: 4 d) None of these 
+17) A train passes a station platform in 36 seconds and a man  standing on the platform in 20 seconds. If the speed of the train  is 54 km/hr, what is the length of the platform? 
+a) 120 m b) 240 m c) 300 m d) None of these 
+18) A train 240 m long passes a pole in 24 seconds. How long  will it take to pass a platform 650 m long? 
+a) 65 sec b) 89 sec c) 100 sec d) 150 sec 
+19) Two trains of equal length are running on parallel lines in  the same direction at 46 km/hr and 36 km/hr. The faster train  passes the slower one in 36 seconds. The length of each train is: a) 50 m b) 72 m c) 80 m d) 82 m 
+20) A train 360 m long is running at a speed of 45 km/hr. In  what time will it pass a bridge 140 m long? 
+a) 40 sec b) 42 sec c) 45 sec d) 48 sec 
+21) Two trains are moving in opposite directions @ 60 km/hr  and 90 km/hr. Their lengths are 1.10 km and 0.9 km  respectively. The time taken by the slower train to cross the  faster train in seconds is: 
+a) 36 b) 45 c) 48 d) 49 
+22) A jogger running at 9 kmph alongside a railway track in 240  metres ahead of the engine of a 120 metres long train running  at 45 kmph in the same direction. In how much time will the  train pass the jogger? 
+a) 3.6 sec b) 18 sec c) 36 sec d) 72 sec 
+23) A boat can travel with a speed of 13 km/hr in still water. If  the speed of the stream is 4 km/hr, find the time taken by the  boat to go 68 km downstream. 
+a) 2 hours b) 3 hours c) 4 hours d) 5 hours
+24) A man's speed with the current is 15 km/hr and the speed of  the current is 2.5 km/hr. The man's speed against the current is: a) 8.5 km/hr b) 9 km/hr c) 10 km/hr d) 12.5 km/hr 25) A boat running upstream takes 8 hours 48 minutes to cover  a certain distance, while it takes 4 hours to cover the same  distance running downstream. What is the ratio between the  speed of the boat and speed of the water current respectively? a) 2: 1 b) 3: 2 c) 8: 3 d) Cannot be determined 
+26) A motorboat, whose speed in 15 km/hr in still water goes 30  km downstream and comes back in a total of 4 hours 30  minutes. The speed of the stream(in km/hr) is: 
+a) 4 b) 5 c) 6 d) 10 
+27) In one hour, a boat goes 11 km/hr along the stream and 5  km/hr against the stream. The speed of the boat in still water is: a) 3 km/hr b) 5 km/hr c) 8 km/hr d) 9 km/hr 
+28) A boat running downstream covers a distance of 16 km in 2  hours while for covering the same distance upstream, it takes 4  hours. What is the speed of the boat in still water? a) 4 km/hr b) 6 km/hr c) 8 km/hr d) Data inadequate 29) The speed of a boat in still water in 15 km/hr and the rate of  current is 3 km/hr. The distance travelled downstream in 12  minutes is: 
+a) 1.2 km b) 1.8 km c) 2.4 km d) 3.6 km 
+30) A boat takes 90 minutes less to travel 36 miles downstream  than to travel the same distance upstream. If the speed of the  boat in still water is 10 mph, the speed of the stream is: a) 2 mph b) 2.5 mph c) 3 mph d) 4 mph 
+31) Speed of a boat in standing water is 9 kmph and the speed  of the stream is 1.5 kmph. A man rows to a place at a distance  of 105 km and comes back to the starting point. The total time  taken by him is: 
+a) 16 hrs b) 18 hrs c) 20 hrs d) 24 hrs 
+32) A boat takes 19 hours for travelling downstream from point  A to point B and coming back to a point C midway between A  and B If the velocity of the stream is 4 kmph and the speed of  the boat in still water is 14 kmph. What is the distance between  A and B? 
+a) 160 b) 180 c) 200 d) 220 
+33) The average speed of a train in the onward journey is 25%  more than that in the return journey. The train halts for one  hour on reaching the destination. The total time taken for the  complete to and from journey is 17 hours, covering a distance  of 800 km. The speed of the train in the onward journey is: a) 45 kmph b) 47.5 kmph c) 52 kmph d) 56.25 kmph 34) A thief is noticed by a policeman from a distance of 200 m.  The thief starts running and the policeman chases him. The thief  and the policeman run at the rate of 10 km and 11 km per hour  respectively. What is the distance between them after 6 mins? a) 100 m b) 150 m c) 190 m d) 200 m 
+35) Three persons are walking from a place A to another place  B. Their speeds are in the ratio of 4: 3: 5. The time ratio to reach  B by these persons will be: 
+a) 4:3:5 b) 5:3:4 c) 15:9:20 d) 15:20:12 
+36) A motor car starts with the speed of 70 km/hr with its speed  increasing every two hours by 10 kmph. In how many hours will  it cover 345 kms? 
+a) 2 hrs 15 min b) 4 hrs 5 min c) 4 hrs 30 min d) None of these 37) How many seconds will a 500 metre long train take to cross  a man walking with a speed of 3 km/hr in the direction of the  moving train if the speed of the train is 63 km/hr? a) 25 s b) 30 s c) 40 s d) 45 s 
+38) An express train travelled at an average speed of 100 km/hr, stopping for 3 minutes after every 75 km. How long did it take  to reach its destination 600 km from the starting point? a) 6 hr 21 min b) 6 hr 24 min c) 6 hr 27 min d) 6 hr 30 min 39) A train leaves station X at 5 am and reaches station Y at 9  am. Another train leaves station Y at 7 am and reaches station X  at 10:30 am. At what time do the two trains cross each other? a) 7:36 am b) 7:56 am c) 8:36 am d) 8:56 am 
+40) Bombay Express left Delhi for Bombay at 14.30 hrs,  travelling at a speed of 60 kmph and Rajdhani Express left Delhi  for Bombay on the same day at 16.30 hrs, travelling at a speed  of 80 kmph. How far away from Delhi will the two trains meet? a) 120 km b) 360 km c) 480 km d) 500 km 
+41) A boat covers a certain distance downstream in 1 hour,  while it comes back in 1.5 hours. If the speed of the stream be 3  kmph, what is the speed of the boat in still water? a) 12 kmph b) 13 kmph c) 14 kmph d) 15 kmph 
+42) Two identical trains A and B running in opposite direction at  same speed take 2 min to cross each other completely. The  number of bogies of A are increased from 12 to 16. How much  more time would they now require to cross each other? a) 40 s b) 50 s c) 60 s d) 20 s 
+43) A man can row at 5 kmph in still water. If the velocity of  current is 1 kmph and it takes him 1 hour to row to a place and  come back, how far is the place? 
+a) 2.4 km b) 2.5 km c) 3 km d) 3.6 km 
+44) By increasing its speed by 1 km per hour, a person was able  to reach his office early by 1 hour. If the distance between his  office and his house is 20 km, then what was his original speed? a) 3 kmph b) 4 kmph c) 5 kmph d) 6 kmph 
+45) A ship 77 km from the shore, springs a leak which admits to  9/4 tonnes of water in 11/2 minutes. 92 tonnes of water would  sink it. But the pumps can throw out 12 tonnes of water per  hour. Find the average rate of sailing so that the ship may just  reach the shore as it begins to sink. 
+a) 10 kmph b) 10.5 kmph c) 11 kmph d) 12.5 kmph
+
+answers-
+Let's go through each of the Time, Speed & Distance questions one by one:
+
+1) An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 2/3 hours, it must travel at a speed of:
+   Answer: b) 360 kmph
+
+2) If a person walks at 14 km/hr instead of 10 km/hr, he can walk 20 km more. The actual distance traveled by him is:
+   Answer: c) 70 km
+
+3) A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:
+   Answer: c) 120 kmph
+
+4) Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?
+   Answer: d) 20 minutes
+
+5) In a flight of 600 km, an aircraft was slowed down due to bad weather. Its average speed for the trip was reduced by 200 km/hr and the time of flight increased by 30 minutes. The duration of the flight is:
+   Answer: b) 2 hours
+
+6) A man completes a journey in 10 hours. He travels the first half of the journey at the rate of 21 km/hr and the second half at the rate of 24 km/hr. Find the total journey in km.
+   Answer: b) 224 km
+
+7) The ratio between the speeds of two trains is 7: 8. If the second train runs 400 km in 4 hours, then the speed of the first train is:
+   Answer: c) 84 km/hr
+
+8) A man on tour travels the first 160 km at 64 km/hr and the next 160 km at 80 km/hr. The average speed for the first 320 km of the tour is:
+   Answer: b) 36 km/hr
+
+9) In covering a distance of 30 km, Abhay takes 2 hours more than Sameer. If Abhay doubles his speed, then he would take 1 hour less than Sameer. Abhay's speed is:
+   Answer: b) 6 kmph
+
+10) Robert is traveling on his cycle and has calculated to reach point A at 2 P.M. If he travels at 10 kmph, he will reach there at 12 noon. If he travels at 15 kmph, at what speed must he travel to reach A at 1 P.M.?
+    Answer: a) 8 kmph
+
+11) It takes eight hours for a 600 km journey, if 120 km is done by train and the rest by car. It takes 20 minutes more if 200 km is done by train and the rest by car. The ratio of the speed of the train to that of the cars is:
+    Answer: a) 2: 3
+
+12) A farmer traveled a distance of 61 km in 9 hours. He traveled partly on foot @ 4 km/hr and partly on a bicycle @ 9 km/hr. The distance traveled on foot is:
+    Answer: b) 15 km
+
+13) A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
+    Answer: d) 150 meters
+
+14) A train 125 m long passes a man running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:
+    Answer: a) 45 km/hr
+
+15) The length of the bridge, which a train 130 meters long and traveling at 45 km/hr can cross in 30 seconds, is:
+    Answer: b) 225 meters
+
+16) Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:
+    Answer: a) 1: 3
+
+17) A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?
+    Answer: b) 240 meters
+
+18) A train 240 meters long passes a pole in 24 seconds. How long will it take to pass a platform 650 meters long?
+    Answer: a) 65 seconds
+
+19) Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower one in 36 seconds. The length of each train is:
+    Answer: d) 82 meters
+
+20) A train 360 meters long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 meters long?
+    Answer: c) 45 seconds
+
+21) Two trains are moving in opposite directions @ 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:
+    Answer: d) 49 seconds
+
+22) A jogger running at 9 kmph alongside a railway track is 240 meters ahead of the engine of a 120 meters long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?
+    Answer: c) 36 seconds
+
+23) A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.
+    Answer: d) 5 hours
+
+24) A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is:
+    Answer: b) 9 km/hr
+
+25) A boat running upstream takes 8 hours 48 minutes to cover a certain distance, while it takes 4 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and the speed of the water current respectively?
+    Answer: b) 3: 2
+
+26) A motorboat, whose speed in still water is 15 km/hr, goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:
+    Answer: c) 6 km/hr
+
+27) In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water is:
+    Answer: b) 5 km/hr
+
+28) A boat running downstream covers a distance of 16 km in 2 hours while for covering the same distance upstream, it takes 4 hours. What is the speed of the boat in still water?
+    Answer: c) 8 km/hr
+
+29) The speed of a boat in still water is
+
+ 15 km/hr and the rate of the current is 3 km/hr. The distance traveled downstream in 12 minutes is:
+    Answer: b) 1.8 km
+
+30) A boat takes 90 minutes less to travel 36 miles downstream than to travel the same distance upstream. If the speed of the boat in still water is 10 mph, the speed of the stream is:
+    Answer: b) 2.5 mph
+
+31) The speed of a boat in standing water is 9 kmph, and the speed of the stream is 1.5 kmph. A man rows to a place at a distance of 105 km and comes back to the starting point. The total time taken by him is:
+    Answer: a) 16 hrs
+
+32) A boat takes 19 hours for traveling downstream from point A to point B and coming back to a point C midway between A and B. If the velocity of the stream is 4 kmph and the speed of the boat in still water is 14 kmph, what is the distance between A and B?
+    Answer: c) 200 km
+
+33) The average speed of a train in the onward journey is 25% more than that in the return journey. The train halts for one hour on reaching the destination. The total time taken for the complete to and from journey is 17 hours, covering a distance of 800 km. The speed of the train in the onward journey is:
+    Answer: a) 45 kmph
+
+34) A thief is noticed by a policeman from a distance of 200 m. The thief starts running, and the policeman chases him. The thief and the policeman run at the rate of 10 km and 11 km per hour, respectively. What is the distance between them after 6 minutes?
+    Answer: c) 190 m
+
+35) Three persons are walking from a place A to another place B. Their speeds are in the ratio of 4: 3: 5. The time ratio to reach B by these persons will be:
+    Answer: c) 15:9:20
+
+36) A motor car starts with the speed of 70 km/hr with its speed increasing every two hours by 10 kmph. In how many hours will it cover 345 kms?
+    Answer: c) 4 hrs 30 min
+
+37) How many seconds will a 500-meter long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?
+    Answer: c) 40 seconds
+
+38) An express train traveled at an average speed of 100 km/hr, stopping for 3 minutes after every 75 km. How long did it take to reach its destination 600 km from the starting point?
+    Answer: b) 6 hr 24 min
+
+39) A train leaves station X at 5 am and reaches station Y at 9 am. Another train leaves station Y at 7 am and reaches station X at 10:30 am. At what time do the two trains cross each other?
+    Answer: c) 8:36 am
+
+40) Bombay Express left Delhi for Bombay at 14:30 hrs, traveling at a speed of 60 kmph, and Rajdhani Express left Delhi for Bombay on the same day at 16:30 hrs, traveling at a speed of 80 kmph. How far away from Delhi will the two trains meet?
+    Answer: c) 480 km
+
+41) A boat covers a certain distance downstream in 1 hour, while it comes back in 1.5 hours. If the speed of the stream is 3 kmph, what is the speed of the boat in still water?
+    Answer: b) 13 kmph
+
+42) Two identical trains A and B running in opposite directions at the same speed take 2 minutes to cross each other completely. The number of bogies of A is increased from 12 to 16. How much more time would they now require to cross each other?
+    Answer: c) 60 seconds
+
+43) A man can row at 5 kmph in still water. If the velocity of the current is 1 kmph and it takes him 1 hour to row to a place and come back, how far is the place?
+    Answer: c) 3 km
+
+44) By increasing its speed by 1 km per hour, a person was able to reach his office early by 1 hour. If the distance between his office and his house is 20 km, then what was his original speed?
+    Answer: c) 5 kmph
+
+45) A ship 77 km from the shore springs a leak, which admits to 9/4 tonnes of water in 11/2 minutes. 92 tonnes of water would sink it. But the pumps can throw out 12 tonnes of water per hour. Find the average rate of sailing so that the ship may just reach the shore as it begins to sink.
+    Answer: a) 10 kmph
+
