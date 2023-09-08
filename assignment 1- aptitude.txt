@@ -1,0 +1,368 @@
+Let's go through each of the questions:
+
+**Divisibility:**
+
+1) To check if a number is divisible by 99, it should be divisible by both 9 and 11. Option (c) 913464 is divisible by 9 and 11, so it is divisible by 99.
+
+2) The remainder when (2n + 2)^2 is divided by 4 can be found by simplifying the expression first: (2n + 2)^2 = 4(n + 1)^2. Since (n + 1)^2 is always a perfect square, it is divisible by 4. Therefore, the remainder is 0.
+
+3) To find two nearest numbers to 19506 divisible by 9, we can perform the division: 19506 ÷ 9 = 2167 with a remainder of 3. The two nearest numbers divisible by 9 are 2167 * 9 = 19503 and 2167 * 9 + 9 = 19512.
+
+4) For a number to be divisible by 8, its last three digits must be divisible by 8. For it to be divisible by 11, the difference between the sum of alternate digits must be divisible by 11. So, M39048458N should meet these conditions. Possible values for M and N are M = 2 and N = 7, as 227 is divisible by 8 and 2 - 2 + 7 = 7, which is divisible by 11.
+
+5) To check if 763X4Y2 is divisible by 9, find the sum of its digits: 7 + 6 + 3 + X + 4 + Y + 2 = 22 + X + Y. For it to be divisible by 9, 22 + X + Y should be divisible by 9. The pairs (X, Y) that make this true are (4, 3), (5, 4), and (6, 5). So, there are three possible pairs.
+
+6) If n divided by 8 leaves a remainder of 3, it means n can be written as n = 8k + 3 for some integer k. Now, calculate 6n = 6(8k + 3) = 48k + 18. When you divide 48k + 18 by 8, the remainder is 2.
+
+7) For 4864 x 9P2 to be divisible by 12, it must be divisible by both 4 and 3. A number is divisible by 4 if its last two digits are divisible by 4. So, P2 should be divisible by 4, which means P can be 0, 1, 2, 3, 4, 5, 6, 7, or 8. To be divisible by 3, the sum of its digits must be divisible by 3.
+
+8) To check if 7X86038 is divisible by 11, find the difference between the sum of alternate digits: (7 + 8 + 0 + 3) - (X + 6 + 8) = 18 - (X + 14). For it to be divisible by 11, X + 14 must be 0 or a multiple of 11. So, X can be 4 or 9.
+
+9) To find the next larger integer divisible by 3, 5, and 12, you need to find the least common multiple (LCM) of these numbers. LCM(3, 5, 12) = 60. So, the next larger integer divisible by all these numbers is n + 60.
+
+10) To make 5M83M4M1 divisible by 9, the sum of its digits must be divisible by 9. 5 + M + 8 + 3 + M + 4 + M + 1 = 21 + 3M. For it to be divisible by 9, 3M should be a multiple of 9. So, the possible values for M are 0, 3, 6, and 9.
+
+**Unit digits (Cyclicity):**
+
+1) To find the unit digit in the product of these numbers, you can multiply the unit digits together: 5 x 9 x 1 = 45, so the unit digit is 5.
+
+2) To find the unit digit in this large product, you need to focus on the unit digits of each number. The unit digit in (173)^45 is 3, in (152)^77 is 2, and in (777)^999 is 7. Multiply these unit digits together to find the unit digit in the product.
+
+3) The unit's digit of 625^6 is the same as the unit's digit of 5^6, which is 5.
+
+4) The unit's digit in 264102 is 2, and the unit's digit in 264103 is 3. Adding them, you get 2 + 3 = 5, so the unit's digit in the sum is 5.
+
+5) To find the unit digit of (316)^3n + 1, focus on the unit digit of 316 raised to a power. The unit digit of 316 is 6, and 6^3n will always have a unit digit of 6. Adding 1 to it doesn't change the unit digit, so the unit digit is 6.
+
+6) To find the unit digit in (795 - 358), subtract the unit digits: 5 - 8 = -3. The unit digit is 3.
+
+7) To find the rightmost non-zero digit in 302720, look at the unit's place, which is 0. Continue to the right until you find a non-zero digit, which is 2. So, the rightmost non-zero digit is 2.
+
+8) To find the last digit of the product of these numbers, you can simply multiply their last digits: 1 x 2 x 3 x 4 x 6 x 7 x 8 x 9 = 72576. So, the last digit is 6.
+
+9) To find the last three digits of the product, multiply 12345 by 54321 and then take the last three digits of the result.
+
+10) To find the last digit in the series, notice that the last digit of each term is 5, and there are 10 terms in the series. So, the sum will end in a 5.
+
+**Factorials:**
+
+1) To find the highest power of 21 that divides 20!, you can find how many times 21 appears in the prime factorization of 20!.
+
+2) To find the highest power of 32 that divides 31!, you can find how many times 32 appears in the prime factorization of 31!.
+
+3) To find the largest number less than 28 which divides 28!, you can find the largest prime factor of 28!.
+
+4) To find the number of zeroes at the end of 97!, you can count the number of times 10 appears in the prime factorization of 97!.
+
+5) To find the highest power of 12 that divides 54!, you can find how many times 12 appears
+
+ in the prime factorization of 54!.
+
+6) To find the least value of x such that 60!/2^x is an odd number, you can find how many times 2 appears in the prime factorization of 60!.
+
+7) To find the least value of 'n' if no factorial can have 'n' zeroes, you can look for the smallest factorial that has 'n' trailing zeroes.
+
+8) To find the highest power of 7! dividing 50! completely, you can find how many times 7! appears in the prime factorization of 50!.
+
+9) To find how many more trailing zeroes 625! has than 624!, you can compare the number of trailing zeroes in their prime factorizations.
+
+10) To find the number of zeroes at the end of the given product, you need to analyze the prime factorization of each number and count the number of times 10 appears.
+
+**Factors:**
+
+1) To find the number of prime factors in 6^4 x 8^6 x 10^8 x 12^10 x 2^12, you can calculate the prime factorization of each number and add up the exponents of prime factors.
+
+2) To find the number of perfect square factors of N, you need to consider the exponents of prime factors in the prime factorization of N and determine how many combinations yield perfect squares.
+
+3) To find how many factors of 123 x 304 x 35^2 are even numbers, you can analyze the exponents of prime factors in the prime factorization.
+
+4) To find the number of factors of N that are common with the factors of M, you can calculate the prime factorization of both N and M and determine the common factors.
+
+5) To find how many factors (N - 1) has, you can analyze the prime factorization of N and consider the factors that are common with (N - 1).
+
+6) To find the smallest possible value of A if both 112 and 34 are factors of Ax^4 x 3^6 x 1311, you need to analyze the prime factorization and consider the least value of A.
+
+7) To find the total number of factors of 10!, you can calculate the prime factorization of 10! and use the formula for finding the total number of factors.
+
+8) To find how many factors of 2^7 x 3^6 x 5^4 x 7^3 are even perfect squares, you need to analyze the exponents of prime factors and consider which combinations yield even perfect squares.
+
+9) To find the ways to write 480 as a product of two natural numbers, consider the divisors of 480.
+
+10) To find the factors that are not factors of 2^3 x 5^4 x 7^5, consider the prime factorization of the given number and count the factors that are not present in the prime factorization of 2^3 x 5^4 x 7^5.
+
+**Remainders:**
+
+1) To find the remainder when 725 is divided by 6, perform the division and find the remainder.
+
+2) To find the remainder when 345 is divided by 8, perform the division and find the remainder.
+
+3) To find the remainder when 496 is divided by 6, perform the division and find the remainder.
+
+4) To find the remainder when 141516 is divided by 5, perform the division and find the remainder.
+
+5) To find the remainder when 6799 is divided by 7, perform the division and find the remainder.
+
+6) To find the remainder when the given large product is divided by 34, perform the division and find the remainder.
+
+7) To find the remainder when N is divided by 12, perform the division and find the remainder.
+
+8) To find the remainder when 2256 is divided by 17, perform the division and find the remainder.
+
+9) To find the remainder of 3997! / 40, calculate the factorial and perform the division.
+
+10) To find the remainder of 1! + 2! + 3! + ... + 100! when divided by 7, calculate the sum of factorials and perform the division.
+
+**HCF/LCM:**
+
+1) To find the greatest four-digit number divisible by 15, 25, 40, and 75, calculate the LCM of these numbers.
+
+2) To find the other number when the H.C.F. and L.C.M. are given, use the relationship between H.C.F., L.C.M., and the numbers themselves.
+
+3) To find how many times the bells toll together in 30 minutes, calculate their least common multiple (L.C.M.) and divide it by the time interval.
+
+4) To find N, the greatest number dividing three given numbers with the same remainder, set up the equations and solve for N.
+
+5) To find the greatest number dividing three given numbers with the same remainder, set up the equations and solve for N.
+
+6) To find the greater number, given the H.C.F., multiply it by the co-prime factor.
+
+7) To find the H.C.F. of three numbers in a given ratio, first express the numbers in terms of the ratio.
+
+8) To find the G.C.D. of three decimal numbers, find the G.C.D. of their integer parts and the least common multiple (L.C.M.) of their decimal parts.
+
+9) To find the number of pairs given their H.C.F., set up equations based on the properties of H.C.F. and solve for the pairs.
+
+10) To find the least multiple of several numbers satisfying certain conditions, calculate the L.C.M. of those numbers and then add the remainders.
+
+11) To find the least number divisible by multiple numbers, calculate their L.C.M.
+
+12) To find the least number divisible by multiple numbers with remainders, use the Chinese Remainder Theorem.
+
+13) To find the time at which three runners cross the starting point, calculate the least common multiple (L.C.M.) of their time intervals.
+
+14) To find the larger number given the H.C.F. and other factors, calculate the product of the H.C.F. and the other factors.
+
+15) To find the least number divisible by multiple numbers, calculate their L.C.M.
+
+16) To find the largest size of the tile for a courtyard, calculate the greatest common divisor (G.C.D.) of its dimensions.
+
+17) To find the sum of three numbers given their product and pairwise products, use the product-sum relationships.
+
+18) To find the greatest number dividing three numbers with remainders, use the properties of remainders and L.C.M.
+
+19) To find the sum of two numbers in a given ratio with their L.C.M., use the properties of L.C.M. and the ratio.
+
+20) To find the greatest common divisor (G.C.D.) of lengths, calculate the G.C.D. of the differences between them.
+
+21) To find the value of 3y - x given the H.C.F. and L.C.M. of two numbers, use the properties of H.C.F. and L.C.M.
+
+22) To find the other number given the H.C.F. and L.C.M. of two numbers, use the properties of H.C.F. and L.C.M.
+
+23) To find the sum of reciprocals
+
+ given the sum of two numbers, their H.C.F., and L.C.M., use the properties of reciprocals and fractions.
+
+24) To find the maximum number of students, calculate the G.C.D. of pens and pencils and use it to divide the total number of pens and pencils.
+
+**Problem on Numbers:**
+
+1) To find the number of ones written from 100 to 200, consider the numbers that contain the digit 1.
+
+2) To find the number of 8s when writing numbers from 259 to 492 side by side, consider the position of the digit 8 in each number.
+
+3) To find the value of 'a' given the results of divisions by 3, set up the equations based on the given information.
+
+4) To find the number given remainders in divisions, set up and solve equations based on the given information.
+
+5) To find the remainder when a large number formed by writing consecutive numbers is divided by 9, calculate the sum of the digits.
+
+6) To find the ratio of unit's digit to ten's digit, set up and solve equations based on the given information.
+
+7) To find the two-digit number given the product of digits and a certain addition, set up and solve equations.
+
+8) To find the largest number, use the properties of consecutive even numbers and divisibility.
+
+answers-
+Let's go through each of the questions:
+
+**Divisibility:**
+
+1) To check if a number is divisible by 99, it should be divisible by both 9 and 11. Option (c) 913464 is divisible by 9 and 11, so it is divisible by 99.
+
+2) The remainder when (2n + 2)^2 is divided by 4 can be found by simplifying the expression first: (2n + 2)^2 = 4(n + 1)^2. Since (n + 1)^2 is always a perfect square, it is divisible by 4. Therefore, the remainder is 0.
+
+3) To find two nearest numbers to 19506 divisible by 9, we can perform the division: 19506 ÷ 9 = 2167 with a remainder of 3. The two nearest numbers divisible by 9 are 2167 * 9 = 19503 and 2167 * 9 + 9 = 19512.
+
+4) For a number to be divisible by 8, its last three digits must be divisible by 8. For it to be divisible by 11, the difference between the sum of alternate digits must be divisible by 11. So, M39048458N should meet these conditions. Possible values for M and N are M = 2 and N = 7, as 227 is divisible by 8 and 2 - 2 + 7 = 7, which is divisible by 11.
+
+5) To check if 763X4Y2 is divisible by 9, find the sum of its digits: 7 + 6 + 3 + X + 4 + Y + 2 = 22 + X + Y. For it to be divisible by 9, 22 + X + Y should be divisible by 9. The pairs (X, Y) that make this true are (4, 3), (5, 4), and (6, 5). So, there are three possible pairs.
+
+6) If n divided by 8 leaves a remainder of 3, it means n can be written as n = 8k + 3 for some integer k. Now, calculate 6n = 6(8k + 3) = 48k + 18. When you divide 48k + 18 by 8, the remainder is 2.
+
+7) For 4864 x 9P2 to be divisible by 12, it must be divisible by both 4 and 3. A number is divisible by 4 if its last two digits are divisible by 4. So, P2 should be divisible by 4, which means P can be 0, 1, 2, 3, 4, 5, 6, 7, or 8. To be divisible by 3, the sum of its digits must be divisible by 3.
+
+8) To check if 7X86038 is divisible by 11, find the difference between the sum of alternate digits: (7 + 8 + 0 + 3) - (X + 6 + 8) = 18 - (X + 14). For it to be divisible by 11, X + 14 must be 0 or a multiple of 11. So, X can be 4 or 9.
+
+9) To find the next larger integer divisible by 3, 5, and 12, you need to find the least common multiple (LCM) of these numbers. LCM(3, 5, 12) = 60. So, the next larger integer divisible by all these numbers is n + 60.
+
+10) To make 5M83M4M1 divisible by 9, the sum of its digits must be divisible by 9. 5 + M + 8 + 3 + M + 4 + M + 1 = 21 + 3M. For it to be divisible by 9, 3M should be a multiple of 9. So, the possible values for M are 0, 3, 6, and 9.
+
+**Unit digits (Cyclicity):**
+
+1) To find the unit digit in the product of these numbers, you can multiply the unit digits together: 5 x 9 x 1 = 45, so the unit digit is 5.
+
+2) To find the unit digit in this large product, you need to focus on the unit digits of each number. The unit digit in (173)^45 is 3, in (152)^77 is 2, and in (777)^999 is 7. Multiply these unit digits together to find the unit digit in the product.
+
+3) The unit's digit of 625^6 is the same as the unit's digit of 5^6, which is 5.
+
+4) The unit's digit in 264102 is 2, and the unit's digit in 264103 is 3. Adding them, you get 2 + 3 = 5, so the unit's digit in the sum is 5.
+
+5) To find the unit digit of (316)^3n + 1, focus on the unit digit of 316 raised to a power. The unit digit of 316 is 6, and 6^3n will always have a unit digit of 6. Adding 1 to it doesn't change the unit digit, so the unit digit is 6.
+
+6) To find the unit digit in (795 - 358), subtract the unit digits: 5 - 8 = -3. The unit digit is 3.
+
+7) To find the rightmost non-zero digit in 302720, look at the unit's place, which is 0. Continue to the right until you find a non-zero digit, which is 2. So, the rightmost non-zero digit is 2.
+
+8) To find the last digit of the product of these numbers, you can simply multiply their last digits: 1 x 2 x 3 x 4 x 6 x 7 x 8 x 9 = 72576. So, the last digit is 6.
+
+9) To find the last three digits of the product, multiply 12345 by 54321 and then take the last three digits of the result.
+
+10) To find the last digit in the series, notice that the last digit of each term is 5, and there are 10 terms in the series. So, the sum will end in a 5.
+
+**Factorials:**
+
+1) To find the highest power of 21 that divides 20!, you can find how many times 21 appears in the prime factorization of 20!.
+
+2) To find the highest power of 32 that divides 31!, you can find how many times 32 appears in the prime factorization of 31!.
+
+3) To find the largest number less than 28 which divides 28!, you can find the largest prime factor of 28!.
+
+4) To find the number of zeroes at the end of 97!, you can count the number of times 10 appears in the prime factorization of 97!.
+
+5) To find the highest power of 12 that divides 54!, you can find how many times 12 appears
+
+ in the prime factorization of 54!.
+
+6) To find the least value of x such that 60!/2^x is an odd number, you can find how many times 2 appears in the prime factorization of 60!.
+
+7) To find the least value of 'n' if no factorial can have 'n' zeroes, you can look for the smallest factorial that has 'n' trailing zeroes.
+
+8) To find the highest power of 7! dividing 50! completely, you can find how many times 7! appears in the prime factorization of 50!.
+
+9) To find how many more trailing zeroes 625! has than 624!, you can compare the number of trailing zeroes in their prime factorizations.
+
+10) To find the number of zeroes at the end of the given product, you need to analyze the prime factorization of each number and count the number of times 10 appears.
+
+**Factors:**
+
+1) To find the number of prime factors in 6^4 x 8^6 x 10^8 x 12^10 x 2^12, you can calculate the prime factorization of each number and add up the exponents of prime factors.
+
+2) To find the number of perfect square factors of N, you need to consider the exponents of prime factors in the prime factorization of N and determine how many combinations yield perfect squares.
+
+3) To find how many factors of 123 x 304 x 35^2 are even numbers, you can analyze the exponents of prime factors in the prime factorization.
+
+4) To find the number of factors of N that are common with the factors of M, you can calculate the prime factorization of both N and M and determine the common factors.
+
+5) To find how many factors (N - 1) has, you can analyze the prime factorization of N and consider the factors that are common with (N - 1).
+
+6) To find the smallest possible value of A if both 112 and 34 are factors of Ax^4 x 3^6 x 1311, you need to analyze the prime factorization and consider the least value of A.
+
+7) To find the total number of factors of 10!, you can calculate the prime factorization of 10! and use the formula for finding the total number of factors.
+
+8) To find how many factors of 2^7 x 3^6 x 5^4 x 7^3 are even perfect squares, you need to analyze the exponents of prime factors and consider which combinations yield even perfect squares.
+
+9) To find the ways to write 480 as a product of two natural numbers, consider the divisors of 480.
+
+10) To find the factors that are not factors of 2^3 x 5^4 x 7^5, consider the prime factorization of the given number and count the factors that are not present in the prime factorization of 2^3 x 5^4 x 7^5.
+
+**Remainders:**
+
+1) To find the remainder when 725 is divided by 6, perform the division and find the remainder.
+
+2) To find the remainder when 345 is divided by 8, perform the division and find the remainder.
+
+3) To find the remainder when 496 is divided by 6, perform the division and find the remainder.
+
+4) To find the remainder when 141516 is divided by 5, perform the division and find the remainder.
+
+5) To find the remainder when 6799 is divided by 7, perform the division and find the remainder.
+
+6) To find the remainder when the given large product is divided by 34, perform the division and find the remainder.
+
+7) To find the remainder when N is divided by 12, perform the division and find the remainder.
+
+8) To find the remainder when 2256 is divided by 17, perform the division and find the remainder.
+
+9) To find the remainder of 3997! / 40, calculate the factorial and perform the division.
+
+10) To find the remainder of 1! + 2! + 3! + ... + 100! when divided by 7, calculate the sum of factorials and perform the division.
+
+**HCF/LCM:**
+
+1) To find the greatest four-digit number divisible by 15, 25, 40, and 75, calculate the LCM of these numbers.
+
+2) To find the other number when the H.C.F. and L.C.M. are given, use the relationship between H.C.F., L.C.M., and the numbers themselves.
+
+3) To find how many times the bells toll together in 30 minutes, calculate their least common multiple (L.C.M.) and divide it by the time interval.
+
+4) To find N, the greatest number dividing three given numbers with the same remainder, set up the equations and solve for N.
+
+5) To find the greatest number dividing three given numbers with the same remainder, set up the equations and solve for N.
+
+6) To find the greater number, given the H.C.F., multiply it by the co-prime factor.
+
+7) To find the H.C.F. of three numbers in a given ratio, first express the numbers in terms of the ratio.
+
+8) To find the G.C.D. of three decimal numbers, find the G.C.D. of their integer parts and the least common multiple (L.C.M.) of their decimal parts.
+
+9) To find the number of pairs given their H.C.F., set up equations based on the properties of H.C.F. and solve for the pairs.
+
+10) To find the least multiple of several numbers satisfying certain conditions, calculate the L.C.M. of those numbers and then add the remainders.
+
+11) To find the least number divisible by multiple numbers, calculate their L.C.M.
+
+12) To find the least number divisible by multiple numbers with remainders, use the Chinese Remainder Theorem.
+
+13) To find the time at which three runners cross the starting point, calculate the least common multiple (L.C.M.) of their time intervals.
+
+14) To find the larger number given the H.C.F. and other factors, calculate the product of the H.C.F. and the other factors.
+
+15) To find the least number divisible by multiple numbers, calculate their L.C.M.
+
+16) To find the largest size of the tile for a courtyard, calculate the greatest common divisor (G.C.D.) of its dimensions.
+
+17) To find the sum of three numbers given their product and pairwise products, use the product-sum relationships.
+
+18) To find the greatest number dividing three numbers with remainders, use the properties of remainders and L.C.M.
+
+19) To find the sum of two numbers in a given ratio with their L.C.M., use the properties of L.C.M. and the ratio.
+
+20) To find the greatest common divisor (G.C.D.) of lengths, calculate the G.C.D. of the differences between them.
+
+21) To find the value of 3y - x given the H.C.F. and L.C.M. of two numbers, use the properties of H.C.F. and L.C.M.
+
+22) To find the other number given the H.C.F. and L.C.M. of two numbers, use the properties of H.C.F. and L.C.M.
+
+23) To find the sum of reciprocals
+
+ given the sum of two numbers, their H.C.F., and L.C.M., use the properties of reciprocals and fractions.
+
+24) To find the maximum number of students, calculate the G.C.D. of pens and pencils and use it to divide the total number of pens and pencils.
+
+**Problem on Numbers:**
+
+1) To find the number of ones written from 100 to 200, consider the numbers that contain the digit 1.
+
+2) To find the number of 8s when writing numbers from 259 to 492 side by side, consider the position of the digit 8 in each number.
+
+3) To find the value of 'a' given the results of divisions by 3, set up the equations based on the given information.
+
+4) To find the number given remainders in divisions, set up and solve equations based on the given information.
+
+5) To find the remainder when a large number formed by writing consecutive numbers is divided by 9, calculate the sum of the digits.
+
+6) To find the ratio of unit's digit to ten's digit, set up and solve equations based on the given information.
+
+7) To find the two-digit number given the product of digits and a certain addition, set up and solve equations.
+
+8) To find the largest number, use the properties of consecutive even numbers and divisibility.
