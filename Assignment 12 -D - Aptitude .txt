@@ -1,0 +1,56 @@
+Blood Relations
+1) Pointing to a photograph, Suresh said, "He is the son of the only son of my mother." How is Suresh related to that boy?
+a) Brother  b) Father  c) Cousin  d) CBD
+2) Introducing a boy, a girl said, "He is the son of the daughter of the father of my uncle." How is the boy related to the girl?
+a) Brother  b) Nephew  c) Uncle  d) Cousin
+3) If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?
+a) Brother  b) Sister  c) Nephew  d) CBD
+4) Pointing to a photograph Lata says, "He is the son of the only son of my grandfather." How is the man in the photograph related to Lata?
+a) Brother  b) Uncle  c) Cousin  d) Data is inadequate
+5) Pointing a photograph X said to his friend Y, "She is the only daughter of the father of my mother." How X is related to the person of photograph?
+a) Daughter   b) Son  c) Nephew  d) Cannot be decided
+6) Ravi introduced X as “X is the grandson of the paternal grandfather of my son’s son”. How is X related to Ravi?
+a) Self  b) Grandson  c) Brother  d) Cousin
+7) If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?
+a) M-NxC+F  b) F-C+NxM  c) N+M-FxC  d) MxN-C+F
+8) If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?
+a) M+OxN  b) M%OxN+P  c) M+O%N  d) None of these
+9) If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of these means T is the daughter of P?
+a) PxQ%R+S-T  b) PxQ%R-T+S  c) PxQ%R+T–S  d) PxQ%R+S+T
+10) If A + B means A is the father of B; A - B means A is the brother B; A % B means A is the wife of B and A x B means A is the mother of B, which of the following shows that M is the maternal grandmother of T?
+a) MxN%S+T  b) MxN-S%T  c) MxS-N%T  d) MxNxS%T
+Directions: The questions are based on the following statements.
+A) Mrs. Seeta, Mr. Rajinder and Mr. Surinder are children of Mr. and Mrs. Maudgil
+B) Ms. Renu, Mr. Raja and Mr. Sunil are children of Mr. and Mrs. Bhaskar
+C) Mr. Sunil and Mrs. Seeta are married and Mr. Ashok and Mr. Sanjay are their children
+D) Mrs. Geeta and Mr. Rakesh are children of Mr. and Mrs. Jain
+E) Mrs. Geeta is married to Mr. Surinder and has three children named Ms. Rita, Mr. Sonu and Mr. Raju.
+
+11) How is Rajinder related to Raju?
+a. Brother         b. Uncle      c. Brother in Law   d. Maternal Uncle
+12) How is Rajinder related to Ashok?
+a. Brother in law    b. Father in law  c. Uncle   d. Maternal uncle
+13) How is Rakesh related to Surinder?
+a. Brother           b. Cousin               c. Uncle        d. Brother in law
+14) How is Rakesh related to Raju?
+a. Brother         b. Uncle             c. Cousin          d. Maternal uncle
+15) What is Sanjay's surname?
+a. Bhaskar           b. Jain                c. Maudgil       d. None of these
+
+answers-
+
+1) Father
+2) Nephew
+3) Nephew
+4) Cousin
+5) Cannot be decided
+6) Grandson
+7) N+M-FxC
+8) None of these
+9) PxQ%R+S+T
+10) MxS-N%T
+11) Uncle
+12) Uncle
+13) Brother
+14) Maternal uncle
+15) Maudgil
