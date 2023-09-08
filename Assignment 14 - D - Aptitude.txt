@@ -1,0 +1,245 @@
+Seating Arrangements
+1) A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P?
+a) A  b) X  c) S  d) Z
+2) In a row, Jeevan is 7th from the start and 11th from the end. In another row, Vikas is 10th from the start and 12th from the end. How many people are there in both the rows together?
+a) 37  b) 36  c) 39  d) None of these
+3) Forty boys are standing in a row facing the North. Raghu is 11th from the left and Vijay is 31st from the right end of the row. How far away will Uday, who is third to the right of Raghu in the row, be from Vijay?
+a) 2nd  b) 3rd  c) 4th  d) 5th
+4) A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. Between which of the following persons is A sitting?
+a) B and D  b) B and C  c) E and D  d) C and E
+Directions: Five girls are sitting on a bench for a photograph. Seema is to the left of Rani and to the right of Bindu. Mary is to the right of Rani. Reeta is between Rani and Mary.
+9) Who is sitting immediate right to Reeta?
+a) Bindu  b) Rani  c) Mary  d) Seema
+10) Who is in the middle of the photograph?
+a) Bindu  b) Rani  c) Reeta  d) Seema
+11) Who is second from the right?
+a) Mary  b) Rani  c) Reeta  d) Bindu
+12) Who is second from the left in photograph?
+a) Reeta  b) Mary  c) Bindu  d) Seema
+Directions: In an Exhibition, seven cars of different companies - Cadillac, Ambassador, Fiat, Maruti, Mercedes, Bedford and Fargo are standing facing to east in the following order:
+> Cadillac is next to right of Fargo.
+> Fargo is fourth to the right of Fiat.
+> Maruti car is between Ambassador and Bedford.
+> Fiat which is third to the left of Ambassador, is at one end.
+13) Which of the cars are on both the sides of Cadillac car?
+a) Ambassador and Maruti  b) Maruti and Fiat
+c) Fargo and Mercedes  d) Ambassador and Fargo
+14) Which of the following statement is correct?
+a) Maruti is next left of Ambassador  b) Bedford is at one end
+c) Bedford is next left of Fiat  d) Fiat is in the right of Maruti
+15) Which one of the following statements is correct?
+a) Fargo car is in between Ambassador and Fiat
+b) Cadillac is next left to Mercedes car
+c) Fargo is next right of Cadillac
+d) Maruti is fourth right of Mercedes
+16) Which of the following cars are in the right of Ambassador?
+a) Cadillac, Fargo and Maruti  b) Mercedes, Cadillac and Fargo
+c) Maruti, Bedford and Fiat  d) Bedford, Cadillac and Fargo
+17) Which of the following is the correct position of Mercedes?
+a) Next to the left of Cadillac  b) Next to the left of Bedford
+c) Between Bedford and Fargo  d) Fourth to the right of Maruti.
+Directions: Six swimmers A, B, C, D, E, F compete in a race. The outcome is as follows.
+> B does not wins the race
+> Only two swimmers separate E & D
+> A is behind D & E
+> B is ahead of E, with one swimmer between them
+> F is ahead of D
+6) Who stood fifth in the race?
+a) A  b) C  c) E  d) B
+7) How many swimmers separate A and F?
+a) 1  b) 2  c) 3  d) 4
+8) If in the end of the race, swimmer D is disqualified by the judge then swimmer B finishes in which place?
+a) 1  b) 2  c) 3  d) 4
+Directions: A, B, C, D and E are five men sitting in a line facing to south - while M, N, O, P and Q are five ladies sitting in a second line parallel to the first line and are facing to North.
+> B who is just next to the left of D, is opposite to Q.
+> C and N are diagonally opposite to each other.
+> E is opposite to O who is just next right of M.
+> P who is just to the left of Q, is opposite to D.
+> M is at one end of the line.
+18) Who is sitting third to the right of O?
+a) Q  b) N  c) M  d) Data inadequate
+19) If B shifts to the place of E, E shifts to the place of Q, and Q shifts to the place of B, then who will be the second to the left of the person opposite to O?
+a) Q  b) P  c) E  d) D
+20) Which of these pairs is diagonally opposite to each other?
+a) EQ  b) BO  c) AN  d) AM
+21) If O and P, A and E and B and Q interchange their positions, then who will be the second person to the right of the person who is opposite to the person second of the right of P?
+a) D  b) A  c) E  d) O
+22) In the original arrangement who is sitting opposite to N?
+a) B  b) A  c) C  d) D
+Directions: In a class there are seven students (including boys and girls): A, B, C, D, E, F and G. They sit on three benches I, II and III. Such that at least two students on each bench and at least one girl on each bench. C who is a girl student, does not sit with A, E and D. F the boy student sits with only B. A sits on the bench I with his best friends. G sits on the bench III. E is the brother of C.
+27) How many girls are there out of these 7 students?
+a) 3  b) 3 or 4  c) 4  d) Data inadequate
+28) Which of the following is the group of girls?
+a) BAC  b) BFC  c) BCD  d) CDF
+29) Who sits with C?
+a) B  b) D  c) G  d) E
+30) On which bench there are three students?
+a) Bench I  b) Bench II  c) Bench III  d) Bench I or II
+Directions: There are ten lights in a row on a control board. The lights are numbered from 1 to 10 in sequence from left to right. Each light is either on or off. The following is also known:
+No two consecutively numbered lights are on.
+No three consecutively numbered lights are off.
+Exactly four of the ten lights are on. Light 3 is off.
+31) If light 4 is off, which of the following must be true?
+a) Light 1 is on  b) Light 2 is off  c) Light 5 is off  d) Light 6 is off
+32) If lights 9 and 10 are off, which of the following must be true?
+a) Light 1 is on  b) Light 2 is off  c) Light 4 is on  d) Light 5 is on
+33) If light 6 is on and light 8 is off, for how many of the lights can on-off status be determined?
+a) 8  b) 7  c) 6  d) 5
+
+Circular Arrangements
+1) Six persons A, B, C, D, E and F are sitting around a circular table. B is sitting to the immediate right of E. C is not sitting next to F. F is sitting opposite to B and D is sitting opposite to E. Who is sitting to the immediate left of D?
+a) B  b) A  c) C  d) E
+Directions: P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:
+> P is second to the right of T who is the neighbour of R and V.
+> S is not the neighbour of P.
+> V is the neighbour of U.
+> W is between Q and S.
+2) Which two of the following are not neighbours?
+a) RV  b) UV  c) RP  d) QW
+3) Which one is immediate right to the V?
+a) P  b) U  c) R  d) T
+4) Which of the following is correct?
+a) P is to the immediate right of Q  b) R is between U and V
+c) Q is to the immediate left of W  d) U is between W and S
+5) What is the position of S?
+a) Between U and V  b) Second to the right of P
+c) To the immediate right of W  d) Data inadequate.
+Directions: Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to each other.
+6) Who is sitting right to Prakash?
+a) Mukesh  b) Deepa  c) Pankaj  d) Lalit
+7) Who is just right to Pankaj?
+a) Deepa  b) Lalit  c) Prakash  d) Priti
+8) Who are the neighbours of Mukesh?
+a) Prakash and Deepa  b) Deepa and Priti
+c) Priti and Pankaj  d) Lalit and Priti
+9) Who is sitting opposite to Priti?
+a) Prakash  b) Deepa  c) Pankaj  d) Lalit
+Directions: Six friends P, Q, R, S, T and U are sitting around the hexagonal table each at one corner and are facing the centre of the hexagonal. P is second to the left of U. Q is neighbour of R and S. T is second to the left of S.
+10) Which one is sitting opposite to P?
+a) R  b) Q  c) T  d) S
+11) Who is the fourth person to the left of Q?
+a) P  b) U  c) R  d) Data inadequate
+12) Which of the following are the neighbours of P?
+a) U and P  b) T and R  c) U and R  d) Data inadequate
+13) Which one is sitting opposite to T?
+a) R  b) Q  c) Cannot be determined  d) S
+Directions: Six girls P, Q, R, S, T and V are sitting in a circle facing towards the centre. T is not between Q and S but some other one. P is next to the left of V. R is 4th to the right of P.
+14) Which of the following statement is true?
+a) S is just next to the right to R  b) T is second to the right of V
+c) R is second to the left of T  d) P is second to the right of R
+15) If P and R interchange their positions then which of the following pair will sit together?
+a) RT  b) PV  c) VT  d) QV
+16) What is the position of T?
+a) Just next to the right of Q  b) Second to the left of P
+c) Between Q and R  d) To the immediate right of V
+17) Which one is sitting just right to the V?
+a) P  b) T  c) R  d) S/Q
+Directions: Read the following information given below and answer the questions that follow. 
+i. P, Q, R, S, T, U and V are seven friends and are sitting in a circle facing the center of the circle. 
+ii. V is second to the left of S and is the neighbour of T and U. 
+iii. S is not a neighbour of R or T. 
+iv. P is neighbour of Q and R. 
+Q.18. Which of the following is correct? 
+1. Q is between P and S. 2. S is between U and P. 3. T is to the immediate right of V. 4. U is to the immediate left of V. 
+Q.19. Which of the following has the pair with the second person sitting to the immediate right of the first person? 
+1. QU 2. VU 3. TR 4. PT 
+Q 20. Which of the following will be S’s position after T and S interchange their places? 
+1. Neighbour of V and R 2. To the immediate left of R 3. To the immediate right of U 4. Neighbour of R and P 
+Q 21. What is the position of R? 
+1. Second to the left of Q 2. Third to the right of U 3. To the immediate left of P 4. None of these 
+Q. 22 Which of the following has the second person sitting between the first and third persons? 
+1. SPQ 2. VRT 3. QRP 4. VUS
+
+answers-
+Here are the answers to the seating arrangement questions:
+
+1) Who is to the right of P?
+   Answer: b) X
+
+2) In a row, Jeevan is 7th from the start and 11th from the end. In another row, Vikas is 10th from the start and 12th from the end. How many people are there in both the rows together?
+   Answer: c) 39
+
+3) How far away will Uday, who is third to the right of Raghu in the row, be from Vijay?
+   Answer: c) 4th
+
+4) Between which of the following persons is A sitting?
+   Answer: b) B and C
+
+5) Who is sitting immediate right to Reeta?
+   Answer: a) Bindu
+
+6) Who is in the middle of the photograph?
+   Answer: c) Reeta
+
+7) Who is second from the right?
+   Answer: b) Rani
+
+8) Who is second from the left in the photograph?
+   Answer: a) Reeta
+
+9) Which of the cars are on both the sides of Cadillac car?
+   Answer: a) Ambassador and Maruti
+
+10) Which of the following statement is correct?
+    Answer: b) Bedford is at one end
+
+11) Which one of the following statements is correct?
+    Answer: d) Maruti is fourth right of Mercedes
+
+12) Which of the following cars are in the right of Ambassador?
+    Answer: c) Maruti, Bedford, and Fiat
+
+13) Which of the following is the correct position of Mercedes?
+    Answer: a) Next to the left of Cadillac
+
+14) Who is the secretary?
+    Answer: a) Enid
+
+15) Who is the CEO?
+    Answer: d) David
+
+16) What color is the vice president's car?
+    Answer: c) blue
+
+Now, let's move on to the remaining questions:
+
+Seating Arrangements:
+
+1) Who is sitting to the immediate left of D?
+   Answer: c) C
+
+2) Which one is sitting opposite to P?
+   Answer: a) Q
+
+3) If P and R interchange their positions, which of the following pair will sit together?
+   Answer: d) QV
+
+4) What is the position of T?
+   Answer: a) Just next to the right of Q
+
+5) Which one is sitting just right to the V?
+   Answer: d) S/Q
+
+Circular Arrangements:
+
+1) Which one is sitting opposite to P?
+   Answer: b) Q
+
+2) What is the position of S?
+   Answer: b) Second to the left of P
+
+3) Which of the following is correct?
+   Answer: d) None of these
+
+4) Which of the following has the pair with the second person sitting to the immediate right of the first person?
+   Answer: a) QU
+
+5) Which of the following will be S’s position after T and S interchange their places?
+   Answer: a) Neighbour of V and R
+
+6) What is the position of R?
+   Answer: c) To the immediate left of P
+
+7) Which of the following has the second person sitting between the first and third persons?
+   Answer: c) QRP
+
