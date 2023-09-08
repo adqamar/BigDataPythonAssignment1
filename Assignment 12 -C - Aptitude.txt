@@ -1,0 +1,65 @@
+Directions
+1) Starting from the point X, Jayant walked 15 m towards west. He turned left and walked 20 m. He then turned left and walked 15 m. After this he turned to his right and walked 12 m. How far and in which directions is now Jayant from X?
+a) 32 m, South  b) 47 m, East  c) 42 m, North  d) 27 m, South
+2) A horse is facing north. It turns 90 degrees in the clockwise direction, then 180 degrees in the anti-clockwise and then another 90 degrees in the same direction. Which direction is the horse facing now?
+A) East	B) South C) South-west	D) South-east
+3) Two cars start from the opposite places of a main road, 150 km apart. First car runs for 25 km and takes a right turn and then runs 15 km. It then turns left and then runs for another 25 km and then takes the direction back to reach the main road. In the meantime, due to minor break down the other car has run only 35 km along the main road. What would be the distance between two cars at this point?
+a) 65 km  b) 75 km  c) 80 km  d) 85 km
+4) The length and breadth of a room are 8 m and 6 m respectively. A cat runs along all the four walls and finally along a diagonal order to catch a rat. How much total distance is covered by the cat?
+a) 10  b) 14  c) 38  d) 48
+5) Y is in the east of X which is in the north of Z. If P is in the south of Z, then in which direction of Y, is P?
+a) North  b) South  c) South-East  d) None of these
+6) K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?
+A. East 	B. West	C. North-East	D. South 
+7) If South-East becomes North, North-East becomes West and so on. What will West become?
+a) North-East  b) North-West  c) South-East  d) South-West
+8) Debu walks towards East, then towards North and, then turning 45 degrees right, walks for a while and at last turns towards left. In which direction is he walking now?
+A. North	B. East	C. South East	D. North West  
+9) A clock is so placed that at 2:00 p.m. the minute hand points towards North-west. In which direction does the hour hand point at 6:00 p.m.?
+A. North-West	B. West		C. North-East	D. South-East
+10) Rahul put his timepiece on the table in such a way that at 6 pm, hour hand points to North. In which direction the minute hand will point at 9:15 pm?
+a) South-East  b) South  c) North  d) West
+11) Reema walked from A to B in the East 10 feet. Then she turned to the right and walked 3 feet. Again she turned to the right and walked 14 feet. How far is she from A? 
+A. 4 feet 	 B. 5 feet 	C. 24 feet 	D. 27 feet 
+12) A man walks 2 km towards North. Then he walks 10 km towards East. Then he walks 3 km towards North. Then again he walks 2 km towards East. How far is he from starting point?
+a) 10 km  b) 13 km  c) 15 km  d) None of these
+13) Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how far is he from the starting position?
+a) 15 m West  b) 30 m East  c) 30 m West  d) 45 m East
+14) A boy rode his bicycle northward, then turned left and rode 1 km and again turned left and rode 2 km. He found himself 1 km west of his starting point. How far did he ride initially?
+a) 1 km  b) 2 km  c) 3 km  d) 5 km
+15) One morning Sujata started to walk towards the Sun. After covering some distance she turned to right then again to the right and after covering some distance she again turns to the right. Now in which direction is she facing?
+a) North  b) South  c) North-East  d) South-West
+16) One morning after sunrise, Amrit was standing facing a pole. The shadow of the pole was forming on the left side. Which direction was Amrit facing?
+A. East B. West C. North D. South E. None of these
+17) One morning Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?
+a) East  b) West  c) North  d) South
+18) One evening before sunset Rekha and Hema were talking to each other face to face. If Hema's shadow was exactly to the right of Hema, which direction was Rekha facing?
+a) North  b) South  c) East  d) Data is inadequate
+19) If A x B means A is to the south of B; A + B means A is to the north of B; A % B means A is to the east of B; A - B means A is to the west of B; then in P % Q + R - S, S is in which direction with respect to Q? 
+A. South-West  B. South-East  	C. North-East  D. North-West
+20) If A@B means ‘B is west of A’, A#B means ‘A is south of B’, A%B means ‘A is east of B’ and A&B means ‘A is north of B’. Then what is the direction of P with respect of R in the given expression- P % Q # S @ R
+(a) North     (b) South	     (c) North- East     (d) South- East
+
+
+answers-
+
+1) 27 m, South
+2) South
+3) 80 km
+4) 48
+5) South-East
+6) South
+7) North-West
+8) North-East
+9) South-East
+10) South-West
+11) 27 feet
+12) 13 km
+13) 30 m West
+14) 3 km
+15) South-East
+16) West
+17) East
+18) North
+19) South-East
+20) South-East
