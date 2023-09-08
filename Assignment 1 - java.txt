@@ -1,0 +1,89 @@
+# Assignment Questions 1
+
+<aside>
+💡 **Q1.What is the difference between Compiler and Interpreter**
+
+</aside>
+
+<aside>
+💡 **Q2.What is the difference between JDK, JRE, and JVM?**
+
+</aside>
+
+<aside>
+💡 **Q3.How many types of memory areas are allocated by JVM?**
+
+</aside>
+
+<aside>
+💡 **Q4.What is JIT compiler?**
+
+</aside>
+
+<aside>
+💡 **Q5.What are the various access specifiers in Java?**
+
+</aside>
+
+<aside>
+💡 **Q6.What is a compiler in Java?**
+
+</aside>
+
+<aside>
+💡 **Q7.Explain the types of variables in Java?**
+
+</aside>
+
+<aside>
+💡 **Q8.What are the Datatypes in Java?**
+
+</aside>
+
+<aside>
+💡 **Q9.What are the identifiers in java?**
+
+</aside>
+
+<aside>
+💡 **Q10.Explain the architecture of JVM**
+
+</aside>
+
+answers-
+
+1. **Difference between Compiler and Interpreter:**
+   - Compiler translates the entire source code into machine code at once, whereas an interpreter translates and executes the source code line by line.
+   - Compiler generates an intermediate machine code or executable file, while an interpreter does not produce any intermediate code.
+   - Compiler typically provides faster execution as it translates the entire code upfront, but debugging can be challenging. Interpreters are slower but offer better debugging capabilities.
+
+2. **Difference between JDK, JRE, and JVM:**
+   - JDK (Java Development Kit) is a software package that includes the tools necessary for developing and running Java applications.
+   - JRE (Java Runtime Environment) is a subset of JDK and is required for running Java applications. It includes the JVM, class libraries, and other runtime components.
+   - JVM (Java Virtual Machine) is responsible for executing Java bytecode. It is part of both JDK and JRE and varies based on the platform.
+
+3. **Types of Memory Areas Allocated by JVM:**
+   - JVM allocates memory in various areas, including the Method Area, Heap, Stack, PC Register, and Native Method Stack.
+
+4. **JIT Compiler:**
+   - JIT (Just-In-Time) Compiler is part of the JVM that compiles Java bytecode into native machine code at runtime. This compilation is done on a method-by-method basis, improving the execution speed of Java programs.
+
+5. **Access Specifiers in Java:**
+   - Java has four access specifiers: public, private, protected, and default (no modifier).
+   - These specifiers control the visibility and accessibility of classes, methods, and variables in Java programs.
+
+6. **Compiler in Java:**
+   - In Java, a compiler is a software tool that translates the human-readable Java source code into bytecode, which is a low-level representation of the code. This bytecode can be executed by the Java Virtual Machine (JVM).
+
+7. **Types of Variables in Java:**
+   - In Java, variables can be classified as instance variables (belonging to an instance of a class), static variables (associated with a class itself), and local variables (declared within a method or block).
+
+8. **Data Types in Java:**
+   - Java has two categories of data types: primitive data types (int, char, double, etc.) and reference data types (classes, interfaces, arrays, etc.).
+
+9. **Identifiers in Java:**
+   - Identifiers in Java are used to name classes, methods, variables, and other program elements. They must follow specific naming rules and conventions.
+
+10. **Architecture of JVM:**
+    - JVM consists of various components, including the Class Loader, Memory Area, Execution Engine, Native Interface, and Java Native Interface (JNI). It loads, verifies, and executes Java bytecode.
+
